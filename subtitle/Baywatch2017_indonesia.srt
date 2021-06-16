@@ -4,7 +4,7 @@ isb388
 
 2
 00:01:03,212 --> 00:01:07,523
-<font color="#00ffff">PENYELAMATAN</font>
+<font color="#00ffff">PENYELAMATAN IKAN</font>
 
 3
 00:01:45,212 --> 00:01:49,423
