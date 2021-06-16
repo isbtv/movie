@@ -1,0 +1,5628 @@
+1
+00:00:00,100 --> 00:00:10,099
+ISB888
+
+2
+00:00:10,124 --> 00:00:20,123
+ISB888
+
+3
+00:00:20,147 --> 00:00:30,147
+ISB888
+
+4
+00:00:30,172 --> 00:00:40,171
+ISB888
+
+5
+00:01:04,897 --> 00:01:06,650
+<i>Aku tahu yang ada dalam benakmu.</i>
+
+6
+00:01:07,442 --> 00:01:09,486
+<i>Pengembara sendirian.</i>
+
+7
+00:01:09,944 --> 00:01:11,822
+<i>Dunia distopia.</i>
+
+8
+00:01:11,989 --> 00:01:14,533
+<i>Negeri yang tandus.</i>
+
+9
+00:01:15,242 --> 00:01:18,036
+<i>Bagaimana dunia
+bisa hancur seperti ini?</i>
+
+10
+00:01:19,370 --> 00:01:22,832
+<i>Semua bermula 500 tahun yang lalu.</i>
+
+11
+00:01:24,793 --> 00:01:26,545
+<i>Kumandra.</i>
+
+12
+00:01:28,129 --> 00:01:30,382
+<i>Kami dulu seperti ini.</i>
+
+13
+00:01:30,549 --> 00:01:32,009
+<i>Saat negeri kami masih utuh,...</i>
+
+14
+00:01:32,091 --> 00:01:34,844
+<i>...dan kami hidup harmonis bersama...</i>
+
+15
+00:01:36,054 --> 00:01:37,139
+<i>...naga.</i>
+
+16
+00:01:37,305 --> 00:01:38,640
+<i>Makhluk ajaib yang menyediakan...</i>
+
+17
+00:01:38,723 --> 00:01:42,311
+<i>...air, hujan, dan kedamaian.</i>
+
+18
+00:01:43,561 --> 00:01:46,189
+<i>Bagaikan surga.</i>
+
+19
+00:01:46,355 --> 00:01:48,901
+<i>Namun, Druun datang.</i>
+
+20
+00:01:51,277 --> 00:01:54,740
+<i>Wabah berbahaya
+yang menyebar seperti api,...</i>
+
+21
+00:01:54,906 --> 00:01:56,533
+<i>...berlipat ganda seraya
+menelan kehidupan...</i>
+
+22
+00:01:56,616 --> 00:02:00,037
+<i>...dan mengubah semua orang
+yang disentuhnya menjadi batu.</i>
+
+23
+00:02:01,120 --> 00:02:03,456
+<i>Para naga berjuang
+sebisa mungkin,...</i>
+
+24
+00:02:05,417 --> 00:02:07,668
+<i>...tapi itu tak cukup.</i>
+
+25
+00:02:09,295 --> 00:02:11,131
+<i>Saat itulah Sisudatu Perkasa,...</i>
+
+26
+00:02:11,340 --> 00:02:12,674
+<i>...naga terakhir,...</i>
+
+27
+00:02:12,758 --> 00:02:15,676
+<i>...memusatkan semua sihirnya
+menjadi permata dan...</i>
+
+28
+00:02:21,265 --> 00:02:23,560
+<i>...memusnahkan para Druun.</i>
+
+29
+00:02:24,603 --> 00:02:26,938
+<i>Setiap orang yang berubah
+menjadi batu kembali.</i>
+
+30
+00:02:27,897 --> 00:02:30,817
+<i>Kecuali para naga.</i>
+
+31
+00:02:34,111 --> 00:02:36,740
+<i>Yang tersisa dari Sisu
+hanyalah permatanya.</i>
+
+32
+00:02:36,990 --> 00:02:40,076
+<i>Seharusnya terjadi momen menginspirasi,...</i>
+
+33
+00:02:40,243 --> 00:02:42,579
+<i>...di mana umat manusia
+bersatu atas pengorbanannya.</i>
+
+34
+00:02:42,746 --> 00:02:45,790
+<i>Namun sebaliknya,
+manusia bertindak layaknya manusia,..</i>
+
+35
+00:02:45,957 --> 00:02:47,835
+<i>...mereka bertempur demi mendapatkan...</i>
+
+36
+00:02:47,918 --> 00:02:50,211
+<i>...sisa-sisa sihir dari naga terakhir.</i>
+
+37
+00:02:51,420 --> 00:02:54,299
+<i>Perbatasan tercipta,
+Kumandra terpecah.</i>
+
+38
+00:02:55,008 --> 00:02:58,135
+<i>Kami menjadi bermusuhan,
+dan permatanya harus disembunyikan.</i>
+
+39
+00:02:59,304 --> 00:03:01,514
+<i>Tapi bukan begitu
+cara dunia hancur.</i>
+
+40
+00:03:01,889 --> 00:03:05,102
+<i>Itu tidak benar-benar terjadi
+sampai 500 tahun kemudian,...</i>
+
+41
+00:03:05,727 --> 00:03:07,312
+<i>...ketika aku terlahir ke dalam cerita.</i>
+
+42
+00:03:18,949 --> 00:03:22,550
+ISB888
+
+43
+00:03:50,062 --> 00:03:51,063
+
+
+44
+00:04:06,288 --> 00:04:07,288
+
+
+45
+00:04:07,580 --> 00:04:09,332
+Nampaknya ada yang berusaha
+menjadi pintar.
+
+46
+00:04:12,627 --> 00:04:13,753
+Baik, Tuk Tuk,...
+
+47
+00:04:13,836 --> 00:04:15,588
+...tunjukkan seperti apa pintar itu.
+
+48
+00:04:26,057 --> 00:04:27,141
+Tuk tuk!
+
+49
+00:04:27,850 --> 00:04:28,894
+Ayolah!
+
+50
+00:04:29,019 --> 00:04:30,019
+Fokus!
+
+51
+00:04:32,064 --> 00:04:33,064
+Terima kasih.
+
+52
+00:04:37,944 --> 00:04:40,404
+Hei, kawan, itu luar biasa.
+Ayo tos.
+
+53
+00:04:42,240 --> 00:04:43,742
+Kubantu.
+
+54
+00:05:28,870 --> 00:05:29,872
+Wow.
+
+55
+00:05:34,042 --> 00:05:35,127
+Tunggu sebentar.
+
+56
+00:05:38,379 --> 00:05:40,257
+Rasanya terlalu mudah.
+
+57
+00:05:42,675 --> 00:05:44,343
+Ketua Benja.
+
+58
+00:05:44,887 --> 00:05:47,430
+Aku tahu tugasmu
+mencoba menghentikanku,...
+
+59
+00:05:47,973 --> 00:05:49,141
+...tapi kau takkan mampu.
+
+60
+00:05:49,307 --> 00:05:51,976
+Jangan salah membedakan
+semangat dengan keahlian, Anak muda.
+
+61
+00:05:52,144 --> 00:05:53,687
+Kuyakinkan kau takkan
+injakkan kakimu...
+
+62
+00:05:53,769 --> 00:05:55,730
+...ke dalam lingkaran Permata Naga.
+
+63
+00:05:56,064 --> 00:05:57,316
+Bahkan satu jari pun.
+
+64
+00:05:57,649 --> 00:05:59,610
+Kau mungkin ingin
+mengeluarkan pedang itu.
+
+65
+00:05:59,692 --> 00:06:00,694
+Kau akan membutuhkannya.
+
+66
+00:06:01,028 --> 00:06:02,028
+Tidak hari ini.
+
+67
+00:06:37,605 --> 00:06:38,606
+
+
+68
+00:06:39,024 --> 00:06:42,819
+Seperti kataku,
+tidak satu jari pun.
+
+69
+00:06:43,653 --> 00:06:45,154
+Kau kalah, Raya.
+
+70
+00:06:45,738 --> 00:06:46,740
+Masa?
+
+71
+00:06:50,034 --> 00:06:51,327
+Raya..
+
+72
+00:06:51,495 --> 00:06:53,454
+Mungkin harusnya
+kubilang dua jari kaki.
+
+73
+00:06:53,622 --> 00:06:56,792
+Jangan terlalu salahkan dirimu,
+Ketua Benja.
+
+74
+00:06:56,959 --> 00:06:58,627
+Kau sudah lakukan yang terbaik.
+
+75
+00:06:58,752 --> 00:07:00,420
+Tidak akan.
+
+76
+00:07:00,504 --> 00:07:03,089
+Dan panggil aku "Ayah"
+atau "Ba."
+
+77
+00:07:04,048 --> 00:07:07,636
+Kau hebat, Embun.
+Kau lolos tes.
+
+78
+00:07:10,848 --> 00:07:12,307
+Wow.
+
+79
+00:07:13,307 --> 00:07:15,894
+Roh Sisu.
+
+80
+00:07:23,610 --> 00:07:27,363
+Sejak dahulu, keluarga kita
+telah bersumpah untuk melindungi permata.
+
+81
+00:07:28,322 --> 00:07:31,994
+Hari ini, kau akan terlibat
+dalam warisan itu.
+
+82
+00:07:32,995 --> 00:07:37,582
+Raya, Putri Hati, anakku,...
+
+83
+00:07:38,165 --> 00:07:41,295
+...kini kau seorang
+Penjaga Permata Naga.
+
+84
+00:08:25,338 --> 00:08:26,757
+Wow.
+
+85
+00:08:27,925 --> 00:08:29,259
+Ada yang bersemangat.
+
+86
+00:08:29,425 --> 00:08:30,677
+Tentu saja!
+
+87
+00:08:30,843 --> 00:08:33,054
+Siapapun yang ingin
+mencuri Permata Naga...
+
+88
+00:08:33,138 --> 00:08:34,639
+...kini harus hadapi amarah...
+
+89
+00:08:34,806 --> 00:08:38,268
+...dua orang terhebat
+di penjuru negeri.
+
+90
+00:08:38,351 --> 00:08:40,854
+Aku senang kau merasa siap, Embun,...
+
+91
+00:08:41,020 --> 00:08:43,565
+...karena ada hal penting
+yang ingin kukatakan.
+
+92
+00:08:43,731 --> 00:08:46,692
+Negeri-negeri lain sedang
+menuju ke sini sekarang juga.
+
+93
+00:08:46,860 --> 00:08:48,361
+Sungguh?
+
+94
+00:08:48,778 --> 00:08:49,904
+Baik.
+
+95
+00:08:50,072 --> 00:08:52,573
+Kita bisa melakukannya.
+Aku siap.
+
+96
+00:08:52,740 --> 00:08:54,784
+Aku tahu persis
+cara menghentikan mereka.
+
+97
+00:08:54,951 --> 00:08:57,788
+Masa? Katakan apa yang kau tahu
+tentang negeri yang lainnya.
+
+98
+00:08:58,120 --> 00:08:59,748
+Pertama.. Ekor.
+
+99
+00:08:59,914 --> 00:09:02,750
+<i>Gurun terik dengan tentara bayaran licik...</i>
+
+100
+00:09:02,835 --> 00:09:04,711
+<i>...yang bertarung kotor.</i>
+
+101
+00:09:04,878 --> 00:09:06,171
+<i>Kedua, Cakar.</i>
+
+102
+00:09:06,337 --> 00:09:08,673
+<i>Pasar terapung yang
+terkenal dengan jual beli cepat...</i>
+
+103
+00:09:08,756 --> 00:09:10,551
+<i>...dan petarung dengan
+tangan yang lebih cepat.</i>
+
+104
+00:09:12,134 --> 00:09:13,553
+<i>Ketiga, Tulang.</i>
+
+105
+00:09:13,720 --> 00:09:15,514
+<i>Hutan bambu dingin...</i>
+
+106
+00:09:15,681 --> 00:09:18,558
+<i>...yang dijaga oleh
+prajurit yang sangat besar,...</i>
+
+107
+00:09:18,642 --> 00:09:20,852
+<i>...dan kapak raksasa mereka.</i>
+
+108
+00:09:22,019 --> 00:09:25,231
+<i>Keempat, Taring.
+Musuh terberat kita.</i>
+
+109
+00:09:25,399 --> 00:09:27,567
+<i>Sebuah bangsa yang
+dilindungi oleh pembunuh garang...</i>
+
+110
+00:09:27,650 --> 00:09:29,778
+<i>...dan kucing mereka
+yang bahkan lebih garang.</i>
+
+111
+00:09:32,780 --> 00:09:33,782
+Baik,...
+
+112
+00:09:33,865 --> 00:09:37,201
+...kita akan butuh busur dan pelontar..
+
+113
+00:09:37,286 --> 00:09:40,371
+Bagaimana dengan pelontar berapi?
+
+114
+00:09:40,538 --> 00:09:44,625
+Atau bagaimana
+dengan terasi dari Ekor,...
+
+115
+00:09:44,793 --> 00:09:48,087
+...serai dari Cakar,
+rebung dari Tulang,...
+
+116
+00:09:48,254 --> 00:09:51,508
+...cabai dari Taring dan
+gula aren dari Hati?
+
+117
+00:09:51,674 --> 00:09:53,051
+Kita akan racuni mereka?
+
+118
+00:09:53,217 --> 00:09:55,721
+Tidak, kita takkan meracuni mereka...
+
+119
+00:09:55,803 --> 00:09:57,389
+...dan kita takkan melawan mereka.
+
+120
+00:09:57,556 --> 00:09:59,182
+Kita akan berbagi makanan
+dengan mereka.
+
+121
+00:09:59,349 --> 00:10:01,643
+Tunggu, apa?
+/ Kuundang mereka.
+
+122
+00:10:01,809 --> 00:10:02,977
+Tapi mereka musuh kita.
+
+123
+00:10:03,144 --> 00:10:04,395
+Mereka musuh kita...
+
+124
+00:10:04,562 --> 00:10:06,440
+...karena mereka pikir
+Permata Naga...
+
+125
+00:10:06,523 --> 00:10:08,192
+...secara ajaib memberi
+kita kemakmuran.
+
+126
+00:10:08,357 --> 00:10:10,527
+Itu konyol.
+Permata tidak bisa begitu.
+
+127
+00:10:10,693 --> 00:10:12,236
+Mereka berasumsi bisa,...
+
+128
+00:10:12,321 --> 00:10:14,572
+...sama seperti kita berasumsi
+tentang mereka.
+
+129
+00:10:15,490 --> 00:10:17,618
+Raya, ada alasan kenapa setiap negeri...
+
+130
+00:10:17,701 --> 00:10:20,245
+...dinamai dari bagian naga.
+
+131
+00:10:20,412 --> 00:10:23,999
+Dulu kita bersatu.
+Harmonis sebagai satu kesatuan.
+
+132
+00:10:24,081 --> 00:10:25,082
+Kumandra.
+
+133
+00:10:25,458 --> 00:10:27,336
+Itu sejarah kuno, Ba.
+
+134
+00:10:27,586 --> 00:10:29,546
+Namun tidak harus seperti itu.
+
+135
+00:10:29,712 --> 00:10:31,465
+Dengar, jika kita tidak berhenti...
+
+136
+00:10:31,548 --> 00:10:33,759
+...dan belajar untuk
+memercayai sesama lagi,...
+
+137
+00:10:33,926 --> 00:10:35,052
+...tak butuh waktu lama...
+
+138
+00:10:35,134 --> 00:10:37,178
+...bagi kita untuk saling membinasakan.
+
+139
+00:10:37,803 --> 00:10:41,225
+Ini bukanlah dunia
+yang aku ingin kau tinggali.
+
+140
+00:10:43,184 --> 00:10:46,562
+Aku percaya kita bisa
+menjadi Kumandra lagi.
+
+141
+00:10:46,730 --> 00:10:49,441
+Tapi seseorang harus
+mengambil langkah pertama.
+
+142
+00:10:53,028 --> 00:10:54,196
+Percaya padaku.
+
+143
+00:11:14,633 --> 00:11:16,426
+Keadaan sedikit tegang, Ba.
+
+144
+00:11:16,592 --> 00:11:18,678
+Jangan cemas, aku akan buka
+dengan lelucon.
+
+145
+00:11:18,846 --> 00:11:19,971
+Tolong jangan.
+
+146
+00:11:20,138 --> 00:11:21,431
+Aku bergurau.
+
+147
+00:11:22,975 --> 00:11:25,184
+Rakyat Ekor, Cakar,...
+
+148
+00:11:25,269 --> 00:11:27,729
+...Tulang, dan Taring,...
+
+149
+00:11:27,895 --> 00:11:29,773
+...selamat datang di Hati.
+
+150
+00:11:30,774 --> 00:11:33,317
+Sudah terlalu lama,
+kita telah bermusuhan,...
+
+151
+00:11:33,402 --> 00:11:35,696
+...tapi ini adalah hari yang baru.
+
+152
+00:11:36,153 --> 00:11:39,740
+Hari ini, kita bisa menjadi
+Kumandra sekali lagi.
+
+153
+00:11:41,368 --> 00:11:43,745
+Pidato yang bagus, Ketua Benja.
+
+154
+00:11:43,912 --> 00:11:45,538
+Tapi apa alasan
+sebenarnya kau datangkan kami?
+
+155
+00:11:45,621 --> 00:11:46,623
+Merampok kami?
+
+156
+00:11:46,831 --> 00:11:48,292
+Untuk apa dia merampok kita?
+
+157
+00:11:48,375 --> 00:11:50,626
+Negeri Hati sudah memiliki segalanya.
+
+158
+00:11:50,793 --> 00:11:53,129
+Mudah sekali mengungkit-ungkit Kumandra...
+
+159
+00:11:53,297 --> 00:11:55,173
+...saat kau yang menyimpan
+senjata terkuat.
+
+160
+00:11:56,341 --> 00:11:59,344
+Permata itu bukan senjata.
+Itu adalah peninggalan suci.
+
+161
+00:11:59,510 --> 00:12:02,181
+Kumandra!
+Kumandra adalah lelucon!
+
+162
+00:12:02,639 --> 00:12:03,932
+Dia membawa kita jauh-jauh...
+
+163
+00:12:04,015 --> 00:12:05,767
+...untuk membahas dongeng.
+
+164
+00:12:05,933 --> 00:12:07,269
+Ini tak ada gunanya!
+
+165
+00:12:15,152 --> 00:12:16,611
+Ada yang ingin kukatakan.
+
+166
+00:12:21,490 --> 00:12:22,618
+Siapa yang lapar?
+
+167
+00:12:25,120 --> 00:12:26,120
+
+
+168
+00:12:29,457 --> 00:12:30,875
+Sana. Tak apa.
+
+169
+00:12:36,005 --> 00:12:38,258
+Aku Namaari, dari Taring.
+
+170
+00:12:38,549 --> 00:12:41,470
+Hai, Namaari. Aku Raya.
+
+171
+00:12:42,803 --> 00:12:43,889
+Apa itu Sisu?
+
+172
+00:12:45,640 --> 00:12:47,392
+Maaf, ya,...
+
+173
+00:12:47,475 --> 00:12:50,187
+...aku mungkin sedikit
+kutu buku soal naga.
+
+174
+00:12:50,354 --> 00:12:53,440
+Akulah yang memakai kalung Sisu.
+
+175
+00:12:53,856 --> 00:12:55,024
+Ayo.
+
+176
+00:12:55,484 --> 00:12:56,610
+Kau sudah makan?
+
+177
+00:13:04,033 --> 00:13:06,160
+Sungguh?
+
+178
+00:13:06,245 --> 00:13:08,080
+Ibumu sungguh mengatakan itu?
+
+179
+00:13:08,621 --> 00:13:11,041
+Canggung.
+Baik, pertanyaan selanjutnya.
+
+180
+00:13:11,207 --> 00:13:13,293
+Adu tangan atau pedang?
+
+181
+00:13:13,793 --> 00:13:16,004
+Tentu saja pedang.
+/ Benar?
+
+182
+00:13:16,171 --> 00:13:18,423
+Bergaya atau kasual?
+
+183
+00:13:18,590 --> 00:13:19,924
+Hanya monster yang memilih...
+
+184
+00:13:20,008 --> 00:13:21,509
+...untuk memakai ini
+dalam kesehariannya.
+
+185
+00:13:22,677 --> 00:13:24,428
+Nasi atau rebusan?
+
+186
+00:13:26,264 --> 00:13:28,100
+Tak kukira itu
+akan membingungkanmu.
+
+187
+00:13:28,267 --> 00:13:30,936
+Ini sebenarnya kali pertama...
+
+188
+00:13:31,019 --> 00:13:32,062
+...aku memakan nasi
+sejak lama.
+
+189
+00:13:32,937 --> 00:13:33,938
+Sungguh?
+
+190
+00:13:34,105 --> 00:13:36,774
+Taring mungkin terlihat
+bagus di luar,...
+
+191
+00:13:36,942 --> 00:13:40,028
+...tapi ada lubang
+yang cukup besar di dalamnya.
+
+192
+00:13:40,403 --> 00:13:41,404
+
+
+193
+00:13:41,738 --> 00:13:44,032
+Maaf. Aku tak bermaskud mengungkitnya.
+
+194
+00:13:44,198 --> 00:13:45,701
+Jadi, sampai di mana kita?
+
+195
+00:13:45,868 --> 00:13:47,119
+Kita punya satu orang tua...
+
+196
+00:13:47,201 --> 00:13:48,828
+...yang buruk dalam berkelakar.
+
+197
+00:13:48,995 --> 00:13:50,581
+Kita wanita pejuang...
+
+198
+00:13:50,663 --> 00:13:52,331
+...yang benci pakaian formal
+tak nyaman.
+
+199
+00:13:52,499 --> 00:13:53,959
+Dan kita penggemar berat Sisu.
+
+200
+00:13:54,125 --> 00:13:55,251
+Ya.
+
+201
+00:13:55,918 --> 00:14:00,131
+Legenda Taring mengatakan
+bahwa ia masih di luar sana.
+
+202
+00:14:00,298 --> 00:14:02,967
+Sisu? Kau bergurau, 'kan?
+
+203
+00:14:03,134 --> 00:14:04,927
+Mau melihat sesuatu?
+
+204
+00:14:05,011 --> 00:14:07,264
+Apa kau seharusnya menyimpan itu?
+
+205
+00:14:07,431 --> 00:14:08,599
+Tidak.
+
+206
+00:14:08,764 --> 00:14:09,850
+Berdasarkan peta ini,...
+
+207
+00:14:10,808 --> 00:14:14,395
+...setelah Sisu Perkasa
+membinasakan semua Druun,...
+
+208
+00:14:14,562 --> 00:14:17,566
+...dia jatuh ke dalam air dan
+mengambang ke hilir.
+
+209
+00:14:17,732 --> 00:14:20,903
+Legenda mengatakan
+dia sekarang tertidur di ujung sungai.
+
+210
+00:14:21,068 --> 00:14:24,030
+Tapi sungai yang mana?
+Ada sekitar ratusan.
+
+211
+00:14:24,114 --> 00:14:25,115
+Entahlah.
+
+212
+00:14:25,240 --> 00:14:28,619
+Tapi jika kita temukan,
+bisa bayangkan?
+
+213
+00:14:28,784 --> 00:14:30,870
+Seekor naga kembali ke dunia.
+
+214
+00:14:31,455 --> 00:14:34,332
+Segalanya bisa membaik.
+
+215
+00:14:35,834 --> 00:14:36,835
+Ya.
+
+216
+00:14:37,711 --> 00:14:41,005
+Mungkin kita bisa
+menjadi Kumandra lagi.
+
+217
+00:14:46,177 --> 00:14:47,221
+Ambil ini.
+
+218
+00:14:48,221 --> 00:14:49,222
+Wow.
+
+219
+00:14:49,306 --> 00:14:50,307
+Sungguh?
+
+220
+00:14:50,640 --> 00:14:53,268
+Dari sesama kutu buku naga.
+
+221
+00:14:56,437 --> 00:14:57,438
+
+
+222
+00:15:00,650 --> 00:15:01,652
+Hei.
+
+223
+00:15:01,735 --> 00:15:04,947
+Ikut denganku, <i>dep la.</i>
+Aku ingin tunjukkan sesuatu.
+
+224
+00:15:26,634 --> 00:15:30,179
+Roh Sisu.
+Aku bisa merasakannya.
+
+225
+00:15:30,721 --> 00:15:31,889
+Sisa-sisa terakhir
+sihir naga...
+
+226
+00:15:31,974 --> 00:15:34,017
+...yang ada di seluruh dunia.
+
+227
+00:15:35,309 --> 00:15:37,937
+Aku mengerti
+kenapa Hati sangat menjaganya.
+
+228
+00:15:38,605 --> 00:15:42,650
+Terima kasih, <i>dep la</i>.
+Kau sangat membantu.
+
+229
+00:15:45,236 --> 00:15:48,282
+Di dunia yang berbeda,
+mungkin kita bisa berteman,...
+
+230
+00:15:48,447 --> 00:15:50,533
+...tapi aku harus lakukan
+yang terbaik untuk Taring.
+
+231
+00:16:14,057 --> 00:16:17,936
+Ketua Virana, aku senang sekali
+Taring menerima undangan kami.
+
+232
+00:16:25,485 --> 00:16:26,485
+
+
+233
+00:16:29,114 --> 00:16:31,575
+Kau tidak boleh mengambil permata Sisu.
+
+234
+00:16:32,158 --> 00:16:34,912
+Maaf. Itu kini milik Taring.
+
+235
+00:16:53,596 --> 00:16:57,392
+Kau takkan injakkan kakimu
+di lingkaran Permata Naga.
+
+236
+00:16:57,475 --> 00:16:58,476
+Apa yang terjadi?
+
+237
+00:16:58,559 --> 00:16:59,644
+Apa ini?
+
+238
+00:16:59,811 --> 00:17:01,062
+Taring mengincar permata itu!
+
+239
+00:17:01,230 --> 00:17:02,648
+Tidak! Tulang yang harus
+pegang permatanya!
+
+240
+00:17:02,813 --> 00:17:04,148
+Tidak jika kami dulu yang ambil!
+
+241
+00:17:04,316 --> 00:17:05,817
+Pedang kami berkata berbeda.
+
+242
+00:17:13,784 --> 00:17:14,910
+Dengar aku!
+
+243
+00:17:15,076 --> 00:17:16,411
+Kita punya pilihan.
+
+244
+00:17:16,577 --> 00:17:18,955
+Kita bisa saling memecah belah,...
+
+245
+00:17:19,122 --> 00:17:23,292
+...atau kita bisa bersatu
+dan membangun dunia yang lebih baik.
+
+246
+00:17:24,211 --> 00:17:26,087
+Belum terlambat.
+
+247
+00:17:26,255 --> 00:17:31,175
+Aku masih percaya
+kita bisa menjadi Kumandra lagi.
+
+248
+00:17:37,015 --> 00:17:38,016
+Ba!
+
+249
+00:17:38,182 --> 00:17:39,559
+Minggir!
+
+250
+00:17:39,768 --> 00:17:41,144
+Permata itu milik Tulang!
+
+251
+00:17:41,519 --> 00:17:42,980
+Beri aku permata itu!
+
+252
+00:17:49,236 --> 00:17:51,445
+Tidak.. Tidak..
+
+253
+00:18:08,588 --> 00:18:09,589
+Druun.
+
+254
+00:18:21,018 --> 00:18:22,310
+Masih ada sihir di dalamnya!
+
+255
+00:18:22,477 --> 00:18:23,686
+Ambil potongannya!
+/ Tidak!
+
+256
+00:18:29,902 --> 00:18:31,987
+Ba! Ayo, kita harus pergi.
+
+257
+00:18:39,912 --> 00:18:41,454
+Mereka tertahan oleh air.
+
+258
+00:18:41,622 --> 00:18:43,164
+Cepat! Menuju sungai!
+
+259
+00:18:47,294 --> 00:18:49,171
+Ba, bangun! Ayo!
+
+260
+00:18:49,337 --> 00:18:51,548
+Kumohon, kita harus terus jalan.
+
+261
+00:18:51,673 --> 00:18:52,673
+Bangun!
+
+262
+00:18:56,511 --> 00:18:58,555
+Ba! Kita tak ada waktu!
+
+263
+00:19:03,434 --> 00:19:05,520
+Berdiri! Aku akan tolong..
+
+264
+00:19:05,686 --> 00:19:07,689
+Raya, kau harus dengar.
+
+265
+00:19:07,772 --> 00:19:10,067
+Kau adalah Penjaga Permata Naga.
+
+266
+00:19:10,233 --> 00:19:11,692
+Ba, kenapa kau katakan ini?
+
+267
+00:19:13,528 --> 00:19:16,073
+Masih ada cahaya di dalam ini.
+Masih ada harapan.
+
+268
+00:19:16,240 --> 00:19:18,575
+Tidak! Kita bisa selamat bersama.
+
+269
+00:19:20,035 --> 00:19:21,827
+Kau baik-baik saja.
+
+270
+00:19:21,994 --> 00:19:24,914
+Raya. Jangan menyerah terhadap mereka.
+
+271
+00:19:27,625 --> 00:19:30,002
+Aku mencintaimu, Embun.
+
+272
+00:19:30,170 --> 00:19:31,171
+Ba?
+
+273
+00:19:31,337 --> 00:19:32,798
+Tidak!
+
+274
+00:19:52,108 --> 00:19:53,317
+Ba!
+
+275
+00:19:59,575 --> 00:20:00,701
+Ba.
+
+276
+00:20:20,723 --> 00:20:22,324
+<i>Ekor</i>
+
+277
+00:20:22,347 --> 00:20:25,748
+<i>Ekor
+Enam Tahun Kemudian</i>
+
+278
+00:21:33,335 --> 00:21:35,127
+Semoga ini tempatnya.
+
+279
+00:21:36,171 --> 00:21:37,881
+Wow!
+
+280
+00:21:37,964 --> 00:21:40,217
+Kau sedang apa,
+serangga besar?
+
+281
+00:21:40,424 --> 00:21:42,719
+Kawan, fokus.
+
+282
+00:21:42,885 --> 00:21:44,846
+Lihat ke depan, Tuk Tuk.
+
+283
+00:21:45,388 --> 00:21:46,722
+Anak pintar.
+
+284
+00:21:47,473 --> 00:21:48,933
+Kau begitu mudah teralihkan.
+
+285
+00:22:11,999 --> 00:22:13,750
+Kau terlalu besar untuk ini, Kawan.
+
+286
+00:22:26,096 --> 00:22:27,722
+Enam tahun pencarian...
+
+287
+00:22:27,806 --> 00:22:31,393
+...dan kita berakhir di kapal karam.
+
+288
+00:22:34,645 --> 00:22:36,565
+Bukan pertanda buruk, 'kan?
+
+289
+00:23:26,865 --> 00:23:28,366
+Sisudatu..
+
+290
+00:23:29,284 --> 00:23:30,576
+
+
+291
+00:23:30,661 --> 00:23:32,328
+Entah apa kau mendengarkan.
+
+292
+00:23:33,079 --> 00:23:36,500
+Aku telah mencari setiap sungai
+untuk menemukanmu,...
+
+293
+00:23:37,917 --> 00:23:40,962
+...dan kini aku tiba
+di sungai yang terakhir.
+
+294
+00:23:43,923 --> 00:23:46,844
+Dengar, kami sudah tidak banyak,...
+
+295
+00:23:48,302 --> 00:23:51,431
+...dan kami.. sungguh butuh bantuna.
+
+296
+00:23:53,767 --> 00:23:55,727
+Kalau boleh jujur,...
+
+297
+00:23:56,478 --> 00:23:58,438
+...aku sangat membutuhkan bantuanmu.
+
+298
+00:24:00,315 --> 00:24:02,692
+Aku berbuat salah.
+
+299
+00:24:02,859 --> 00:24:05,194
+Aku percaya seseorang
+yang tak seharusnya dipercaya,...
+
+300
+00:24:06,864 --> 00:24:08,699
+...dan kini dunia hancur.
+
+301
+00:24:12,952 --> 00:24:14,413
+Sisudatu...
+
+302
+00:24:16,330 --> 00:24:20,169
+Aku hanya ingin sekali
+ba-ku kembali.
+
+303
+00:24:22,421 --> 00:24:24,047
+Kumohon.
+
+304
+00:24:33,432 --> 00:24:34,432
+Baik...
+
+305
+00:24:38,854 --> 00:24:41,105
+Kita coba.
+
+306
+00:24:43,608 --> 00:24:45,943
+<i>Suvaa de draa sim</i>
+
+307
+00:24:46,737 --> 00:24:49,072
+<i>Mandra de draa lim</i>
+
+308
+00:24:50,073 --> 00:24:53,785
+<i>Bavaa de draa Tomben</i>
+
+309
+00:25:16,098 --> 00:25:18,101
+Aku tahu, Kawan,
+aku belum lupa..
+
+310
+00:25:35,743 --> 00:25:37,496
+Ya ampun.. Aku di mana?
+
+311
+00:25:37,663 --> 00:25:41,290
+Pengu? Amba? Pranee?
+Kalian di sini?
+
+312
+00:25:41,458 --> 00:25:42,459
+Oh, Sisu Perkasa.
+
+313
+00:25:42,625 --> 00:25:43,961
+Siapa yang bicara?
+
+314
+00:25:45,378 --> 00:25:46,505
+Halo?
+
+315
+00:25:48,298 --> 00:25:49,298
+Halo?
+
+316
+00:25:49,383 --> 00:25:51,259
+
+
+317
+00:25:51,343 --> 00:25:53,010
+Maafkan aku.
+Aku tak melihatmu.
+
+318
+00:25:53,095 --> 00:25:54,721
+Tak terlalu buruk.
+Cuma sedikit berdebu.
+
+319
+00:25:54,805 --> 00:25:56,138
+Biar kubersihkan.
+
+320
+00:25:56,222 --> 00:25:57,348
+Sisu?
+
+321
+00:25:57,891 --> 00:26:01,060
+Kau Sisu?
+
+322
+00:26:01,228 --> 00:26:03,145
+Dan kau manusia.
+
+323
+00:26:03,313 --> 00:26:04,397
+Siapa namamu?
+
+324
+00:26:04,480 --> 00:26:05,481
+Raya. Aku Raya.
+
+325
+00:26:05,648 --> 00:26:08,902
+Dan kau tidak terbuat dari batu,
+artinya..
+
+326
+00:26:08,986 --> 00:26:09,987
+Berhasil!
+
+327
+00:26:10,069 --> 00:26:11,070
+Kita berhasil!
+
+328
+00:26:11,153 --> 00:26:13,155
+Kau dengar itu, Pengu?
+Berhasil!
+
+329
+00:26:13,323 --> 00:26:14,657
+Aku tak mengacaukannya!
+
+330
+00:26:15,032 --> 00:26:16,117
+Apa itu makanan?
+
+331
+00:26:16,285 --> 00:26:17,743
+Aku terlalu fokus
+menyelamatkan dunia,...
+
+332
+00:26:17,827 --> 00:26:19,078
+...sampai lupa sarapan hari ini.
+
+333
+00:26:19,453 --> 00:26:20,663
+Hari ini?
+
+334
+00:26:20,830 --> 00:26:23,000
+Kapan tepatnya
+menurutmu hari ini?
+
+335
+00:26:23,165 --> 00:26:24,167
+Selasa.
+
+336
+00:26:25,669 --> 00:26:27,378
+Maksudku..
+
+337
+00:26:27,546 --> 00:26:29,756
+Apa suguhan kuliner
+yang enak ini?
+
+338
+00:26:29,923 --> 00:26:34,260
+Itu dendeng nangka.
+Aku yang keringkan sendiri.
+
+339
+00:26:34,427 --> 00:26:36,971
+Pujian untuk kokinya.
+
+340
+00:26:37,055 --> 00:26:38,455
+Mau habiskan ini, Skippy?
+
+341
+00:26:39,223 --> 00:26:40,224
+
+
+342
+00:26:40,308 --> 00:26:44,229
+Sisu, ada beberapa hal
+yang perlu kuceritakan padamu.
+
+343
+00:26:44,395 --> 00:26:45,396
+Oh, ya?
+
+344
+00:26:46,397 --> 00:26:47,857
+Kau memecahkannya?
+
+345
+00:26:49,276 --> 00:26:52,570
+Oh, ya ampun. Ini buruk.
+
+346
+00:26:52,738 --> 00:26:54,655
+Aku tertidur selama 500 tahun,...
+
+347
+00:26:54,823 --> 00:26:56,490
+...kau mengembalikan Druun,...
+
+348
+00:26:56,657 --> 00:26:58,035
+...dan saudara-saudariku
+tak ada yang kembali.
+
+349
+00:26:58,201 --> 00:26:59,536
+Kenapa mereka tak kembali?
+
+350
+00:26:59,702 --> 00:27:00,787
+Entahlah.
+
+351
+00:27:00,953 --> 00:27:02,288
+Dan juga, kau pecahkan permatanya!
+
+352
+00:27:02,455 --> 00:27:04,249
+Aku masih punya
+bagian besarnya.
+
+353
+00:27:04,415 --> 00:27:05,959
+Itu seharusnya membuatku lebih baik?
+
+354
+00:27:06,125 --> 00:27:08,252
+Jika kau kehilangan anak anjing,
+dan kubilang...
+
+355
+00:27:08,420 --> 00:27:10,130
+..."Kita masih punya
+bagian besarnya!"
+
+356
+00:27:10,297 --> 00:27:12,840
+Itu akan membuatmu lebih baik?
+
+357
+00:27:13,008 --> 00:27:14,675
+Tak bisakah
+kau buat lagi?
+
+358
+00:27:14,843 --> 00:27:16,678
+Aku tak bisa "buat lagi."
+
+359
+00:27:16,845 --> 00:27:18,721
+Tapi kau seekor naga.
+
+360
+00:27:19,431 --> 00:27:21,016
+Aku akan jujur denganmu.
+
+361
+00:27:21,182 --> 00:27:24,853
+Aku bukan naga yang terbaik.
+
+362
+00:27:25,019 --> 00:27:27,146
+Tapi kau menyelamatkan dunia.
+
+363
+00:27:27,314 --> 00:27:29,691
+Aku juga lakukan itu.
+Memang benar.
+
+364
+00:27:29,857 --> 00:27:31,317
+Tapi pernahkah kau kerja kelompok,...
+
+365
+00:27:31,401 --> 00:27:32,402
+...tapi ada satu anak,...
+
+366
+00:27:32,486 --> 00:27:33,569
+...yang sedikit kerja,...
+
+367
+00:27:33,653 --> 00:27:35,905
+...tapi tetap dapat nilai yang sama?
+
+368
+00:27:36,740 --> 00:27:39,535
+Ya, bukan aku yang membuat permatanya.
+
+369
+00:27:39,742 --> 00:27:41,662
+Aku hanya menyerahkannya.
+
+370
+00:27:43,788 --> 00:27:44,998
+Wow.
+
+371
+00:27:45,082 --> 00:27:47,084
+Kau bersinar.
+
+372
+00:27:47,166 --> 00:27:48,710
+Terima kasih.
+
+373
+00:27:48,876 --> 00:27:50,503
+Aku pakai lidah buaya
+dan lendir sungai untuk menjaga..
+
+374
+00:27:50,586 --> 00:27:52,297
+Tidak. Lihat!
+
+375
+00:27:52,506 --> 00:27:55,384
+Ini sihir adikku, Amba.
+
+376
+00:27:55,509 --> 00:27:56,676
+Aku bersinar!
+
+377
+00:27:56,844 --> 00:27:58,010
+Sihir adikmu?
+
+378
+00:27:58,220 --> 00:27:59,971
+Ya, setiap naga
+punya sihir yang unik.
+
+379
+00:28:00,137 --> 00:28:01,222
+Apa sihirmu?
+
+380
+00:28:01,390 --> 00:28:05,018
+Aku perenang yang andal.
+
+381
+00:28:05,769 --> 00:28:07,688
+Tunggu, kau menyentuh
+potongan permata ini...
+
+382
+00:28:07,770 --> 00:28:08,771
+...dan itu memberimu kekuatan.
+
+383
+00:28:08,939 --> 00:28:10,691
+Tahu artinya ini, 'kan?
+
+384
+00:28:10,857 --> 00:28:12,692
+Aku tak lagi butuh lampu malam?
+
+385
+00:28:12,776 --> 00:28:15,903
+Apa? Tidak! Kau masih terhubung
+dengan sihir permata,...
+
+386
+00:28:15,988 --> 00:28:17,321
+...artinya kau masih bisa pakai...
+
+387
+00:28:17,405 --> 00:28:18,406
+...untuk selamatkan dunia.
+
+388
+00:28:18,615 --> 00:28:20,116
+Jika kita bisa dapatkan
+potongan lainnya...
+
+389
+00:28:20,200 --> 00:28:21,576
+Aku bisa pasang lagi..
+/ ...kau bisa pasang lagi...
+
+390
+00:28:21,660 --> 00:28:23,327
+...dan menyingkirkan Druun!
+
+391
+00:28:23,953 --> 00:28:25,038
+Dan mengembalikan Ba-ku?
+
+392
+00:28:25,204 --> 00:28:27,374
+Dan mengembalikan
+seluruh Kumandra.
+
+393
+00:29:03,535 --> 00:29:04,536
+Putri Namaari,...
+
+394
+00:29:04,619 --> 00:29:06,413
+...negeri Ekor dipenuhi oleh Druun.
+
+395
+00:29:06,579 --> 00:29:08,874
+Anak Benja sudah pasti jadi batu di sini.
+
+396
+00:29:08,957 --> 00:29:11,792
+Mengambil gulungan naga
+tak berguna...
+
+397
+00:29:11,876 --> 00:29:13,670
+...tidak sebanding dengan risikonya.
+
+398
+00:29:17,965 --> 00:29:20,426
+Ada lagi yang meragukan
+kedatangan kita ke sini?
+
+399
+00:29:37,193 --> 00:29:38,862
+<i>Begini ceritanya.</i>
+
+400
+00:29:39,028 --> 00:29:40,697
+<i>Setelah permata pecah,
+masing-masing bagian...</i>
+
+401
+00:29:40,780 --> 00:29:42,699
+<i>...diambil oleh salah satu
+kepala dari lima negeri,...</i>
+
+402
+00:29:43,157 --> 00:29:46,537
+<i>Taring, Hati, Tulang, Cakar, dan Ekor.</i>
+
+403
+00:29:46,744 --> 00:29:48,204
+Lokasi kita sekarang.
+
+404
+00:29:50,582 --> 00:29:52,209
+Wow. Begitu banyak pertanyaan.
+
+405
+00:29:52,542 --> 00:29:54,711
+Pertama, kenapa aku memakai ini?
+
+406
+00:29:54,877 --> 00:29:57,588
+Kita tak ingin menarik perhatian.
+
+407
+00:29:57,881 --> 00:29:59,883
+Kau memilih topi yang tepat.
+
+408
+00:30:00,634 --> 00:30:01,884
+Kenapa berpikir
+ketua Tail ada di sini?
+
+409
+00:30:08,057 --> 00:30:11,519
+Karena tempat ini
+tidak memasang jebakan dengan sendirinya.
+
+410
+00:30:15,857 --> 00:30:17,192
+Tidak masuk akal.
+
+411
+00:30:17,358 --> 00:30:18,818
+Tak ada dari ini
+yang bisa mencegat Druun.
+
+412
+00:30:19,027 --> 00:30:21,445
+Bukan untuk Druun.
+Tapi manusia.
+
+413
+00:30:21,529 --> 00:30:22,614
+
+
+414
+00:30:32,082 --> 00:30:33,125
+Apa?
+
+415
+00:30:33,291 --> 00:30:35,042
+Kenapa menatapku begitu?
+
+416
+00:30:35,126 --> 00:30:37,336
+Tidak ada.
+
+417
+00:30:37,503 --> 00:30:39,589
+Aku hanya tak terbiasa
+melihat naga.
+
+418
+00:30:39,673 --> 00:30:42,593
+Terkesan, ya?
+Tunggu sampai kau lihat gaya punggungku.
+
+419
+00:30:42,759 --> 00:30:44,595
+Aku jempolan
+saat di perairan.
+
+420
+00:30:44,760 --> 00:30:46,555
+Punya keahlian renang yang gemilang.
+
+421
+00:30:46,721 --> 00:30:48,723
+Aku dahsyat saat air terciprat.
+
+422
+00:30:49,057 --> 00:30:52,853
+Aku sungguh hebat
+dalam renang, melalui ritme.
+
+423
+00:30:53,019 --> 00:30:54,020
+Aku mencoba bilang..
+
+424
+00:30:54,104 --> 00:30:55,146
+Aku hebat dalam berenang..
+
+425
+00:30:55,314 --> 00:30:57,191
+Aku perenang andal,
+itu yang kucoba..
+
+426
+00:30:57,356 --> 00:30:59,609
+Kita harus terus jalan.
+
+427
+00:31:04,865 --> 00:31:06,700
+Gawat!/ Apa? Ada apa?
+
+428
+00:31:06,866 --> 00:31:09,411
+Kita lupa membawa hadiah
+untuk ketua Ekor.
+
+429
+00:31:09,577 --> 00:31:10,828
+Maaf. Hadiah?
+
+430
+00:31:10,996 --> 00:31:12,455
+Ya. Hadiah yang mengatakan,...
+
+431
+00:31:12,538 --> 00:31:15,125
+..."Kau bisa memercayaiku,
+bisakah aku memercayaimu?"
+
+432
+00:31:17,294 --> 00:31:19,546
+Hei, kawan kecil.
+
+433
+00:31:20,713 --> 00:31:22,048
+Bokong kumbang ini bercahaya.
+
+434
+00:31:22,215 --> 00:31:24,384
+Hati-hati. Itu Toon N Boom.
+
+435
+00:31:24,550 --> 00:31:25,801
+Kenapa disebut..
+
+436
+00:31:29,347 --> 00:31:31,557
+Mengerti. Paham.
+Masuk akal.
+
+437
+00:31:37,564 --> 00:31:39,066
+
+
+438
+00:31:39,148 --> 00:31:40,150
+Kau harus akui,...
+
+439
+00:31:40,233 --> 00:31:41,777
+...bokong mereka imut.
+
+440
+00:31:50,076 --> 00:31:52,246
+Sepertinya kita menemukan ketua Ekor.
+
+441
+00:31:52,412 --> 00:31:53,788
+Kenapa dengannya?
+
+442
+00:31:53,955 --> 00:31:54,998
+Dari kelihatannya,...
+
+443
+00:31:55,164 --> 00:31:56,583
+...dia menyembunyikan permata itu...
+
+444
+00:31:56,666 --> 00:31:58,710
+...dan menjadi korban
+dari jebakannya sendiri.
+
+445
+00:31:58,876 --> 00:32:01,128
+Kau harus kagumi komitmennya.
+
+446
+00:32:05,217 --> 00:32:07,219
+Baik. Pegangan.
+
+447
+00:32:11,013 --> 00:32:13,099
+Oh, kita mau melompat!
+
+448
+00:32:13,267 --> 00:32:14,643
+Maaf. Salahku.
+
+449
+00:32:14,726 --> 00:32:16,769
+Aku paham sekarang.
+Aku ikut.
+
+450
+00:32:23,402 --> 00:32:24,486
+Sisu...
+
+451
+00:32:24,819 --> 00:32:26,028
+...jangan.
+
+452
+00:32:52,013 --> 00:32:53,557
+Dua sudah, tersisa tiga.
+
+453
+00:32:59,563 --> 00:33:02,023
+Aku baru saja berubah bentuk!
+Menjadi manusia!
+
+454
+00:33:02,191 --> 00:33:03,525
+Naga bisa melakukan itu?
+
+455
+00:33:03,692 --> 00:33:05,568
+Ini adalah sihir
+kakakku Pranee.
+
+456
+00:33:05,736 --> 00:33:08,404
+Lihat tangan manusiaku
+dan wajah manusiaku.
+
+457
+00:33:08,571 --> 00:33:10,656
+Lihat seberapa dekat
+bokong ke kepalaku.
+
+458
+00:33:11,200 --> 00:33:12,617
+Karena kau tak perlu
+sembunyikan aku lagi,...
+
+459
+00:33:12,784 --> 00:33:14,702
+...mendapatkan sisa permatanya
+akan mudah.
+
+460
+00:33:14,869 --> 00:33:17,122
+Ya, yang ini mudah,...
+
+461
+00:33:17,205 --> 00:33:18,664
+...tapi sisanya disimpan...
+
+462
+00:33:18,832 --> 00:33:21,792
+...oleh sekelompok
+binturi yang jahat.
+
+463
+00:33:21,960 --> 00:33:23,252
+Binturi?
+
+464
+00:33:23,545 --> 00:33:26,589
+Bukan cara yang bagus
+untuk menjelaskan teman lama.
+
+465
+00:33:29,425 --> 00:33:30,719
+Namaari.
+
+466
+00:33:30,885 --> 00:33:32,637
+Ada apa, <i>dep la</i>?
+
+467
+00:33:32,804 --> 00:33:35,390
+Bisa kulihat
+kau akhirnya punya teman baru.
+
+468
+00:33:35,557 --> 00:33:36,892
+Dan aku cemas...
+
+469
+00:33:36,974 --> 00:33:39,144
+...kau akan jadi
+pecinta kucing...
+
+470
+00:33:39,560 --> 00:33:40,561
+...sepertiku.
+
+471
+00:33:42,146 --> 00:33:43,898
+Firasatku
+kalian bukan sahabat.
+
+472
+00:33:44,066 --> 00:33:47,236
+Mencuri potongan Permata Naga, ya? Kenapa?
+
+473
+00:33:47,402 --> 00:33:50,113
+Aku harus bilang apa?
+Perhiasan adalah favoritku.
+
+474
+00:33:50,364 --> 00:33:51,365
+
+
+475
+00:33:51,448 --> 00:33:54,159
+Harus kuakui, Raya,
+sampai beberapa bulan lalu,...
+
+476
+00:33:54,326 --> 00:33:55,576
+...kupikir kau jadi batu.
+
+477
+00:33:55,661 --> 00:33:58,454
+Tapi kemudian, seseorang mencuri
+gulungan naga Taring.
+
+478
+00:33:58,622 --> 00:34:00,582
+Itu sebabnya kau mengejarku?
+
+479
+00:34:00,790 --> 00:34:03,125
+Dan kupikir kau di sini
+karena merindukanku.
+
+480
+00:34:05,503 --> 00:34:08,715
+Kau sungguh mencari Sisu?
+
+481
+00:34:10,300 --> 00:34:11,467
+Memangnya kau 12 tahun?
+
+482
+00:34:11,677 --> 00:34:14,221
+Ya, aku tadinya sebenarnya
+mencari Sisu.
+
+483
+00:34:14,387 --> 00:34:16,931
+Dan coba tebak?
+Sudah kutemukan dia.
+
+484
+00:34:18,432 --> 00:34:19,809
+Sapalah, Sisu.
+
+485
+00:34:19,893 --> 00:34:20,936
+Hai!
+
+486
+00:34:21,018 --> 00:34:22,311
+Senang bertemu denganmu,...
+
+487
+00:34:22,396 --> 00:34:26,108
+...dan aku suka rambutmu
+dan bulu kucingmu.
+
+488
+00:34:27,275 --> 00:34:28,402
+Tangkap mereka.
+
+489
+00:34:38,954 --> 00:34:39,954
+Lari!
+
+490
+00:34:43,291 --> 00:34:44,626
+Bukan seperti itu! Dua kaki!
+
+491
+00:34:44,710 --> 00:34:45,710
+Benar!
+
+492
+00:35:01,934 --> 00:35:03,269
+Tuk Tuk! Berguling!
+
+493
+00:35:06,356 --> 00:35:07,356
+Wow!
+
+494
+00:35:15,740 --> 00:35:16,742
+Lompat!
+
+495
+00:35:18,619 --> 00:35:19,661
+Siapa gadis itu?
+
+496
+00:35:19,786 --> 00:35:20,786
+Dia adalah Namaari.
+
+497
+00:35:20,954 --> 00:35:23,998
+Dia adalah binturi pengkhianat
+yang menghancurkan dunia.
+
+498
+00:35:32,465 --> 00:35:35,092
+Kucing-kucing itu cepat jugak, ya?
+
+499
+00:35:36,302 --> 00:35:38,262
+Apa persamaan kucing dan Druun?
+
+500
+00:35:38,347 --> 00:35:41,557
+Mereka tak berjiwa?
+
+501
+00:35:41,807 --> 00:35:44,061
+Mereka membenci air.
+
+502
+00:35:44,186 --> 00:35:45,646
+Pegangan!
+
+503
+00:35:58,617 --> 00:36:00,536
+Halo? Ada orang di sini?
+
+504
+00:36:04,664 --> 00:36:06,583
+Selamat datang di Shrimp-orium
+yang terkenal di dunia.
+
+505
+00:36:06,750 --> 00:36:08,918
+Namaku Boun.
+Aku akan jadi pelayanmu hari ini.
+
+506
+00:36:09,085 --> 00:36:10,628
+Ingin dengar menu spesial harian kami?
+
+507
+00:36:10,795 --> 00:36:11,880
+Mau!
+
+508
+00:36:11,963 --> 00:36:13,382
+Ada udang, bubur.
+
+509
+00:36:13,465 --> 00:36:15,384
+Bubur udang
+yang tiada habisnya.
+
+510
+00:36:15,550 --> 00:36:17,135
+Kapten.. Di mana kaptennya?
+
+511
+00:36:17,302 --> 00:36:18,594
+Biar kupanggil dia.
+
+512
+00:36:20,304 --> 00:36:22,014
+Ada apa, pelanggan baru?
+
+513
+00:36:22,181 --> 00:36:23,641
+Aku Kapten Boun,...
+
+514
+00:36:23,809 --> 00:36:26,436
+...pemilik, koki,
+dan kepala keuangan...
+
+515
+00:36:26,519 --> 00:36:28,146
+...dari Shrimp-orium.
+
+516
+00:36:28,230 --> 00:36:29,231
+Apa yang bisa kubantu?
+
+517
+00:36:29,313 --> 00:36:30,648
+Namaku Sisu dan..
+
+518
+00:36:30,815 --> 00:36:32,568
+Dan kita harus ke Cakar sekarang.
+
+519
+00:36:32,733 --> 00:36:35,112
+Maaf. Shrimp-orium
+bukan taksi air.
+
+520
+00:36:35,195 --> 00:36:37,239
+Toi, banyak sekali gioknya!
+
+521
+00:36:37,405 --> 00:36:40,242
+Separuh di sini, separuh lagi
+saat sampai ke Cakar. Sepakat?
+
+522
+00:36:41,076 --> 00:36:42,577
+Pegangan yang erat.
+
+523
+00:36:42,744 --> 00:36:44,454
+Menu spesial hari ini...
+
+524
+00:36:44,621 --> 00:36:45,621
+...dibawa pulang.
+
+525
+00:36:52,461 --> 00:36:54,840
+Kapten Boun?
+
+526
+00:36:54,922 --> 00:36:56,425
+Bisakah perahu ini lebih cepat?
+
+527
+00:36:58,385 --> 00:36:59,887
+Kau tak bilang
+sedang dikejar Taring!
+
+528
+00:37:00,052 --> 00:37:01,137
+Biayanya akan lebih mahal.
+
+529
+00:37:01,304 --> 00:37:02,514
+Jangan cemas, aku bisa.
+
+530
+00:37:03,681 --> 00:37:05,184
+Dia sedang apa?
+
+531
+00:37:15,568 --> 00:37:16,987
+Apa yang terjadi?
+
+532
+00:37:17,070 --> 00:37:19,114
+Temanku adalah
+perenang yang andal.
+
+533
+00:37:25,329 --> 00:37:27,039
+Dadah, Binturi.
+
+534
+00:37:29,916 --> 00:37:32,085
+Putri Namaari, jika mereka
+mengejar potongan permata,...
+
+535
+00:37:32,251 --> 00:37:33,878
+...pemberhentian mereka
+berikutnya adalah Cakar.
+
+536
+00:37:34,045 --> 00:37:35,588
+Kita tak perlu
+ikuti mereka ke Cakar.
+
+537
+00:37:35,755 --> 00:37:36,882
+Kita akan kembali ke Taring.
+
+538
+00:37:37,090 --> 00:37:38,842
+Aku perlu bicara
+dengan Ketua Virana.
+
+539
+00:37:42,398 --> 00:37:47,398
+ISB888
+
+540
+00:38:08,496 --> 00:38:10,206
+Sisu? Sisu?
+
+541
+00:38:10,791 --> 00:38:11,791
+
+
+542
+00:38:11,875 --> 00:38:13,418
+Tolong keluar dari sana.
+
+543
+00:38:13,585 --> 00:38:14,961
+Aku naga air.
+
+544
+00:38:15,128 --> 00:38:16,963
+Ini air. Keahlianku.
+
+545
+00:38:17,130 --> 00:38:18,340
+Kau ingin masuk?
+
+546
+00:38:18,507 --> 00:38:19,632
+Seseorang bisa melihatmu.
+
+547
+00:38:19,800 --> 00:38:22,510
+Maksudmu Kapten Pop and Lock di sana?
+
+548
+00:38:22,677 --> 00:38:23,846
+Kau takut...
+
+549
+00:38:23,929 --> 00:38:25,389
+...dia akan menantangku berdansa?
+
+550
+00:38:32,646 --> 00:38:35,731
+Sisu, aku melihat orang
+menjadi gila...
+
+551
+00:38:35,815 --> 00:38:36,817
+...karena Permata Naga.
+
+552
+00:38:36,983 --> 00:38:39,902
+Bisa bayangkan mereka bisa apa
+terhadap naga asli?
+
+553
+00:38:40,070 --> 00:38:42,322
+Kita harus bisa membuatmu berhasil.
+
+554
+00:38:42,489 --> 00:38:45,409
+Sampai semua potongan permata terkumpul,
+tetaplah jadi manusia.
+
+555
+00:38:45,492 --> 00:38:46,492
+Kumohon.
+
+556
+00:38:46,659 --> 00:38:48,286
+Wow, kau punya
+masalah kepercayaan.
+
+557
+00:38:48,494 --> 00:38:51,164
+Dengar, ayahku
+percaya orang secara buta,...
+
+558
+00:38:51,331 --> 00:38:53,583
+...dan kini, dia jadi batu.
+
+559
+00:38:54,293 --> 00:38:55,668
+Kita akan mengembalikan Ba-mu.
+
+560
+00:38:56,836 --> 00:38:58,713
+Aku membantumu.
+Siapa nagamu?
+
+561
+00:38:59,380 --> 00:39:02,925
+Maksudku, manusia.
+Karena aku akan jadi manusia sampai..
+
+562
+00:39:03,092 --> 00:39:04,094
+Ya, kau paham.
+
+563
+00:39:07,639 --> 00:39:09,016
+Baik, siapa yang lapar?
+
+564
+00:39:09,224 --> 00:39:10,224
+Aku.
+
+565
+00:39:10,391 --> 00:39:12,351
+Dua menu spesial.
+Mau seberapa pedas?
+
+566
+00:39:12,518 --> 00:39:14,980
+Pedas, lebih pedas,
+atau ledakan-pedas-Boun?
+
+567
+00:39:15,146 --> 00:39:16,481
+Sajikan terpedas!
+/ Ya, tidak.
+
+568
+00:39:16,648 --> 00:39:18,108
+Kurasa tidak.
+
+569
+00:39:18,192 --> 00:39:19,400
+Kau sedang apa?
+
+570
+00:39:19,568 --> 00:39:20,943
+Kita tak mengenalnya.
+Bisa saja racun.
+
+571
+00:39:21,110 --> 00:39:22,905
+Kenapa dia meracuni kita?
+
+572
+00:39:23,070 --> 00:39:24,405
+Ya, kenapa aku meracunimu?
+
+573
+00:39:24,572 --> 00:39:26,115
+Pertama, untuk mengambil tas giokku,...
+
+574
+00:39:26,282 --> 00:39:27,326
+...kedua, mencuri pedangku,...
+
+575
+00:39:27,492 --> 00:39:31,038
+...dan ketiga, entahlah,
+menculik Tuk Tuk.
+
+576
+00:39:32,206 --> 00:39:34,625
+Ada benarnya,
+tapi jika ini racun...
+
+577
+00:39:36,043 --> 00:39:37,043
+
+
+578
+00:39:37,126 --> 00:39:38,545
+...kau akan mati bahagia.
+
+579
+00:39:38,711 --> 00:39:41,088
+Ya, terima kasih,
+tapi kami punya makanan sendiri.
+
+580
+00:39:45,052 --> 00:39:46,512
+Ini enak.
+
+581
+00:39:46,677 --> 00:39:49,139
+Ngomong-ngomong, bukan racun.
+
+582
+00:39:50,724 --> 00:39:52,059
+Tapi ini..
+
+583
+00:39:53,226 --> 00:39:55,144
+Pedas. Pedas!
+
+584
+00:39:55,228 --> 00:39:57,063
+Pedas! Pedas sekali!
+
+585
+00:39:57,313 --> 00:39:58,773
+Ya ampun! Air!
+
+586
+00:39:58,940 --> 00:40:01,485
+Boun? Kapten Boun?
+Kita butuh air!
+
+587
+00:41:21,063 --> 00:41:22,273
+Aku tahu, kawan.
+
+588
+00:41:22,733 --> 00:41:25,235
+Saat siang hari,...
+
+589
+00:41:25,610 --> 00:41:27,403
+...kau hampir bisa lupa
+mereka ada,...
+
+590
+00:41:27,905 --> 00:41:29,197
+...tapi saat malam...
+
+591
+00:41:31,115 --> 00:41:33,242
+Ini sebabnya
+aku tak pernah tinggalkan perahu.
+
+592
+00:41:33,659 --> 00:41:35,119
+Kau anak yang cerdas.
+
+593
+00:41:36,413 --> 00:41:38,206
+Apa itu Druun?
+
+594
+00:41:38,623 --> 00:41:42,168
+Wabah.
+Lahir dari perselisihan manusia.
+
+595
+00:41:42,628 --> 00:41:44,545
+Mereka selalu ada di sini.
+
+596
+00:41:44,713 --> 00:41:48,007
+Menunggu saat tidak awas
+untuk menyerang.
+
+597
+00:41:48,925 --> 00:41:52,221
+Mereka kebalikan dari naga.
+
+598
+00:41:53,304 --> 00:41:56,766
+Alih-alih membawa air
+dan kehidupan kepada dunia,...
+
+599
+00:41:56,934 --> 00:41:58,726
+...mereka seperti api tiada henti...
+
+600
+00:41:58,809 --> 00:42:00,478
+...yang melahap semua
+di jalannya...
+
+601
+00:42:00,646 --> 00:42:05,067
+...sampai tak ada lagi
+yang tersisa selain abu dan batu.
+
+602
+00:42:07,527 --> 00:42:09,320
+Mereka merenggut keluargaku.
+
+603
+00:42:14,701 --> 00:42:16,452
+Mereka merenggut keluargaku juga.
+
+604
+00:43:04,333 --> 00:43:05,751
+Nampaknya kita sampai.
+
+605
+00:43:06,920 --> 00:43:10,507
+Jadi, ke mana tujuan
+kalian setelah Cakar?
+
+606
+00:43:10,965 --> 00:43:12,759
+Aku mungkin ke sana juga.
+
+607
+00:43:14,302 --> 00:43:16,429
+Maksudku, dengan bayaran tentunya.
+
+608
+00:43:16,512 --> 00:43:18,849
+Tentu saja.
+
+609
+00:43:19,050 --> 00:43:21,550
+<i>Cakar</i>
+
+610
+00:43:21,601 --> 00:43:24,896
+Wow! Cara yang cerdas
+untuk menjauhkan Druun dari rumahmu.
+
+611
+00:43:25,063 --> 00:43:26,148
+Bangun rumahmu
+di atas air.
+
+612
+00:43:26,356 --> 00:43:28,065
+Rakyat Cakar semuanya genius.
+
+613
+00:43:28,233 --> 00:43:30,235
+Ya. Cakar mungkin nampak indah,...
+
+614
+00:43:30,402 --> 00:43:33,112
+...tapi ini pusatnya pencopet
+dan penipu.
+
+615
+00:43:33,280 --> 00:43:35,740
+Untungnya. Kantongku kosong!
+
+616
+00:43:35,949 --> 00:43:37,159
+Ini kabar baiknya.
+
+617
+00:43:37,326 --> 00:43:38,869
+Aku tahu letak potongan permatanya.
+
+618
+00:43:38,952 --> 00:43:39,952
+Kabar buruknya?
+
+619
+00:43:40,036 --> 00:43:43,039
+Disimpan oleh Ketua Cakar
+yang terkenal kejam,...
+
+620
+00:43:43,123 --> 00:43:44,123
+<i>...Dang Hai.</i>
+
+621
+00:43:44,333 --> 00:43:47,753
+<i>Kekurangan Dang Hai dalam gaya,
+digantikan dengan kekejamannya.</i>
+
+622
+00:43:47,835 --> 00:43:48,836
+
+
+623
+00:43:49,213 --> 00:43:50,213
+Mengerti.
+
+624
+00:43:50,297 --> 00:43:51,882
+Kini kita hanya perlu
+memesona.
+
+625
+00:43:51,965 --> 00:43:53,007
+Ayo beri dia hadiah.
+
+626
+00:43:53,175 --> 00:43:55,635
+Sisu, kupikir mungkin
+lebih aman bagimu...
+
+627
+00:43:55,719 --> 00:43:57,221
+...untuk tetap di perahu.
+
+628
+00:43:57,304 --> 00:43:58,304
+Apa?
+
+629
+00:43:58,387 --> 00:44:01,141
+Tanpamu, kita tak bisa
+satukan lagi permatanya.
+
+630
+00:44:01,307 --> 00:44:02,351
+Tapi aku ingin membantu.
+
+631
+00:44:02,518 --> 00:44:04,186
+Aku tahu,
+dan kau akan membantu.
+
+632
+00:44:04,393 --> 00:44:05,938
+Dengan menjaga dirimu tetap aman.
+
+633
+00:44:06,438 --> 00:44:08,065
+Aku akan kembali
+sebelum kau menyadarinya.
+
+634
+00:44:08,981 --> 00:44:12,193
+Jika melihat calon pelanggan,
+suruh ke perahuku.
+
+635
+00:44:12,360 --> 00:44:14,112
+Baiklah, Kapten.
+
+636
+00:44:40,389 --> 00:44:42,557
+Baiklah, itu rumah Dang Hai.
+
+637
+00:44:42,766 --> 00:44:45,309
+Jangan ada pengalihan
+sampai kita dapat Permata Naga.
+
+638
+00:44:46,603 --> 00:44:48,021
+Wow. Apa yang..
+
+639
+00:44:50,440 --> 00:44:52,608
+
+
+640
+00:44:52,860 --> 00:44:54,068
+Baik.
+
+641
+00:44:55,945 --> 00:44:59,407
+Hei, Bayi, Balita,...
+
+642
+00:44:59,574 --> 00:45:00,659
+...apapun sebutanmu.
+
+643
+00:45:01,117 --> 00:45:03,452
+Ini sangat larut.
+Sedang apa di sini?
+
+644
+00:45:04,079 --> 00:45:05,706
+Di mana orangtuamu?
+
+645
+00:45:05,956 --> 00:45:07,583
+Hei, bayi siapa..
+
+646
+00:45:08,125 --> 00:45:09,626
+Apa? Ongi?
+
+647
+00:45:09,710 --> 00:45:10,710
+Jatuhkan!
+
+648
+00:45:11,878 --> 00:45:13,130
+
+
+649
+00:45:16,967 --> 00:45:18,802
+Serius? Bayi penipu?
+
+650
+00:45:23,056 --> 00:45:24,891
+Ini memberiku
+perasaan tak enak.
+
+651
+00:45:25,057 --> 00:45:26,601
+Ketua Dang Hai tak terdengar
+seperti...
+
+652
+00:45:26,684 --> 00:45:27,978
+...orang yang bisa diajak bicara santai.
+
+653
+00:45:28,144 --> 00:45:29,896
+Dan Raya bahkan
+tidak membawa hadiah.
+
+654
+00:45:30,396 --> 00:45:32,690
+Itu dia. Aku akan belanja.
+
+655
+00:45:32,940 --> 00:45:34,860
+Tunggu. Aku tak punya uang.
+
+656
+00:45:35,027 --> 00:45:36,152
+Kau sudah dewasa.
+
+657
+00:45:36,320 --> 00:45:37,528
+Kau bisa berutang.
+
+658
+00:45:37,695 --> 00:45:39,322
+Apa itu, utang?
+
+659
+00:45:39,489 --> 00:45:41,199
+Semacam janji.
+
+660
+00:45:41,365 --> 00:45:42,784
+Kau mengambil barangmu sekarang,...
+
+661
+00:45:42,867 --> 00:45:44,369
+...dan berjanji
+akan membayarnya nanti.
+
+662
+00:45:44,661 --> 00:45:46,538
+Bayar kembali nanti?
+
+663
+00:45:46,996 --> 00:45:48,581
+Konsep yang luar biasa.
+
+664
+00:45:48,748 --> 00:45:50,041
+Terima kasih, Kapten Boun.
+
+665
+00:45:54,003 --> 00:45:55,713
+Aku akan membeli ini
+dengan utang.
+
+666
+00:45:57,090 --> 00:45:59,050
+Dang Hai akan suka ini!
+
+667
+00:45:59,217 --> 00:46:00,302
+Tolong berutang.
+
+668
+00:46:00,469 --> 00:46:03,222
+Aku suka itu.
+Ya, aku akan utang.
+
+669
+00:46:03,889 --> 00:46:04,931
+Aku suka utang!
+
+670
+00:46:05,097 --> 00:46:06,224
+Hei, Kau!
+
+671
+00:46:08,059 --> 00:46:10,103
+Kau akan membayar semua itu?
+
+672
+00:46:10,186 --> 00:46:11,188
+
+
+673
+00:46:11,271 --> 00:46:13,648
+Benar, benar.
+Ini dibayar utang.
+
+674
+00:46:13,815 --> 00:46:15,525
+Aku akan membayarnya nanti.
+
+675
+00:46:15,692 --> 00:46:17,902
+Bayar kami nanti?
+Kami tak mengenalmu.
+
+676
+00:46:18,070 --> 00:46:19,487
+Kau tak bisa berutang di sini.
+
+677
+00:46:19,655 --> 00:46:21,572
+Bayar kami sekarang.
+/ Sekarang?
+
+678
+00:46:22,114 --> 00:46:23,407
+AKu tak punya apa-apa,...
+
+679
+00:46:23,492 --> 00:46:25,702
+...tapi jika aku bisa
+temukan temanku Raya,...
+
+680
+00:46:25,869 --> 00:46:28,038
+...dia punya pedang,
+makanan kering,...
+
+681
+00:46:28,204 --> 00:46:29,456
+...dua potongan Permata Naga.
+
+682
+00:46:29,623 --> 00:46:31,250
+Kami tak punya!
+Apa? Siapa yang bilang?
+
+683
+00:46:31,416 --> 00:46:32,626
+Sebaiknya bayar, Binturi.
+
+684
+00:46:32,793 --> 00:46:33,835
+Ini bukan amal.
+
+685
+00:46:34,001 --> 00:46:35,128
+Kau ingin mencuri?
+
+686
+00:46:35,211 --> 00:46:37,172
+Menjauh darinya!
+
+687
+00:46:37,338 --> 00:46:39,340
+Kau tak bisa lihat
+dia orang baru di kota?
+
+688
+00:46:39,507 --> 00:46:41,760
+Ayo, Sayang.
+Jangan takut.
+
+689
+00:46:42,344 --> 00:46:43,637
+Tak apa.
+
+690
+00:46:53,521 --> 00:46:54,648
+Hei, awas!
+
+691
+00:47:13,625 --> 00:47:14,793
+Dah!
+
+692
+00:47:20,757 --> 00:47:21,800
+Popok!
+
+693
+00:47:38,150 --> 00:47:39,150
+Terima kasih.
+
+694
+00:47:39,318 --> 00:47:40,777
+Jadi, ini bukan urusanku,...
+
+695
+00:47:40,943 --> 00:47:42,905
+...tapi memakai pesona bayi
+untuk menipu orang...
+
+696
+00:47:44,155 --> 00:47:45,532
+...sangatlah buruk.
+
+697
+00:47:47,242 --> 00:47:48,619
+Baiklah, di mana keluargamu?
+
+698
+00:47:50,204 --> 00:47:51,204
+
+
+699
+00:47:54,708 --> 00:47:55,708
+
+
+700
+00:47:57,293 --> 00:47:58,295
+Benar.
+
+701
+00:48:05,177 --> 00:48:06,260
+Hei.
+
+702
+00:48:06,427 --> 00:48:08,931
+Apa kau ingin mendapat
+uang jujur?
+
+703
+00:48:09,347 --> 00:48:10,349
+
+
+704
+00:48:34,456 --> 00:48:35,666
+Baiklah, Dang Hai,...
+
+705
+00:48:35,748 --> 00:48:37,291
+...aku akan ambil potongan
+Permata Naga itu.
+
+706
+00:48:37,501 --> 00:48:39,418
+Wow! Aku bukan Dang Hai.
+
+707
+00:48:40,711 --> 00:48:43,005
+Aku Chai, si pengantar bunga.
+
+708
+00:48:43,257 --> 00:48:44,257
+Di mana Dang Hai?
+
+709
+00:48:44,340 --> 00:48:46,175
+Dia di sana.
+
+710
+00:48:47,510 --> 00:48:49,762
+Apa? Siapa yang simpan
+potongan permatanya?
+
+711
+00:48:50,137 --> 00:48:52,474
+Ketua paling kejam...
+
+712
+00:48:52,557 --> 00:48:54,518
+...yang Cakar pernah temui.
+
+713
+00:48:56,644 --> 00:48:59,188
+Orang-orang itu sungguh gila.
+
+714
+00:48:59,356 --> 00:49:00,940
+Aku hanya ingin membawakan hadiah...
+
+715
+00:49:01,023 --> 00:49:02,400
+...untuk Ketua Cakar, Dang Hai.
+
+716
+00:49:02,568 --> 00:49:04,902
+Diakah yang kau cari, Sayang?
+
+717
+00:49:05,237 --> 00:49:07,530
+Aku tahu persis di mana dia.
+
+718
+00:49:07,655 --> 00:49:08,657
+Sungguh?
+
+719
+00:49:08,739 --> 00:49:10,284
+Aku akan mengantarmu ke sana.
+
+720
+00:49:10,449 --> 00:49:13,244
+Lihat? Itulah yang kucoba
+beritahu pada temanku, Raya.
+
+721
+00:49:13,411 --> 00:49:15,246
+Dan dia seperti,
+"Jangan percaya orang."
+
+722
+00:49:15,414 --> 00:49:16,498
+"Jangan bicara dengan siapa pun."
+
+723
+00:49:16,664 --> 00:49:18,876
+"Aku hanya makan makanan tak enak,
+kukeringkan sendiri."
+
+724
+00:49:18,958 --> 00:49:20,793
+Mari, Sayang.
+
+725
+00:49:20,960 --> 00:49:24,213
+Ketua Dang Hai
+tepat di luar kota,...
+
+726
+00:49:24,380 --> 00:49:25,757
+...di luar gerbang.
+
+727
+00:49:26,007 --> 00:49:28,802
+Jauh dari air, ya? Wow.
+
+728
+00:49:29,094 --> 00:49:31,012
+Dia sangat suka hidup ekstrem.
+
+729
+00:49:32,014 --> 00:49:33,389
+Halo, Dang Hai.
+
+730
+00:49:33,472 --> 00:49:34,766
+Aku Sisu,...
+
+731
+00:49:34,932 --> 00:49:38,561
+...dan aku datang
+untuk menawarkan..
+
+732
+00:49:40,771 --> 00:49:41,856
+
+
+733
+00:49:50,824 --> 00:49:52,367
+Kau akan katakan...
+
+734
+00:49:52,534 --> 00:49:56,454
+...dimana aku bisa temukan
+potongan lain Permata Naganya,...
+
+735
+00:49:56,621 --> 00:50:01,460
+...atau aku akan meninggalkanmu
+di luar dengan makhluk itu.
+
+736
+00:50:01,626 --> 00:50:02,793
+Tentukan pilihanmu.
+
+737
+00:50:03,211 --> 00:50:05,005
+Tapi, aku memercayaimu.
+
+738
+00:50:05,172 --> 00:50:07,048
+Salah besar.
+
+739
+00:50:07,257 --> 00:50:08,675
+Sebaiknya bicara cepat.
+
+740
+00:50:08,842 --> 00:50:11,135
+Kelihatannya dia lapar.
+
+741
+00:50:13,639 --> 00:50:16,516
+Tidak, tidak. Tidak!
+
+742
+00:50:17,726 --> 00:50:18,726
+Raya!
+
+743
+00:50:18,809 --> 00:50:19,811
+Hentikan dia!
+
+744
+00:50:21,438 --> 00:50:23,481
+Sisu, sudah kubilang
+untuk tetap di perahu.
+
+745
+00:50:23,815 --> 00:50:24,858
+Maaf!
+
+746
+00:50:25,025 --> 00:50:26,693
+Pegang ini untukku, bisa?
+
+747
+00:50:30,280 --> 00:50:31,280
+Kabut?
+
+748
+00:50:31,447 --> 00:50:33,992
+Ya. Itu adalah sihir
+adik lelakiku Jagan.
+
+749
+00:50:34,159 --> 00:50:36,327
+Baik. Tiga sudah, dua lagi.
+
+750
+00:50:37,829 --> 00:50:39,581
+Baik, Kapten Boun,
+pemberhentian berikutnya, Tulang..
+
+751
+00:50:39,664 --> 00:50:40,666
+
+
+752
+00:50:42,416 --> 00:50:43,585
+Terima kasih untuk pelanggan barunya!
+
+753
+00:50:43,751 --> 00:50:45,795
+Aku janji untuk mentraktir mereka...
+
+754
+00:50:45,878 --> 00:50:47,172
+...semua bubur yang bisa mereka makan.
+
+755
+00:50:47,380 --> 00:50:49,800
+Kita terjebak dengan mereka
+sementara waktu...
+
+756
+00:50:49,967 --> 00:50:52,594
+...sebab ongi punya
+sembilan perut.
+
+757
+00:50:52,677 --> 00:50:53,679
+Oh, toi.
+
+758
+00:50:53,762 --> 00:50:54,762
+Aku tak percaya.
+
+759
+00:50:54,929 --> 00:50:56,639
+Wanita tua itu
+sungguh mau menyakitiku.
+
+760
+00:50:56,806 --> 00:50:58,976
+Maafkan aku, Sisu,...
+
+761
+00:50:59,059 --> 00:51:01,018
+...tapi begitulah dunia sekarang.
+
+762
+00:51:01,186 --> 00:51:02,771
+Kau tak bisa percaya siapapun.
+
+763
+00:51:04,146 --> 00:51:05,606
+Termasuk bayi?
+
+764
+00:51:05,690 --> 00:51:07,985
+Yah..
+/ Dia sangat lucu.
+
+765
+00:51:08,150 --> 00:51:09,777
+Lihatlah pipi itu.
+
+766
+00:51:11,655 --> 00:51:13,282
+Hai, aku Sisu.
+
+767
+00:51:18,036 --> 00:51:19,371
+Dia suka wajahku.
+
+768
+00:51:19,538 --> 00:51:22,416
+Ya, semoga saja
+dia tak mencuri gigimu.
+
+769
+00:51:22,583 --> 00:51:23,833
+Sini, biar kubantu.
+
+770
+00:51:24,001 --> 00:51:25,626
+Manis sekali.
+
+771
+00:51:25,918 --> 00:51:28,255
+Baik, manis yang terlalu berlebihan..
+
+772
+00:51:28,422 --> 00:51:30,215
+Terlalu manis.
+Terlalu berlebihan!
+
+773
+00:51:38,875 --> 00:51:42,275
+<i>Taring</i>
+
+774
+00:51:44,228 --> 00:51:46,190
+Ketua Virana, kita kehabisan tempat.
+
+775
+00:51:46,773 --> 00:51:48,650
+Kita perlu memperluas
+ke daratan utama.
+
+776
+00:51:48,817 --> 00:51:50,652
+Apa usulmu dalam
+menangani Druun,...
+
+777
+00:51:50,735 --> 00:51:52,153
+...Jenderal Atitāya?
+
+778
+00:51:52,278 --> 00:51:53,280
+Tanpa perlindungan layak,...
+
+779
+00:51:53,362 --> 00:51:55,532
+...itu akan jadi hukuman mati bagi rakyat.
+
+780
+00:51:55,699 --> 00:51:57,742
+Aku mungkin punya solusi
+untuk itu, Bu.
+
+781
+00:51:57,826 --> 00:52:00,244
+Kabut pagi kecil-ku...
+
+782
+00:52:00,411 --> 00:52:02,371
+Senang melihatmu pulang.
+
+783
+00:52:02,831 --> 00:52:05,583
+Kutemukan Raya.
+Dia bepergian mencuri potongan permata.
+
+784
+00:52:05,833 --> 00:52:06,835
+Apa?
+
+785
+00:52:07,043 --> 00:52:08,545
+Aku ingin membawa tentara kerajaan...
+
+786
+00:52:08,628 --> 00:52:10,130
+...dan mencegatnya di Tulang.
+
+787
+00:52:10,213 --> 00:52:12,757
+Jika dia berniat ke Tulang,...
+
+788
+00:52:13,342 --> 00:52:15,427
+...aku ragu dia bisa bertahan.
+
+789
+00:52:15,594 --> 00:52:17,387
+Dia lebih mampu
+dari yang kau tahu.
+
+790
+00:52:17,762 --> 00:52:19,097
+Kita harus menghentikannya.
+
+791
+00:52:20,516 --> 00:52:21,891
+Berjalanlah denganku.
+
+792
+00:52:23,434 --> 00:52:24,686
+Lihat sekeliling.
+
+793
+00:52:24,853 --> 00:52:28,398
+Kita buat semua ini
+dengan mengambil keputusan cerdas,...
+
+794
+00:52:28,481 --> 00:52:29,733
+...bukan keputusan emosional.
+
+795
+00:52:30,608 --> 00:52:31,985
+Kita aman.
+
+796
+00:52:32,152 --> 00:52:35,072
+Kanal melindungi
+kita dari monster itu.
+
+797
+00:52:35,447 --> 00:52:37,615
+Kurasa tak baik
+mengancam dirimu...
+
+798
+00:52:37,699 --> 00:52:38,867
+...saat tidak diperlukan.
+
+799
+00:52:39,367 --> 00:52:40,536
+Tapi kau dengar jenderal.
+
+800
+00:52:40,702 --> 00:52:43,288
+Kita kehabisan tempat.
+Kita perlu memperluas.
+
+801
+00:52:43,454 --> 00:52:47,000
+Jika kita punya semua potongan permata,
+kita bisa lakukan itu dengan aman.
+
+802
+00:52:47,125 --> 00:52:48,126
+Kau benar.
+
+803
+00:52:48,293 --> 00:52:50,045
+Ini bukan keputusan emosional.
+
+804
+00:52:50,211 --> 00:52:51,838
+Hanya itu keputusan yang bisa diambil...
+
+805
+00:52:51,922 --> 00:52:53,548
+...untuk mengamankan
+masa depan Taring.
+
+806
+00:52:58,804 --> 00:53:01,931
+Namaari, kau sungguh tumbuh...
+
+807
+00:53:02,014 --> 00:53:04,016
+...menjadi pemimpin yang kubesarkan.
+
+808
+00:53:04,809 --> 00:53:07,144
+Jenderal Atitāya,
+persiapkan tentara kerajaan...
+
+809
+00:53:07,228 --> 00:53:08,646
+...untuk perintah anakku.
+
+810
+00:53:08,730 --> 00:53:11,400
+Terima kasih, Bu.
+Aku takkan mengecewakanmu.
+
+811
+00:53:18,699 --> 00:53:20,449
+Hei! Berhenti makan!
+
+812
+00:53:25,079 --> 00:53:26,081
+Wow!
+
+813
+00:53:27,623 --> 00:53:29,083
+Maaf, kawan, biar aku saja.
+
+814
+00:53:29,251 --> 00:53:30,543
+Kau baru saja
+melempar udang padaku?
+
+815
+00:53:30,710 --> 00:53:31,920
+Itu bahkan tak bisa dimakan!
+
+816
+00:53:32,003 --> 00:53:33,130
+Hei!/ Jangan tatap aku..
+
+817
+00:53:33,213 --> 00:53:34,213
+Hei, Semuanya?
+
+818
+00:53:34,297 --> 00:53:35,340
+Dasar tong sampah!
+
+819
+00:53:35,423 --> 00:53:36,717
+Ada yang mau main petak umpet?
+
+820
+00:53:38,467 --> 00:53:40,012
+Baiklah. Siap?
+
+821
+00:53:40,804 --> 00:53:42,431
+Satu.
+
+822
+00:53:43,681 --> 00:53:44,807
+Dua.
+
+823
+00:53:45,726 --> 00:53:48,228
+Terima kasih.
+/ Dua setengah.
+
+824
+00:53:49,061 --> 00:53:50,063
+Tiga.
+
+825
+00:53:51,106 --> 00:53:52,858
+Ingatkan aku untuk tidak punya anak.
+
+826
+00:53:53,525 --> 00:53:55,360
+Menjadi manusia itu sulit.
+
+827
+00:53:55,443 --> 00:53:56,445
+Ya.
+
+828
+00:53:56,570 --> 00:53:57,987
+Enam.
+
+829
+00:53:58,530 --> 00:53:59,780
+Tujuh.
+
+830
+00:54:00,157 --> 00:54:01,617
+Kepalamu kecil.
+
+831
+00:54:01,782 --> 00:54:02,826
+Tak punya ekor.
+
+832
+00:54:02,992 --> 00:54:04,661
+Kau bohong demi
+dapatkan yang kau mau,...
+
+833
+00:54:04,744 --> 00:54:06,163
+...seperti ketua Talon tadi.
+
+834
+00:54:06,329 --> 00:54:08,081
+Ya, dunia sudah rusak.
+
+835
+00:54:08,248 --> 00:54:09,708
+Kau tak bisa percaya siapapun.
+
+836
+00:54:09,875 --> 00:54:11,585
+Atau mungkin dunia rusak...
+
+837
+00:54:11,668 --> 00:54:13,336
+...karena kau tidak percaya siapapun.
+
+838
+00:54:13,420 --> 00:54:15,755
+Kau terdengar seperti Ba-ku.
+
+839
+00:54:16,047 --> 00:54:17,507
+Dia terdengar seperti orang cerdas.
+
+840
+00:54:17,882 --> 00:54:19,342
+Ya, memang.
+
+841
+00:54:19,510 --> 00:54:21,469
+Aku sungguh ingin
+memercayainya.
+
+842
+00:54:21,637 --> 00:54:22,929
+Aku sungguh ingin percaya...
+
+843
+00:54:23,012 --> 00:54:25,097
+...bahwa kita bisa menjadi Kumandra lagi.
+
+844
+00:54:25,264 --> 00:54:26,349
+Dan kita memang bisa.
+
+845
+00:54:26,516 --> 00:54:28,851
+Ribuan orang yang berubah jadi batu...
+
+846
+00:54:28,936 --> 00:54:30,103
+...akan berkata sebaliknya.
+
+847
+00:54:30,269 --> 00:54:32,146
+Bukan berati
+kau tak seharusnya mencoba.
+
+848
+00:54:32,313 --> 00:54:35,067
+Dan aku pun mencoba.
+Tahu yang terjadi?
+
+849
+00:54:35,233 --> 00:54:38,362
+Aku ditendang dari belakang
+oleh seseorang yang memberiku hadiah.
+
+850
+00:54:39,195 --> 00:54:40,280
+Lihat sekeliling.
+
+851
+00:54:40,447 --> 00:54:42,157
+Kita adalah dunia
+yatim piatu karena...
+
+852
+00:54:42,240 --> 00:54:44,367
+...manusia tak bisa berhenti
+memperebutkan permata.
+
+853
+00:54:44,534 --> 00:54:46,702
+Mau tahu kenapa naga-naga lain
+tak kembali?
+
+854
+00:54:47,246 --> 00:54:49,748
+Karena manusia tak layak menerima mereka.
+
+855
+00:54:49,914 --> 00:54:51,166
+Tapi kau bisa mengubahnya.
+
+856
+00:54:51,333 --> 00:54:53,668
+Tidak, Sisu,
+aku muak berusaha.
+
+857
+00:54:53,835 --> 00:54:55,295
+Kumandra adalah dongeng.
+
+858
+00:54:55,461 --> 00:54:57,213
+Satu-satunya yang penting bagiku...
+
+859
+00:54:57,297 --> 00:54:58,548
+...adalah mengembalikan Ba-ku.
+
+860
+00:55:00,300 --> 00:55:02,302
+Kurasa kita sampai di Tulang.
+
+861
+00:55:08,182 --> 00:55:09,184
+Sisu!
+
+862
+00:55:09,268 --> 00:55:10,853
+Hei, buburku!
+
+863
+00:55:11,018 --> 00:55:13,730
+Jangan pergi kemana-mana.
+Saya akan segera kembali.
+
+864
+00:55:21,255 --> 00:55:25,456
+<i>Tulang</i>
+
+865
+00:55:25,701 --> 00:55:27,661
+Sisu! Kembali! Kumohon!
+
+866
+00:55:27,827 --> 00:55:28,911
+Apa yang kau lakukan?
+
+867
+00:55:29,079 --> 00:55:30,831
+Akan kutunjukkan kau salah!
+
+868
+00:55:30,998 --> 00:55:34,501
+Bagaimana? Dengan dihabisi oleh
+sekelompok tukang murka dari Tulang?
+
+869
+00:55:34,585 --> 00:55:35,585
+Tidak.
+
+870
+00:55:35,668 --> 00:55:36,711
+Dengan membuktikan...
+
+871
+00:55:36,795 --> 00:55:38,463
+...bahwa jika ingin
+dapatkan kepercayaan orang,...
+
+872
+00:55:38,630 --> 00:55:40,090
+...kau harus memberikan
+sedikit kepercayaan dulu.
+
+873
+00:55:40,173 --> 00:55:41,382
+Tunggu, Sisu, jangan..
+
+874
+00:55:44,427 --> 00:55:47,472
+Kalau dipikir-pikir,
+mungkin aku agak tergesa-gesa,...
+
+875
+00:55:47,722 --> 00:55:49,266
+...tapi siapa yang lapar?
+
+876
+00:55:49,432 --> 00:55:51,226
+Tidak? Kutinggalkan kau sendiri.
+
+877
+00:55:55,313 --> 00:55:56,981
+Baik, kita di mana?
+
+878
+00:55:59,610 --> 00:56:01,027
+Pilihan sarang yang menarik.
+
+879
+00:56:07,242 --> 00:56:09,327
+Kalian pasti bodoh...
+
+880
+00:56:09,494 --> 00:56:12,956
+...mengira bisa mencuri
+Permata Naga Tulang.
+
+881
+00:56:14,123 --> 00:56:15,125
+Permata?
+
+882
+00:56:15,250 --> 00:56:16,751
+Siapa yang menyebutkan permata?
+
+883
+00:56:16,835 --> 00:56:17,835
+Kami tak tertarik pada permata.
+
+884
+00:56:19,045 --> 00:56:20,047
+Baik, aku paham...
+
+885
+00:56:20,130 --> 00:56:21,340
+...kenapa itu membuatku
+seperti pembohong.
+
+886
+00:56:21,507 --> 00:56:22,965
+Sebenarnya, kebohongannya lah...
+
+887
+00:56:23,050 --> 00:56:24,050
+...yang membuatmu
+seperti pembohong.
+
+888
+00:56:30,097 --> 00:56:31,141
+Entah mana yang lucu.
+
+889
+00:56:31,307 --> 00:56:34,603
+Ketakutanmu bagai nektar lezat...
+
+890
+00:56:34,769 --> 00:56:37,731
+...yang memberi makan jiwaku.
+
+891
+00:56:37,898 --> 00:56:39,106
+Ini bagus.
+
+892
+00:56:39,273 --> 00:56:41,485
+Rasanya seperti.. mangga.
+
+893
+00:56:41,652 --> 00:56:43,110
+Aku suka mangga.
+
+894
+00:56:43,320 --> 00:56:45,489
+Tentu saja kau suka mangga!
+
+895
+00:56:45,655 --> 00:56:47,699
+Hanya orang bodoh
+tak bercita rasa yang tak suka.
+
+896
+00:56:47,782 --> 00:56:48,784
+Oh, toi!
+
+897
+00:56:48,867 --> 00:56:50,409
+Sudah lama sekali...
+
+898
+00:56:50,494 --> 00:56:51,577
+...sejak aku terakhir melihat...
+
+899
+00:56:51,661 --> 00:56:53,829
+...ke mata musuh yang gemetaran.
+
+900
+00:56:54,289 --> 00:56:56,333
+Ke mana waktu berlalu?
+
+901
+00:56:57,251 --> 00:56:59,335
+Sudah lama sekali.
+
+902
+00:57:00,670 --> 00:57:01,713
+Dia tampak kesepian.
+
+903
+00:57:01,797 --> 00:57:03,507
+Tidak! Aku tak kesepian.
+
+904
+00:57:03,673 --> 00:57:05,342
+Aku seorang prajurit Tulang.
+
+905
+00:57:05,509 --> 00:57:08,469
+Aku lahir dan dibesarkan
+hanya untuk melakukan satu hal.
+
+906
+00:57:08,637 --> 00:57:10,097
+Untuk menimbulkan
+rasa takut...
+
+907
+00:57:10,179 --> 00:57:12,974
+...dan menghancurkan tengkorak musuhku!
+
+908
+00:57:13,141 --> 00:57:14,268
+Itu sebenarnya dua hal.
+
+909
+00:57:16,811 --> 00:57:19,146
+Lihat wajahmu.
+
+910
+00:57:19,231 --> 00:57:21,692
+Hei. Kau ingin apakan kami?
+
+911
+00:57:21,775 --> 00:57:23,777
+Semua akan buruk sekali.
+
+912
+00:57:23,943 --> 00:57:25,152
+Mengerikan!
+
+913
+00:57:25,320 --> 00:57:27,197
+Akan butuh dua minggu
+untuk membersihkannya!
+
+914
+00:57:27,364 --> 00:57:29,115
+Kau tak tahu, ya?
+
+915
+00:57:29,199 --> 00:57:30,199
+Ya, aku tahu.
+
+916
+00:57:30,284 --> 00:57:33,661
+Aku merumuskan rencana mengerikanku
+di dalam benakku...
+
+917
+00:57:33,829 --> 00:57:36,164
+Memikirkannya saja
+membuatku mual.
+
+918
+00:57:36,331 --> 00:57:37,875
+Kau tunggu saja.
+
+919
+00:57:38,041 --> 00:57:41,503
+Sampai itu tiba,
+kenapa tak menggantung diam saja?
+
+920
+00:57:41,586 --> 00:57:42,588
+Bagus, ya?
+
+921
+00:57:51,471 --> 00:57:52,472
+
+
+922
+00:57:54,016 --> 00:57:55,266
+Anak kecil?
+
+923
+00:57:55,434 --> 00:57:56,851
+Keren!
+
+924
+00:57:56,934 --> 00:57:58,269
+Kerja bagus, Kapten Boun!
+
+925
+00:57:58,436 --> 00:57:59,438
+Taring di sini!
+/ Apa?
+
+926
+00:57:59,646 --> 00:58:02,940
+Rakyat Tulang,
+kami memburu Raya,...
+
+927
+00:58:03,108 --> 00:58:04,860
+...buronan dari Hati!
+
+928
+00:58:05,027 --> 00:58:07,278
+Keluarkan dia,
+atau kami masuk!
+
+929
+00:58:09,947 --> 00:58:11,324
+Hanya ada kau di sini?
+
+930
+00:58:11,782 --> 00:58:14,786
+Rakyatku melawan
+Druun dengan penuh keberanian,...
+
+931
+00:58:15,077 --> 00:58:16,121
+...tapi kalah.
+
+932
+00:58:25,588 --> 00:58:26,590
+Baik.
+
+933
+00:58:26,672 --> 00:58:28,884
+Tapi kelompok Taring di sini
+mencariku, bukan kau,...
+
+934
+00:58:29,050 --> 00:58:30,677
+...jadi jika aku bisa
+mengalihkan mereka,...
+
+935
+00:58:30,760 --> 00:58:32,012
+...kalian bisa keluar dari sini.
+
+936
+00:58:32,179 --> 00:58:33,679
+Kau akan melawan seluruh pasukan?
+
+937
+00:58:33,847 --> 00:58:35,349
+Tidak, aku hanya akan mengulur.
+
+938
+00:58:35,516 --> 00:58:37,476
+Aku tahu cara mendesak Namaari.
+
+939
+00:58:37,643 --> 00:58:40,144
+Dan begitu kalian aman,
+aku pergi dari sini.
+
+940
+00:58:45,233 --> 00:58:46,235
+Siapa namamu?
+
+941
+00:58:46,400 --> 00:58:48,570
+Nama yang diberikan padaku
+adalah Tong.
+
+942
+00:58:48,737 --> 00:58:50,655
+Baik, Tong, dengar,
+kau tak mengenalku,...
+
+943
+00:58:50,739 --> 00:58:51,739
+...dan aku tak mengenalmu,...
+
+944
+00:58:51,907 --> 00:58:53,742
+...tapi aku yakin
+kau punya pintu belakang...
+
+945
+00:58:53,824 --> 00:58:54,826
+...atau jalan keluar,...
+
+946
+00:58:54,992 --> 00:58:57,788
+....dan sangat penting
+kalau teman-temanku aman, paham?
+
+947
+00:58:57,954 --> 00:59:01,916
+Jadi, aku dengan tulus memintamu,
+maukah kau membantu kami?
+
+948
+00:59:02,918 --> 00:59:04,043
+Kumohon.
+
+949
+00:59:13,554 --> 00:59:15,097
+Baik.
+
+950
+00:59:15,764 --> 00:59:17,181
+Catatan untuk diri sendiri,...
+
+951
+00:59:17,557 --> 00:59:18,809
+...jangan mati.
+
+952
+00:59:19,684 --> 00:59:21,018
+Bakar mereka.
+
+953
+00:59:28,610 --> 00:59:30,695
+Halo, Putri Cepak.
+
+954
+00:59:30,862 --> 00:59:31,864
+Senang berjumpa di sini.
+
+955
+00:59:32,030 --> 00:59:33,407
+Kau dan potongan Permata Naga...
+
+956
+00:59:33,489 --> 00:59:34,615
+...ikut denganku.
+
+957
+00:59:34,699 --> 00:59:36,952
+Pedangku menolak.
+
+958
+00:59:38,786 --> 00:59:41,539
+Ya, aku tahu kau tak bisa
+melakukannya seorang diri.
+
+959
+00:59:41,706 --> 00:59:43,666
+Kau bukan siapa-siapa
+tanpa pasukanmu.
+
+960
+00:59:44,418 --> 00:59:45,710
+Turunkan senjata.
+
+961
+00:59:46,586 --> 00:59:48,045
+Ini tak perlu makan waktu lama.
+
+962
+01:00:12,237 --> 01:00:13,614
+Kau butuh itu, <i>dep la</i>?
+
+963
+01:00:15,489 --> 01:00:16,490
+Nah.
+
+964
+01:00:16,574 --> 01:00:19,494
+Nampaknya sudah ada yang berlatih.
+
+965
+01:00:34,510 --> 01:00:36,219
+Kenapa kau mencuri
+potongan permata?
+
+966
+01:00:39,764 --> 01:00:43,226
+Aku hanya mencoba
+mendapatkan set yang cocok.
+
+967
+01:00:48,440 --> 01:00:51,193
+Kau tak kebetulan
+membawa permata Taring, 'kan?
+
+968
+01:01:00,494 --> 01:01:03,413
+Tidak? Lupakan.
+
+969
+01:01:03,579 --> 01:01:06,250
+Aku akan mampir
+dan mengambilnya nanti.
+
+970
+01:01:07,708 --> 01:01:10,045
+Aku akan menikmati ini.
+
+971
+01:01:38,364 --> 01:01:40,324
+Ya, dia seekor naga.
+
+972
+01:01:40,492 --> 01:01:41,659
+Ayo pergi.
+
+973
+01:01:41,827 --> 01:01:42,827
+Ayo!
+
+974
+01:01:58,945 --> 01:02:03,985
+<font color="#ffff00">Support saya dengan mengirimkan donasi kalian ke:</font>
+https://trakteer.id/EveryAgent
+ Yuk bantu capai target donasi
+
+975
+01:02:06,059 --> 01:02:07,728
+Kau baru saja melemparku
+dengan ekor udang?
+
+976
+01:02:09,103 --> 01:02:11,273
+Kapan kau akan beritahu kami
+dia Sisu?
+
+977
+01:02:11,440 --> 01:02:13,775
+Secara teknis,
+kalian sudah tahu dia Sisu.
+
+978
+01:02:14,525 --> 01:02:15,527
+Serius?
+
+979
+01:02:15,777 --> 01:02:17,195
+Kenapa kau di sini,...
+
+980
+01:02:17,278 --> 01:02:18,905
+...naga air ilahi?
+
+981
+01:02:18,989 --> 01:02:20,532
+Bukankah sudah jelas, Pria besar?
+
+982
+01:02:20,615 --> 01:02:22,701
+Raya dan aku
+akan memperbaiki dunia.
+
+983
+01:02:22,784 --> 01:02:24,202
+Mengembalikan semua orang.
+
+984
+01:02:24,286 --> 01:02:26,038
+Kau akan mengembalikan
+semua orang?
+
+985
+01:02:26,121 --> 01:02:27,121
+Aku ingin membantu.
+
+986
+01:02:27,371 --> 01:02:30,583
+Maaf, aku tak bisa biarkan itu.
+
+987
+01:02:30,751 --> 01:02:31,876
+Terlalu berbahaya.
+
+988
+01:02:31,960 --> 01:02:35,713
+Bukan kau satu-satunya
+yang kehilangan keluarga karena Druun.
+
+989
+01:02:39,467 --> 01:02:40,469
+Kumohon.
+
+990
+01:02:40,885 --> 01:02:42,346
+Biarkan aku membantu.
+
+991
+01:02:51,021 --> 01:02:53,106
+Aku juga ingin bergabung dalam
+perkumpulan...
+
+992
+01:02:53,190 --> 01:02:55,483
+...penendang bokong Druun ini!
+
+993
+01:03:07,788 --> 01:03:10,039
+Sihir abangku, Pengu.
+
+994
+01:04:16,273 --> 01:04:18,400
+Baiklah, Kapten Boun.
+Menuju Taring.
+
+995
+01:04:18,692 --> 01:04:19,775
+Baiklah!
+
+996
+01:04:38,336 --> 01:04:40,838
+Baik, Semua, ini rencananya.
+
+997
+01:04:41,005 --> 01:04:43,007
+Potongan permata
+terakhir ada di Taring,...
+
+998
+01:04:43,175 --> 01:04:45,927
+...yang paling dijaga
+ketat dari lima negeri.
+
+999
+01:04:46,219 --> 01:04:48,179
+Mereka dilindungi oleh kanal buatan...
+
+1000
+01:04:48,347 --> 01:04:50,641
+<i>...yang memisahkan
+mereka dari dunia lain.</i>
+
+1001
+01:04:50,806 --> 01:04:52,351
+<i>Satu-satunya jalan masuk atau keluar...</i>
+
+1002
+01:04:52,518 --> 01:04:53,976
+<i>...adalah melalui air.</i>
+
+1003
+01:04:58,606 --> 01:05:02,693
+<i>Untungnya, kita punya
+naga air yang ajaib.</i>
+
+1004
+01:05:04,820 --> 01:05:07,114
+<i>Istana akan penuh dengan prajurit Taring.</i>
+
+1005
+01:05:07,615 --> 01:05:09,034
+<i>Untuk menyelinap melewati
+mereka, kita harus..</i>
+
+1006
+01:05:09,201 --> 01:05:10,452
+Biar kuatasi.
+
+1007
+01:05:10,702 --> 01:05:12,036
+Kutangani gelombang pertama.
+
+1008
+01:05:14,206 --> 01:05:15,206
+<i>Tong akan melanjutkan...</i>
+
+1009
+01:05:15,289 --> 01:05:17,208
+<i>...dengan kapak raksasa kerennya.</i>
+
+1010
+01:05:18,418 --> 01:05:21,045
+<i>Lalu datanglah pada ongi
+dan bayi penipu gila...</i>
+
+1011
+01:05:23,047 --> 01:05:26,134
+<i>...yang akan melemparkan permatanya
+ke Sisudatu Perkasa.</i>
+
+1012
+01:05:27,552 --> 01:05:30,472
+<i>Lalu selamat tinggal, Binturi.</i>
+
+1013
+01:05:34,809 --> 01:05:36,894
+Rencana super bagus, 'kan?
+
+1014
+01:05:37,436 --> 01:05:40,065
+Tidak. Ya, itu tidak bagus.
+Itu buruk.
+
+1015
+01:05:40,148 --> 01:05:41,148
+Aku setuju.
+
+1016
+01:05:41,650 --> 01:05:42,733
+Ini rencanaku.
+
+1017
+01:05:43,318 --> 01:05:44,443
+<i>Kita menyusup ke Taring,...</i>
+
+1018
+01:05:44,610 --> 01:05:46,112
+<i>...hadapi Namaari,...</i>
+
+1019
+01:05:47,780 --> 01:05:49,532
+<i>...dan tawarkan dia
+sesuatu yang bagus, dan bilang..</i>
+
+1020
+01:05:49,699 --> 01:05:51,702
+Hei! Mau bantu kami
+menyelamatkan dunia?
+
+1021
+01:05:51,869 --> 01:05:54,621
+Karena yang dibutuhkan
+hanyalah satu potong permata.
+
+1022
+01:05:54,788 --> 01:05:56,081
+Ya!
+
+1023
+01:05:56,164 --> 01:05:57,875
+Aku telah menunggu
+seseorang menanyakan itu!
+
+1024
+01:05:58,041 --> 01:05:59,168
+Silakan!
+
+1025
+01:05:59,543 --> 01:06:01,836
+Sahabat selamanya!
+
+1026
+01:06:04,590 --> 01:06:06,800
+Ya, kurasa aku
+lebih memilih rencana Boun.
+
+1027
+01:06:06,884 --> 01:06:07,885
+Apa?
+
+1028
+01:06:07,967 --> 01:06:08,969
+Ya!
+
+1029
+01:06:09,052 --> 01:06:10,052
+Apa, kenapa?
+
+1030
+01:06:10,137 --> 01:06:11,346
+Karena mereka Taring.
+
+1031
+01:06:11,512 --> 01:06:13,639
+Pedang mereka dirancang khusus...
+
+1032
+01:06:13,724 --> 01:06:15,516
+...untuk menusuk dari belakang.
+
+1033
+01:06:15,684 --> 01:06:16,726
+Jika bukan karena mereka,...
+
+1034
+01:06:16,809 --> 01:06:18,019
+...semua ini takkan terjadi.
+
+1035
+01:06:18,186 --> 01:06:19,730
+Mereka adalah yang terburuk.
+
+1036
+01:06:21,440 --> 01:06:23,108
+Jika kita jujur padanya,...
+
+1037
+01:06:23,275 --> 01:06:24,693
+...di lubuk hatiku, aku punya berfirasat...
+
+1038
+01:06:24,775 --> 01:06:26,485
+...dia ingin memperbaiki dunia
+seperti kita.
+
+1039
+01:06:26,652 --> 01:06:28,572
+Kau tidak hadir
+saat Namaari mengkhianatiku.
+
+1040
+01:06:28,905 --> 01:06:30,699
+Kita tetap pada rencanaku.
+
+1041
+01:06:33,827 --> 01:06:36,079
+Wow. Kenapa tiba-tiba hujan?
+
+1042
+01:06:36,246 --> 01:06:37,998
+Ayolah! Aku mau tunjukkan sesuatu.
+
+1043
+01:06:43,085 --> 01:06:45,088
+Jadi, kita harus bagaimana sekarang?
+
+1044
+01:06:45,380 --> 01:06:46,590
+Entahlah.
+
+1045
+01:06:47,215 --> 01:06:49,384
+Kau membawaku ke mana?
+
+1046
+01:06:53,364 --> 01:06:56,764
+<i>Hati</i>
+
+1047
+01:07:16,286 --> 01:07:18,413
+Sisu, kenapa kau membawaku ke sini?
+
+1048
+01:07:18,621 --> 01:07:20,123
+Di sinilah semuanya terjadi.
+
+1049
+01:07:20,456 --> 01:07:22,251
+Ya, aku tahu.
+
+1050
+01:07:23,626 --> 01:07:25,545
+Aku hadir.
+/ Tidak.
+
+1051
+01:07:26,380 --> 01:07:29,842
+Di sinilah semuanya terjadi
+500 tahun yang lalu.
+
+1052
+01:07:36,097 --> 01:07:38,891
+Aku ingin kau bertemu
+saudara-saudariku.
+
+1053
+01:07:39,268 --> 01:07:40,893
+Naga perkasa yang sesungguhnya.
+
+1054
+01:07:41,853 --> 01:07:43,146
+Aku rindu mereka.
+
+1055
+01:07:43,771 --> 01:07:45,648
+Aku tak pernah tahu
+mereka di sini.
+
+1056
+01:07:47,860 --> 01:07:49,695
+Lihat yang nampak berkelas di sana?
+
+1057
+01:07:50,070 --> 01:07:52,905
+Itu Amba. Aku dapat sinarku dari dia.
+
+1058
+01:07:53,072 --> 01:07:56,242
+Dan itu Pranee.
+Dia pengubah bentuk.
+
+1059
+01:07:56,827 --> 01:07:58,704
+Jagan, kabut.
+
+1060
+01:07:59,704 --> 01:08:01,539
+Dan Pengu.
+
+1061
+01:08:02,498 --> 01:08:03,958
+Dia abang kami.
+
+1062
+01:08:04,960 --> 01:08:06,503
+Dia yang membawa hujan.
+
+1063
+01:08:07,253 --> 01:08:09,797
+Kami adalah naga-naga terakhir.
+
+1064
+01:08:12,717 --> 01:08:15,052
+<i>Semua naga lainnya
+telah berubah menjadi batu.</i>
+
+1065
+01:08:16,387 --> 01:08:18,015
+<i>Kami tenggelam di lautan Druun.</i>
+
+1066
+01:08:21,643 --> 01:08:25,730
+<i>Tapi abangku Pengu
+menolak untuk kalah.</i>
+
+1067
+01:08:26,689 --> 01:08:29,025
+<i>Di sinilah kami membuat
+pertahanan terakhir kami..</i>
+
+1068
+01:08:30,194 --> 01:08:31,403
+<i>...dengan bersatu.</i>
+
+1069
+01:08:35,323 --> 01:08:37,783
+<i>Jadi, satu per satu,...</i>
+
+1070
+01:08:38,368 --> 01:08:41,037
+<i>...mereka menggabungkan semua sihir...</i>
+
+1071
+01:08:41,204 --> 01:08:44,207
+<i>...dan menciptakan Permata Naga.</i>
+
+1072
+01:08:49,296 --> 01:08:51,088
+<i>Aku tak tahu alasan mereka memilihku.</i>
+
+1073
+01:08:52,173 --> 01:08:54,176
+<i>Bisa saja salah satu dari kami.</i>
+
+1074
+01:08:56,929 --> 01:08:58,471
+<i>Yang kutahu...</i>
+
+1075
+01:08:59,055 --> 01:09:00,640
+<i>...adalah aku memercayai mereka...</i>
+
+1076
+01:09:02,475 --> 01:09:04,144
+<i>...dan mereka memercayaiku.</i>
+
+1077
+01:09:06,563 --> 01:09:07,980
+<i>Jadi..</i>
+
+1078
+01:09:18,242 --> 01:09:20,159
+Saat mereka percaya padaku,...
+
+1079
+01:09:20,868 --> 01:09:23,622
+...itu menguatkanku lebih tinggi
+dari yang kubayangkan.
+
+1080
+01:09:24,163 --> 01:09:26,291
+Hal serupa bisa terjadi
+dengan Namaari.
+
+1081
+01:09:27,167 --> 01:09:29,377
+Aku sungguh berharap
+aku bisa memercayainya.
+
+1082
+01:09:29,877 --> 01:09:32,171
+Aku pernah berpikir
+kami bisa berteman.
+
+1083
+01:09:32,463 --> 01:09:33,548
+Setelah semua ini,...
+
+1084
+01:09:34,091 --> 01:09:35,384
+...mungkin kalian bisa.
+
+1085
+01:09:36,092 --> 01:09:38,427
+Bahkan jika dia ingin membantu kita,...
+
+1086
+01:09:39,011 --> 01:09:40,847
+...bagaimana mungkin
+aku bisa percaya padanya?
+
+1087
+01:09:41,014 --> 01:09:42,975
+Tapi jika entah bagaimana kalian bisa,...
+
+1088
+01:09:43,057 --> 01:09:44,935
+...kau tak hanya
+mengembalikan Ba-mu.
+
+1089
+01:09:45,394 --> 01:09:47,229
+Kau juga akan mengembalikan impiannya.
+
+1090
+01:09:47,688 --> 01:09:48,939
+Kumandra.
+
+1091
+01:10:13,005 --> 01:10:15,131
+Menurutmu dia akan mengenaliku?
+
+1092
+01:10:16,550 --> 01:10:17,842
+Banyak hal telah berubah.
+
+1093
+01:10:20,136 --> 01:10:21,762
+Tentu saja dia bisa mengenalimu.
+
+1094
+01:10:22,639 --> 01:10:24,099
+Kau mengingatkanku padanya.
+
+1095
+01:10:24,725 --> 01:10:26,143
+Oh, ya? Kuat?
+
+1096
+01:10:26,225 --> 01:10:28,145
+Rupawan dengan rambut sempurna?
+
+1097
+01:10:31,189 --> 01:10:32,608
+Penuh harapan.
+
+1098
+01:10:36,819 --> 01:10:39,072
+Bagaimana aku bisa mendekati Namaari...
+
+1099
+01:10:39,155 --> 01:10:40,657
+...setelah semua yang terjadi?
+
+1100
+01:10:41,115 --> 01:10:45,078
+Mungkin terasa mustahil,
+tapi terkadang,...
+
+1101
+01:10:45,244 --> 01:10:46,997
+...kau hanya perlu
+mengambil langkah pertama,...
+
+1102
+01:10:47,079 --> 01:10:48,247
+...bahkan sebelum kau siap.
+
+1103
+01:10:49,248 --> 01:10:50,292
+Percayalah padaku.
+
+1104
+01:10:58,884 --> 01:11:01,011
+Baik. Kita pakai rencanamu.
+
+1105
+01:11:01,345 --> 01:11:03,805
+Apa? Rencanaku?
+Kau pakai rencanaku?
+
+1106
+01:11:03,889 --> 01:11:06,432
+Ya./ Baiklah!
+
+1107
+01:11:06,600 --> 01:11:07,850
+Kau takkan menyesali ini.
+
+1108
+01:11:08,018 --> 01:11:09,520
+Tapi kita akan butuh
+hadiah yang sangat bagus.
+
+1109
+01:11:09,685 --> 01:11:11,854
+Menurutmu apa yang dia suka?
+Kucing? Pisau?
+
+1110
+01:11:12,064 --> 01:11:13,439
+Kucing dengan pisau?
+
+1111
+01:11:13,524 --> 01:11:14,774
+Pisau dengan hiasan kucing kecil?
+
+1112
+01:11:14,858 --> 01:11:18,529
+Sebenarnya, aku tahu persis
+harus memberikan apa.
+
+1113
+01:11:23,574 --> 01:11:27,328
+Dan begitulah cara
+negeri Taring bangkit...
+
+1114
+01:11:27,496 --> 01:11:31,082
+...meskipun ada semua monster yang
+ingin menghancurkan kita.
+
+1115
+01:11:31,250 --> 01:11:34,711
+Karena kita cerdas, ulet,...
+
+1116
+01:11:35,127 --> 01:11:36,505
+...dan saling menjaga sesama.
+
+1117
+01:11:36,671 --> 01:11:38,422
+Ibu! Kita perlu bicara.
+
+1118
+01:11:38,590 --> 01:11:39,716
+Itu Putri Namaari!
+
+1119
+01:11:41,009 --> 01:11:43,595
+Baiklah, sekarang pergilah, Anak-anak.
+
+1120
+01:11:43,679 --> 01:11:45,972
+Aku harus bicara
+dengan sang putri.
+
+1121
+01:11:46,139 --> 01:11:48,600
+Ibu, kau takkan percaya
+apa yang kulihat.
+
+1122
+01:11:48,766 --> 01:11:50,394
+Kau melihat seekor naga.
+
+1123
+01:11:51,435 --> 01:11:52,979
+Jenderal Atitāya memberi tahuku...
+
+1124
+01:11:53,145 --> 01:11:55,524
+...bahwa kau pulang
+tanpa potongan permatanya.
+
+1125
+01:11:55,690 --> 01:11:57,149
+Itu adalah Sisu.
+
+1126
+01:11:57,317 --> 01:11:59,319
+Dia bisa memperbaiki
+apa yang rusak.
+
+1127
+01:11:59,485 --> 01:12:00,904
+Dia bisa mengembalikan semua orang.
+
+1128
+01:12:01,070 --> 01:12:03,407
+Dan itulah yang membuatku takut.
+
+1129
+01:12:03,614 --> 01:12:05,283
+Saat semua orang kembali,...
+
+1130
+01:12:05,367 --> 01:12:07,202
+...siapa yang akan mereka incar?
+
+1131
+01:12:07,327 --> 01:12:08,328
+Kau lupa.
+
+1132
+01:12:08,412 --> 01:12:10,747
+Negeri lain menyalahkan kita
+atas apa yang terjadi.
+
+1133
+01:12:10,913 --> 01:12:13,457
+Tapi kita tak bermaksud
+melukai siapapun.
+
+1134
+01:12:13,667 --> 01:12:17,003
+Ya, tapi jika kita punya naga itu...
+
+1135
+01:12:17,171 --> 01:12:18,963
+...dan potongan permatanya,...
+
+1136
+01:12:19,131 --> 01:12:21,007
+...kita akan dimaafkan.
+
+1137
+01:12:21,175 --> 01:12:22,676
+Kita bisa selamatkan dunia.
+
+1138
+01:12:22,842 --> 01:12:25,970
+Tapi yang terpenting,
+rakyat kita akan tetap aman.
+
+1139
+01:12:26,137 --> 01:12:28,681
+Tapi Raya takkan menyerahkan
+Sisu pada kita begitu saja.
+
+1140
+01:12:29,850 --> 01:12:31,768
+Kita takkan memberinya pilihan.
+
+1141
+01:12:32,603 --> 01:12:34,229
+Apa yang akan kau lakukan?
+
+1142
+01:12:34,563 --> 01:12:36,689
+Itu bukan lagi urusanmu, Sayangku.
+
+1143
+01:12:37,190 --> 01:12:38,524
+Kau sudah cukup berusaha.
+
+1144
+01:12:49,912 --> 01:12:51,162
+Jika dia menolak membantu,...
+
+1145
+01:12:51,329 --> 01:12:53,414
+...kita baru saja
+membuang keuntungan taktis kita...
+
+1146
+01:12:53,582 --> 01:12:55,458
+...sia-sia.
+/ Aku tahu.
+
+1147
+01:12:55,626 --> 01:12:57,502
+Ya. Dia tak punya alasan untuk membantu.
+
+1148
+01:12:57,586 --> 01:12:58,587
+Aku tahu!
+
+1149
+01:12:58,670 --> 01:12:59,880
+Dendeng ini buruk.
+
+1150
+01:12:59,962 --> 01:13:00,963
+Aku tahu!
+
+1151
+01:13:01,047 --> 01:13:03,216
+Kau yakin empat miniatur mengancam itu...
+
+1152
+01:13:03,300 --> 01:13:04,301
+...akan berhasil?
+
+1153
+01:13:04,510 --> 01:13:06,886
+Aku tak tahu.
+
+1154
+01:13:17,898 --> 01:13:19,942
+
+
+1155
+01:13:26,698 --> 01:13:27,740
+
+
+1156
+01:13:54,100 --> 01:13:55,101
+
+
+1157
+01:14:21,127 --> 01:14:22,337
+Terlalu banyak rempah.
+
+1158
+01:14:22,421 --> 01:14:24,046
+Tidak. Terlalu banyak bambu.
+
+1159
+01:14:24,213 --> 01:14:25,215
+Kau tahu apa?
+
+1160
+01:14:25,298 --> 01:14:26,507
+Seleramu seperti bayi tinggi.
+
+1161
+01:14:26,675 --> 01:14:28,301
+Kau berpakaian seperti bayi tinggi.
+
+1162
+01:14:28,467 --> 01:14:29,970
+Berikan sendoknya!
+Biar aku saja!
+
+1163
+01:14:30,136 --> 01:14:32,264
+Minggir.
+Aku profesionalnya di sini.
+
+1164
+01:14:32,430 --> 01:14:33,724
+Bolehkah aku?
+
+1165
+01:14:38,103 --> 01:14:39,104
+
+
+1166
+01:14:39,188 --> 01:14:40,189
+Ini lezat.
+
+1167
+01:14:40,314 --> 01:14:42,231
+Hanya sedikit hal
+yang ditunjukkan Ba-ku.
+
+1168
+01:14:42,315 --> 01:14:43,859
+Apa dia juga menunjukkanmu...
+
+1169
+01:14:43,942 --> 01:14:45,569
+...cara membuat dendeng lezat itu?
+
+1170
+01:14:45,652 --> 01:14:47,820
+Tidak, itu aku,
+
+1171
+01:14:50,948 --> 01:14:53,159
+Senang rasanya bisa
+makan bersama lagi.
+
+1172
+01:14:53,368 --> 01:14:54,578
+Aku paham maksudmu.
+
+1173
+01:14:55,287 --> 01:14:57,206
+Aku punya kakak menjengkelkan...
+
+1174
+01:14:57,288 --> 01:14:58,873
+...yang selalu
+mengacak-acak rambutku.
+
+1175
+01:15:00,250 --> 01:15:02,002
+Aku paling tak sabar untuk menemuinya.
+
+1176
+01:15:02,168 --> 01:15:03,712
+Setelah kita menjayakan keadaan,...
+
+1177
+01:15:03,878 --> 01:15:06,256
+...aku tak sabar untuk
+mengisi bola mataku...
+
+1178
+01:15:06,422 --> 01:15:11,677
+...dengan gambaran kegembiraan
+desaku yang penuh lagi.
+
+1179
+01:15:13,555 --> 01:15:17,434
+Dan kau akan dipersatukan
+kembali dengan keluargamu, Noi.
+
+1180
+01:15:17,809 --> 01:15:19,810
+Kau baru saja memanggil dia apa?
+
+1181
+01:15:19,978 --> 01:15:21,313
+Noi. Itu namanya.
+
+1182
+01:15:22,480 --> 01:15:23,981
+Tertulis di kerahnya.
+
+1183
+01:15:24,149 --> 01:15:26,068
+Kalian tak ada yang mengeceknya?
+
+1184
+01:15:26,275 --> 01:15:28,487
+Dan mereka pikir
+aku yang jahat.
+
+1185
+01:15:33,033 --> 01:15:34,033
+Apa maksudnya?
+
+1186
+01:15:34,158 --> 01:15:35,159
+Artinya kita mulai.
+
+1187
+01:15:36,328 --> 01:15:37,328
+Sisu,...
+
+1188
+01:15:37,496 --> 01:15:38,704
+...sampai kita dapatkan permatanya...
+
+1189
+01:15:38,788 --> 01:15:41,250
+...dan memastikan Namaari
+benar-benar ada di pihak kita,...
+
+1190
+01:15:41,500 --> 01:15:43,543
+...berjanjilah padaku
+kau akan tetap tersembunyi.
+
+1191
+01:15:58,266 --> 01:16:00,143
+Bisa kulihat kau dapat hadiahku.
+
+1192
+01:16:01,228 --> 01:16:03,313
+Tak kukira
+akan melihat ini lagi.
+
+1193
+01:16:03,479 --> 01:16:04,981
+
+
+1194
+01:16:05,148 --> 01:16:06,899
+Aku berusaha merawatnya.
+
+1195
+01:16:09,360 --> 01:16:12,197
+Kau bukan satu-satunya
+kutu buku naga di sini.
+
+1196
+01:16:33,217 --> 01:16:34,427
+Potongan terakhir.
+
+1197
+01:16:34,595 --> 01:16:36,512
+Waktunya mengembalikan semua orang.
+
+1198
+01:16:42,394 --> 01:16:44,938
+Sisu dan permata itu ikut denganku.
+
+1199
+01:16:45,314 --> 01:16:46,773
+Sisu!/ Mundur!
+
+1200
+01:16:46,939 --> 01:16:49,484
+Memercayai orang Taring itu bodoh!
+
+1201
+01:16:49,650 --> 01:16:50,985
+Jangan mendekat!
+
+1202
+01:16:51,153 --> 01:16:52,154
+Namaari,...
+
+1203
+01:16:52,445 --> 01:16:54,530
+...keadaan tak harus begini.
+
+1204
+01:16:54,698 --> 01:16:57,283
+Aku tak punya pilihan lain.
+
+1205
+01:16:57,951 --> 01:17:01,078
+Hei. Biar aku saja.
+
+1206
+01:17:09,546 --> 01:17:11,465
+Aku tahu kau tak ingin
+menyakiti siapapun.
+
+1207
+01:17:11,631 --> 01:17:12,966
+Kau sedang apa?
+
+1208
+01:17:13,425 --> 01:17:15,135
+Kau hanya inginkan
+dunia yang lebih baik.
+
+1209
+01:17:15,301 --> 01:17:17,179
+Seperti kami seua.
+
+1210
+01:17:17,970 --> 01:17:19,222
+Sisu..
+
+1211
+01:17:20,849 --> 01:17:22,559
+Aku memercayaimu, Namaari.
+
+1212
+01:17:37,823 --> 01:17:39,076
+Tidak!
+
+1213
+01:17:42,578 --> 01:17:43,579
+Sisu!
+
+1214
+01:17:49,127 --> 01:17:51,296
+Tidak..
+
+1215
+01:18:06,561 --> 01:18:08,354
+Apa yang terjadi?
+
+1216
+01:18:08,939 --> 01:18:10,314
+Entahlah.
+
+1217
+01:18:11,065 --> 01:18:13,318
+Tampaknya dengan
+ketiadaan naga terakhir,...
+
+1218
+01:18:13,402 --> 01:18:14,987
+...air pun juga tiada.
+
+1219
+01:18:16,029 --> 01:18:18,739
+Kini tak ada yang bisa
+menghentikan Druun.
+
+1220
+01:18:19,908 --> 01:18:21,243
+Tidak ada.
+
+1221
+01:18:32,587 --> 01:18:33,588
+Raya?
+
+1222
+01:18:34,590 --> 01:18:35,841
+Di mana Raya?
+
+1223
+01:19:11,001 --> 01:19:12,336
+Namaari!
+
+1224
+01:19:13,462 --> 01:19:15,546
+Ayo selesaikan ini, Binturi.
+
+1225
+01:19:40,988 --> 01:19:43,367
+Raya!
+
+1226
+01:19:50,248 --> 01:19:51,707
+Dia tidak bisa melihat kita.
+
+1227
+01:19:52,125 --> 01:19:54,711
+Raya dibutakan oleh
+amarahnya sendiri.
+
+1228
+01:19:56,087 --> 01:19:58,172
+Kekuatan permata itu memudar!
+
+1229
+01:20:00,300 --> 01:20:01,760
+Semua orang ini adalah makanan Druun...
+
+1230
+01:20:01,844 --> 01:20:02,970
+...jika kita tak mengeluarkan mereka.
+
+1231
+01:20:06,390 --> 01:20:09,393
+Ayo! Percaya padaku,
+semua akan baik-baik saja.
+
+1232
+01:20:10,685 --> 01:20:12,813
+Druun bodoh! Minggir!
+
+1233
+01:20:12,979 --> 01:20:14,230
+Pergi, pergi!
+
+1234
+01:20:15,524 --> 01:20:17,484
+Ayo naik! Ya!
+
+1235
+01:20:27,743 --> 01:20:29,078
+Pergi, pergi! Cepat!
+
+1236
+01:20:29,412 --> 01:20:32,248
+Pergi ke air! Terus! Terus!
+
+1237
+01:20:36,086 --> 01:20:38,087
+Ayo! Ayo!
+
+1238
+01:21:24,301 --> 01:21:26,220
+Aku tak pernah ingin
+semua ini terjadi.
+
+1239
+01:21:26,386 --> 01:21:27,595
+Pembohong!
+
+1240
+01:21:29,055 --> 01:21:31,099
+Aku tak peduli
+apa kau percaya padaku.
+
+1241
+01:21:31,891 --> 01:21:32,935
+Sisu percaya.
+
+1242
+01:21:34,478 --> 01:21:35,979
+Tapi kau tidak percaya dia.
+
+1243
+01:21:37,564 --> 01:21:39,149
+Itu sebabnya kita di sini.
+
+1244
+01:21:40,274 --> 01:21:41,818
+Lakukan apapun yang kau mau.
+
+1245
+01:21:42,485 --> 01:21:45,613
+Tapi kau sama bersalahnya sepertiku
+atas kematian Sisu.
+
+1246
+01:21:55,207 --> 01:21:56,582
+Tong, masih ada orang
+di belakang!
+
+1247
+01:21:56,750 --> 01:21:58,292
+Cepat! Kita kehabisan waktu!
+
+1248
+01:21:58,377 --> 01:21:59,418
+Paham!
+
+1249
+01:21:59,502 --> 01:22:01,755
+Semuanya, keluar! Ikut bersamaku!
+
+1250
+01:22:36,582 --> 01:22:38,082
+Baik, Tuk,
+ini yang terakhir.
+
+1251
+01:22:38,250 --> 01:22:39,960
+Pergi! Kami di belakangmu.
+
+1252
+01:22:41,461 --> 01:22:42,462
+Tuk Tuk!
+
+1253
+01:22:45,591 --> 01:22:47,050
+Tunggu apa lagi? Pergi!
+
+1254
+01:22:54,765 --> 01:22:56,018
+Raya!
+
+1255
+01:22:57,185 --> 01:22:59,729
+Dialah yang membunuh Sisu!
+
+1256
+01:23:11,742 --> 01:23:14,161
+Raya! Raya!
+
+1257
+01:23:14,328 --> 01:23:16,204
+Sihir permata, hampir habis!
+
+1258
+01:23:16,371 --> 01:23:18,039
+Mereka tidak mundur!
+
+1259
+01:23:18,207 --> 01:23:19,750
+Mereka ada di mana-mana!
+
+1260
+01:23:44,274 --> 01:23:46,275
+<i>Aku tak tahu alasan
+mereka memilihku.</i>
+
+1261
+01:23:47,694 --> 01:23:49,238
+Bisa saja salah satu dari kami.
+
+1262
+01:23:50,322 --> 01:23:53,115
+Yang kutahu adalah
+aku memercayai mereka,...
+
+1263
+01:23:53,658 --> 01:23:55,452
+...dan mereka memercayaiku.
+
+1264
+01:23:56,286 --> 01:23:57,746
+Jadi..
+
+1265
+01:24:00,623 --> 01:24:02,251
+Semuanya, berikan permata kalian.
+
+1266
+01:24:02,376 --> 01:24:04,711
+Kita masih bisa menyatukannya.
+Masih bisa berfungsi.
+
+1267
+01:24:04,795 --> 01:24:07,421
+Sisu sudah tiada, Raya!
+Kita tak punya sihirnya!
+
+1268
+01:24:07,506 --> 01:24:10,384
+Bukan soal sihirnya.
+Ini soal kepercayaan.
+
+1269
+01:24:10,466 --> 01:24:11,510
+Apa?
+
+1270
+01:24:11,592 --> 01:24:14,345
+Makanya itu pernah berhasil.
+Makanya kita juga bisa.
+
+1271
+01:24:14,512 --> 01:24:17,474
+Dengan melakukan satu hal
+yang Sisu ingin kita lakukan.
+
+1272
+01:24:17,640 --> 01:24:19,685
+Apa yang Ba-ku ingin kita lakukan.
+
+1273
+01:24:19,851 --> 01:24:22,729
+Untuk akhirnya saling memercayai
+dan memperbaiki ini.
+
+1274
+01:24:23,896 --> 01:24:26,399
+Tapi kita harus bersatu.
+
+1275
+01:24:26,567 --> 01:24:27,734
+Kumohon.
+
+1276
+01:24:27,900 --> 01:24:29,694
+Setelah yang dia perbuat?
+
+1277
+01:24:29,778 --> 01:24:31,238
+Kita takkan pernah memercayainya!
+
+1278
+01:24:37,034 --> 01:24:38,744
+Kalau begitu biar aku
+mengambil langkah pertama.
+
+1279
+01:24:50,047 --> 01:24:51,175
+Raya! Tidak!
+
+1280
+01:28:12,042 --> 01:28:14,545
+Berhasil! Berhasil!
+
+1281
+01:29:00,215 --> 01:29:02,509
+Tuk Tuk!
+
+1282
+01:29:03,135 --> 01:29:04,219
+
+
+1283
+01:30:21,880 --> 01:30:23,422
+Pranee! Amba!
+
+1284
+01:30:23,631 --> 01:30:24,632
+Jagan!
+
+1285
+01:30:24,841 --> 01:30:26,467
+Pengu!
+
+1286
+01:30:26,551 --> 01:30:28,929
+Ya!
+
+1287
+01:31:00,252 --> 01:31:01,252
+Raya.
+
+1288
+01:31:02,462 --> 01:31:03,630
+Sisu.
+
+1289
+01:31:04,463 --> 01:31:07,885
+Aku lapar sekali.
+
+1290
+01:31:08,510 --> 01:31:09,886
+Aku punya sedikit dendeng.
+
+1291
+01:31:10,429 --> 01:31:11,637
+Tidak terlalu lapar.
+
+1292
+01:31:20,898 --> 01:31:22,524
+Sisu!
+
+1293
+01:31:22,608 --> 01:31:26,862
+Senang menghirup bau naga lagi.
+
+1294
+01:31:26,944 --> 01:31:28,572
+Kuanggap itu pujian.
+
+1295
+01:32:18,829 --> 01:32:19,957
+Ibu!
+
+1296
+01:32:20,039 --> 01:32:21,542
+Bayiku!
+
+1297
+01:32:25,002 --> 01:32:26,171
+Bu, lihat, itu Boun!
+
+1298
+01:32:28,297 --> 01:32:29,423
+Itu Boun!
+
+1299
+01:33:08,921 --> 01:33:10,131
+Ba?
+
+1300
+01:33:14,595 --> 01:33:16,262
+Embun?
+
+1301
+01:33:19,056 --> 01:33:20,057
+Ba!
+
+1302
+01:33:37,283 --> 01:33:38,743
+Itu benar-benar dia?
+
+1303
+01:33:42,706 --> 01:33:46,502
+Ketua Benja, anakmu membanggakanmu.
+
+1304
+01:33:47,293 --> 01:33:50,255
+Semoga kau tak keberatan,
+dia membawa beberapa teman.
+
+1305
+01:34:18,908 --> 01:34:20,536
+Ba?
+
+1306
+01:34:21,203 --> 01:34:23,956
+Selamat datang di Kumandra.
+
+1307
+01:35:00,048 --> 01:35:15,048
+ISB888
+
+1308
+01:35:15,073 --> 01:35:25,073
+ISB888
+
+1309
+01:35:25,073 --> 01:35:50,073
+ISB888
+
+1310
+01:35:50,096 --> 01:36:15,096
+ISB888
