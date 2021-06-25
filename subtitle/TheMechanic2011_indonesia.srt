@@ -5,7 +5,6 @@ ISB388
 2
 00:01:30,995 --> 00:01:40,995
 ISB388
-[ 247 - 414 ]
 
 3
 00:01:41,995 --> 00:01:45,995
@@ -21,42 +20,42 @@ NEW ORLEANS, LUSIANA
 
 6
 00:05:47,742 --> 00:05:50,202
-<i>apa yang kulakukan harus
-benar-benar disiapkan.</i>
+apa yang kulakukan harus
+benar-benar disiapkan.
 
 7
 00:05:52,558 --> 00:05:57,008
-<i>Aku melakukan tugas yang diberikan,
-dengan nama target yang sudah ditentukan.</i>
+Aku melakukan tugas yang diberikan,
+dengan nama target yang sudah ditentukan.
 
 8
 00:05:58,728 --> 00:06:01,108
-<i>Beberapa pekerjaanku,
-kadang harus terlihat seperti kecelakaan.</i>
+Beberapa pekerjaanku,
+kadang harus terlihat seperti kecelakaan.
 
 9
 00:06:03,500 --> 00:06:06,570
-<i>Yang lainnya harus terlihat
-seperti orang lain yang melakukannya.</i>
+Yang lainnya harus terlihat
+seperti orang lain yang melakukannya.
 
 10
 00:06:11,252 --> 00:06:14,262
-<i>Hanya sedikit orang yang terpilih,
-Dan hanya sedikit yang menyelesaikannya.</i>
+Hanya sedikit orang yang terpilih,
+Dan hanya sedikit yang menyelesaikannya.
 
 11
 00:06:18,582 --> 00:06:20,212
-<i>Menarik pelatuk itu mudah.</i>
+Menarik pelatuk itu mudah.
 
 12
 00:06:22,078 --> 00:06:25,228
-<i>Namun misi terbaik adalah kalau tidak ada
-yang tahu dimana dirimu berada.</i>
+Namun misi terbaik adalah kalau tidak ada
+yang tahu dimana dirimu berada.
 
 13
 00:06:28,458 --> 00:06:31,678
-<i>Jorge Lara, pemimpin cartel obat bius,
-tenggelam saat berenang</i>
+Jorge Lara, pemimpin cartel obat bius,
+tenggelam saat berenang
 
 14
 00:06:52,928 --> 00:06:55,358
@@ -242,7 +241,7 @@ Ya, sampai nanti, Brad!
 
 54
 00:12:22,925 --> 00:12:23,937
-<i>Cobol engineering</i>
+Cobol engineering
 
 55
 00:12:24,113 --> 00:12:27,515
@@ -251,12 +250,12 @@ pasti ada kesalahan.
 
 56
 00:12:27,602 --> 00:12:28,923
-<i>Mohon tunggu sebentar</i>
+Mohon tunggu sebentar
 
 57
 00:12:31,169 --> 00:12:33,829
-<i>iklannya sudah disetujui,
-informasinya sudah akurat.</i>
+iklannya sudah disetujui,
+informasinya sudah akurat.
 
 58
 00:12:35,235 --> 00:12:36,662
@@ -264,42 +263,42 @@ Aku ingin adakan pertemuan.
 
 59
 00:12:37,789 --> 00:12:38,965
-<i>Kami akan menghubungimu kembali.</i>
+Kami akan menghubungimu kembali.
 
 60
 00:12:46,812 --> 00:12:49,251
-<i>Mr bishop, mr Dean setuju bertemu denganmu</i>
+Mr bishop, mr Dean setuju bertemu denganmu
 
 61
 00:12:49,357 --> 00:12:50,803
-<i>akan ada jet pribadi 1 jam lagi</i>
+akan ada jet pribadi 1 jam lagi
 
 62
 00:12:50,967 --> 00:12:53,126
-<i>mendarat di tempat netral
-yang sudah ditentukan.</i>
+mendarat di tempat netral
+yang sudah ditentukan.
 
 63
 00:12:53,251 --> 00:12:56,413
-<i>Kau hanya punya waktu 15 menit
-setelah itu pesawat akan terbang kembali.</i>
+Kau hanya punya waktu 15 menit
+setelah itu pesawat akan terbang kembali.
 
 64
 00:12:57,579 --> 00:12:59,025
-<i>Kalau kau bilang akan pulang jam 10.</i>
+Kalau kau bilang akan pulang jam 10.
 
 65
 00:12:59,122 --> 00:13:00,972
-<i>Itu artinya jam 10, bukan 11.30</i>
+Itu artinya jam 10, bukan 11.30
 
 66
 00:13:01,618 --> 00:13:02,881
-<i>aku tidak perduli, sayang.</i>
+aku tidak perduli, sayang.
 
 67
 00:13:02,958 --> 00:13:05,175
-<i>Kau menakuti ibumu sampai hampir mati,
-kau sedang dihukum selama 2 minggu.</i>
+Kau menakuti ibumu sampai hampir mati,
+kau sedang dihukum selama 2 minggu.
 
 68
 00:13:05,532 --> 00:13:06,496
@@ -307,20 +306,20 @@ Tunggu sebentar.
 
 69
 00:13:09,465 --> 00:13:10,544
-<i>Itu bukan masalahku.</i>
+Itu bukan masalahku.
 
 70
 00:13:12,336 --> 00:13:13,252
-<i>Coba dengar..</i>
+Coba dengar..
 
 71
 00:13:13,358 --> 00:13:15,787
-<i>10 hari jadi sukarelawan,
-2 sabtu dipenampungan.</i>
+10 hari jadi sukarelawan,
+2 sabtu dipenampungan.
 
 72
 00:13:16,954 --> 00:13:18,641
-<i>Delapan hari Dan 3 hari sabtu.</i>
+Delapan hari Dan 3 hari sabtu.
 
 73
 00:13:19,287 --> 00:13:20,414
@@ -328,7 +327,7 @@ Cincin yang bagus.
 
 74
 00:13:20,598 --> 00:13:21,340
-<i>Setuju..</i>
+Setuju..
 
 75
 00:13:21,475 --> 00:13:22,882
@@ -341,8 +340,8 @@ kecuali kau jadi juara dunia.
 
 77
 00:13:25,600 --> 00:13:27,509
-<i>Ceritakan padaku,
-kita akan selesaikan sayang.</i>
+Ceritakan padaku,
+kita akan selesaikan sayang.
 
 78
 00:13:28,348 --> 00:13:29,418
@@ -533,8 +532,8 @@ Tunggu sebentar.
 
 121
 00:15:56,781 --> 00:16:00,570
-<i>Teman, kau pernah dengar istilah,
-" selesaikan selagi kau bisa ? "</i>
+Teman, kau pernah dengar istilah,
+" selesaikan selagi kau bisa ? "
 
 122
 00:16:06,604 --> 00:16:09,130
@@ -564,7 +563,7 @@ semua lima tersangka di tembak mati
 
 128
 00:17:14,957 --> 00:17:15,660
-<i>ya</i>
+ya
 
 129
 00:17:15,805 --> 00:17:19,034
@@ -573,7 +572,7 @@ semua lima tersangka di tembak mati
 
 130
 00:17:19,217 --> 00:17:20,740
-<i>Akan ada yang mengujungimu malam ini</i>
+Akan ada yang mengujungimu malam ini
 
 131
 00:17:21,145 --> 00:17:23,526
@@ -582,8 +581,8 @@ semua lima tersangka di tembak mati
 
 132
 00:17:24,490 --> 00:17:26,678
-<i>Gunakan apapun yang bisa
-membuatmu keluar dari situ.</i>
+Gunakan apapun yang bisa
+membuatmu keluar dari situ.
 
 133
 00:17:27,122 --> 00:17:28,722
@@ -591,12 +590,12 @@ Ya tuhan...
 
 134
 00:17:28,828 --> 00:17:31,228
-<i>Kau lebih baik bawa gunting</i>
+Kau lebih baik bawa gunting
 
 135
 00:17:35,016 --> 00:17:37,407
-<i>- gunakan lift yang menuju lobby.
-- Aku dalam perjalanan.</i>
+- gunakan lift yang menuju lobby.
+- Aku dalam perjalanan.
 
 136
 00:17:45,119 --> 00:17:47,451
@@ -604,12 +603,12 @@ Kelihatannya catu daya dilantai 18 mati.
 
 137
 00:17:47,577 --> 00:17:49,640
-<i>Kau punya waktu 15 detik
-untuk menuju ke lift layanan.</i>
+Kau punya waktu 15 detik
+untuk menuju ke lift layanan.
 
 138
 00:17:49,746 --> 00:17:51,635
-<i>Sebelum generator cadangannya beroperasi.</i>
+Sebelum generator cadangannya beroperasi.
 
 139
 00:17:51,770 --> 00:17:52,551
@@ -617,7 +616,7 @@ Aku lihat keyboard.
 
 140
 00:17:52,666 --> 00:17:53,765
-<i>Tekan nomor gedungmu.</i>
+Tekan nomor gedungmu.
 
 141
 00:17:53,871 --> 00:17:54,999
@@ -625,7 +624,7 @@ Tapi aku sudah matikan catu dayanya.
 
 142
 00:17:55,086 --> 00:17:57,737
-<i>Lift layanan punya catu daya yang berbeda.</i>
+Lift layanan punya catu daya yang berbeda.
 
 143
 00:17:59,135 --> 00:18:00,118
@@ -633,26 +632,26 @@ Aku sudah masuk.
 
 144
 00:18:00,764 --> 00:18:02,152
-<i>Pergi ke lantai basement.</i>
+Pergi ke lantai basement.
 
 145
 00:18:02,653 --> 00:18:04,860
-<i>Lift akan membawamu kesana
-dalam waktu 18 detik.</i>
+Lift akan membawamu kesana
+dalam waktu 18 detik.
 
 146
 00:18:05,574 --> 00:18:08,533
-<i>Lantai itu kosong Dan tidak terpakai,
-ambil jalan yang menurun.</i>
+Lantai itu kosong Dan tidak terpakai,
+ambil jalan yang menurun.
 
 147
 00:18:08,822 --> 00:18:11,020
-<i>Pergi ke gedung berikutnya lewat pintu lain.</i>
+Pergi ke gedung berikutnya lewat pintu lain.
 
 148
 00:18:11,878 --> 00:18:13,970
-<i>Kumohon, gunakan tangga
-itu untuk ke tempat parkir.</i>
+Kumohon, gunakan tangga
+itu untuk ke tempat parkir.
 
 149
 00:18:15,387 --> 00:18:16,399
@@ -660,16 +659,16 @@ Sial...!
 
 150
 00:18:18,009 --> 00:18:20,206
-<i>Kamera keamanan digedung ini
-sementara tidak beroperasi.</i>
+Kamera keamanan digedung ini
+sementara tidak beroperasi.
 
 151
 00:18:20,341 --> 00:18:21,768
-<i>Jadi bisa diyakinkan kau tidak terlihat.</i>
+Jadi bisa diyakinkan kau tidak terlihat.
 
 152
 00:18:28,708 --> 00:18:30,656
-<i>Kau harusnya sudah ada ditempat parkir sekarang</i>
+Kau harusnya sudah ada ditempat parkir sekarang
 
 153
 00:18:42,705 --> 00:18:44,083
@@ -677,7 +676,7 @@ mobilku ada disini.
 
 154
 00:18:44,565 --> 00:18:45,905
-<i>Aku yang bawa.</i>
+Aku yang bawa.
 
 155
 00:18:46,946 --> 00:18:48,720
@@ -1253,16 +1252,16 @@ Besok akan jadi hari yang sibuk.
 
 285
 00:33:22,001 --> 00:33:24,144
-<i>Bawa anjingnya ke kedai kopi di riverdale.</i>
+Bawa anjingnya ke kedai kopi di riverdale.
 
 286
 00:33:25,380 --> 00:33:27,194
-<i>Pesan kopi hitam</i>
+Pesan kopi hitam
 
 287
 00:33:27,937 --> 00:33:31,334
-<i>duduk di dekat jendela Dan selesaikan
-sudoku yang ada di koran</i>
+duduk di dekat jendela Dan selesaikan
+sudoku yang ada di koran
 
 288
 00:33:31,421 --> 00:33:33,225
@@ -1455,37 +1454,37 @@ Itu milikmu.
 
 331
 00:39:11,147 --> 00:39:12,576
-<i>Kau sudah tahu dengan melihatnya</i>
+Kau sudah tahu dengan melihatnya
 
 332
 00:39:12,730 --> 00:39:14,718
-<i>dia pembunuh bayaran dari kelompok lain</i>
+dia pembunuh bayaran dari kelompok lain
 
 333
 00:39:15,905 --> 00:39:18,781
-<i>ia selalu minum kopi setiap hari
-dari jam 9 sampai jam 10</i>
+ia selalu minum kopi setiap hari
+dari jam 9 sampai jam 10
 
 334
 00:39:18,896 --> 00:39:21,039
-<i>tidak pernah pergi ke lebih dari 2 tempat</i>
+tidak pernah pergi ke lebih dari 2 tempat
 
 335
 00:39:22,853 --> 00:39:24,744
-<i>ia menyendiri Dan terlindungi</i>
+ia menyendiri Dan terlindungi
 
 336
 00:39:25,082 --> 00:39:26,954
-<i>tapi kita tahu saat ini tidak
-ada yang mengunjunginya</i>
+tapi kita tahu saat ini tidak
+ada yang mengunjunginya
 
 337
 00:39:27,080 --> 00:39:28,701
-<i> dia punya 2 kelemahan...</i>
+ dia punya 2 kelemahan...
 
 338
 00:39:28,855 --> 00:39:30,052
-<i>Anjing chihuahua...</i>
+Anjing chihuahua...
 
 339
 00:39:30,216 --> 00:39:31,355
@@ -1494,7 +1493,7 @@ ada yang mengunjunginya</i>
 
 340
 00:39:31,451 --> 00:39:34,423
-<i>Dan pria..Pria muda</i>
+Dan pria..Pria muda
 
 341
 00:39:34,530 --> 00:39:36,151
@@ -1503,17 +1502,17 @@ ada yang mengunjunginya</i>
 
 342
 00:39:36,286 --> 00:39:37,647
-<i>Walaupun kau sudah berada
-di kedai itu selama 6 minggu</i>
+Walaupun kau sudah berada
+di kedai itu selama 6 minggu
 
 343
 00:39:37,762 --> 00:39:40,040
-<i>belum ada kontak antara kau Dan dunianya</i>
+belum ada kontak antara kau Dan dunianya
 
 344
 00:39:40,175 --> 00:39:43,157
-<i>dia mencari anak muda yang ganteng
-Dan kelihatan seperti tidak punya rumah</i>
+dia mencari anak muda yang ganteng
+Dan kelihatan seperti tidak punya rumah
 
 345
 00:39:43,292 --> 00:39:45,164
@@ -1522,7 +1521,7 @@ Dan kelihatan seperti tidak punya rumah</i>
 
 346
 00:39:45,309 --> 00:39:46,216
-<i>Dia menyukai itu</i>
+Dia menyukai itu
 
 347
 00:39:46,351 --> 00:39:47,895
@@ -1530,8 +1529,8 @@ kemari, sayang.
 
 348
 00:39:48,049 --> 00:39:51,359
-<i>Kalau dia tertarik.. Hal pertama
-yang dilakukan adalah bertanya padamu</i>
+Kalau dia tertarik.. Hal pertama
+yang dilakukan adalah bertanya padamu
 
 349
 00:39:51,687 --> 00:39:53,019
@@ -1539,7 +1538,7 @@ kau punya tempat tinggal, Steve?
 
 350
 00:39:53,135 --> 00:39:54,100
-<i>Kau harus menjawab..</i>
+Kau harus menjawab..
 
 351
 00:39:54,206 --> 00:39:55,904
@@ -1547,7 +1546,7 @@ Aku tinggal tidak tentu...
 
 352
 00:39:56,001 --> 00:39:58,028
-<i>...Itu artinya kau sudah membuka jalan</i>
+...Itu artinya kau sudah membuka jalan
 
 353
 00:39:58,143 --> 00:39:59,311
@@ -1555,7 +1554,7 @@ Aku tinggal tidak tentu...
 
 354
 00:39:59,765 --> 00:40:01,299
-<i>kemudian menanyakanmu lagi..</i>
+kemudian menanyakanmu lagi..
 
 355
 00:40:01,405 --> 00:40:03,422
@@ -1563,7 +1562,7 @@ Kau mau tambah minuman lagi ?
 
 356
 00:40:03,528 --> 00:40:04,493
-<i>Dan kau harus menjawab...</i>
+Dan kau harus menjawab...
 
 357
 00:40:04,599 --> 00:40:05,622
@@ -1619,13 +1618,13 @@ Kurasa anggurnya membuatku cepat naik.
 
 368
 00:41:00,145 --> 00:41:03,851
-<i>Jangan remehkan pria ini,
-lakukan di bar, Dan buatlah bersih</i>
+Jangan remehkan pria ini,
+lakukan di bar, Dan buatlah bersih
 
 369
 00:41:06,640 --> 00:41:10,171
-<i>aku tahu apa yang kau lakukan,
-aku mau melakukannya</i>
+aku tahu apa yang kau lakukan,
+aku mau melakukannya
 
 370
 00:41:22,311 --> 00:41:24,473
@@ -1670,12 +1669,12 @@ bagaimana denganmu ?
 
 379
 00:42:06,981 --> 00:42:11,401
-<i>Dengan tinggi 1.82 m, 140 kg serta mematikan.
-Jangan remehkan dia</i>
+Dengan tinggi 1.82 m, 140 kg serta mematikan.
+Jangan remehkan dia
 
 380
 00:42:11,430 --> 00:42:15,580
-<i>apapun tujuanmu, jangan naik ke mobilnya</i>
+apapun tujuanmu, jangan naik ke mobilnya
 
 381
 00:42:30,798 --> 00:42:32,043
@@ -1833,8 +1832,8 @@ Aku akan pelajari dulu.
 
 417
 00:50:47,478 --> 00:50:52,401
-<i>Aku menyatu dengan tuhan,
-tuhan menyentuhku Dan aku menyentuh semua orang</i>
+Aku menyatu dengan tuhan,
+tuhan menyentuhku Dan aku menyentuh semua orang
 
 418
 00:50:52,401 --> 00:50:57,305
@@ -1843,13 +1842,13 @@ Dan dia bilang sebagai "nabi baru"
 
 419
 00:50:57,305 --> 00:50:59,198
-<i> - pastor Vaughn ...
-- Vaughn saja</i>
+ - pastor Vaughn ...
+- Vaughn saja
 
 420
 00:50:59,208 --> 00:51:04,200
-<i>aku bukan pastur, aku bukan penganut
-agama apapun yang ada didunia ini, akulah Vaughn</i>
+aku bukan pastur, aku bukan penganut
+agama apapun yang ada didunia ini, akulah Vaughn
 
 421
 00:51:04,200 --> 00:51:10,172
@@ -2006,7 +2005,7 @@ Itu tidak akan berhasil..
 
 454
 00:55:21,335 --> 00:55:26,337
-<i>Tuhan meletakanku di bahu-nya</i>
+Tuhan meletakanku di bahu-nya
 
 455
 00:55:26,337 --> 00:55:28,446
@@ -2014,12 +2013,12 @@ apa yang akan kau lakukan ?
 
 456
 00:55:31,183 --> 00:55:37,455
-<i>Dia bertanya padaku, Dan menyentuh
-bahuku dengan pedang-nya</i>
+Dia bertanya padaku, Dan menyentuh
+bahuku dengan pedang-nya
 
 457
 00:55:37,456 --> 00:55:41,918
-<i>lalu ia memerintahkanku berdiri..</i>
+lalu ia memerintahkanku berdiri..
 
 458
 00:55:42,473 --> 00:55:45,337
@@ -2054,12 +2053,12 @@ membayar itu, berarti mereka gila..
 
 465
 00:56:17,618 --> 00:56:19,894
-<i>Bagaimana aku bisa merubah dunia..</i>
+Bagaimana aku bisa merubah dunia..
 
 466
 00:56:19,894 --> 00:56:24,493
-<i>Bagaimana bisa menjadi orang
-yang lebih baik dariku..</i>
+Bagaimana bisa menjadi orang
+yang lebih baik dariku..
 
 467
 00:56:25,288 --> 00:56:27,102
@@ -2067,16 +2066,16 @@ Ayo.
 
 468
 00:56:27,102 --> 00:56:29,966
-<i>Sesuatu yang ku tahu...</i>
+Sesuatu yang ku tahu...
 
 469
 00:56:31,035 --> 00:56:37,890
-<i>Aku selalu berdoa, agar
-diberikan kekuatan Dan keberanian..</i>
+Aku selalu berdoa, agar
+diberikan kekuatan Dan keberanian..
 
 470
 00:56:37,900 --> 00:56:41,999
-<i>Kulihat diriku dicermin Dan berpikir...</i>
+Kulihat diriku dicermin Dan berpikir...
 
 471
 00:56:45,791 --> 00:56:47,253
@@ -2149,25 +2148,25 @@ langsung, kita bertemu di rumah besok.
 
 487
 01:00:33,390 --> 01:00:36,459
-<i>Andrew Vaughn, pemimpin agama
-yang kharismatik Dan kontroversial</i>
+Andrew Vaughn, pemimpin agama
+yang kharismatik Dan kontroversial
 
 488
 01:00:36,459 --> 01:00:38,578
-<i>telah ditemukan meninggal</i>
+telah ditemukan meninggal
 
 489
 01:00:38,578 --> 01:00:42,354
-<i>polisi masih menyelidiki tembak menembak
-yang terjadi sebelum dia meninggal</i>
+polisi masih menyelidiki tembak menembak
+yang terjadi sebelum dia meninggal
 
 490
 01:00:42,354 --> 01:00:45,041
-<i>yang sampai saat ini masih belum terungkap</i>
+yang sampai saat ini masih belum terungkap
 
 491
 01:01:07,735 --> 01:01:09,549
-<i>5 orang terbunuh..</i>
+5 orang terbunuh..
 
 492
 01:01:09,549 --> 01:01:12,403
@@ -2293,7 +2292,7 @@ Simpan tenagamu, aku akan mengejarmu.
 
 519
 01:05:58,136 --> 01:06:00,372
-<i>Aku di ruang tamu</i>
+Aku di ruang tamu
 
 520
 01:06:00,632 --> 01:06:03,368
@@ -2302,12 +2301,12 @@ Simpan tenagamu, aku akan mengejarmu.
 
 521
 01:06:03,368 --> 01:06:06,075
-<i>Kutebak kau tidak sendirian</i>
+Kutebak kau tidak sendirian
 
 522
 01:06:06,878 --> 01:06:10,752
-<i>ada senjata disebelah kiri sofa,
-pengamannya sudah terbuka</i>
+ada senjata disebelah kiri sofa,
+pengamannya sudah terbuka
 
 523
 01:06:12,085 --> 01:06:15,822
@@ -2467,7 +2466,7 @@ Ya.
 
 559
 01:11:36,826 --> 01:11:40,592
-<i>Berapa besar harga untuk Harry ?</i>
+Berapa besar harga untuk Harry ?
 
 560
 01:11:41,866 --> 01:11:43,867
@@ -2528,7 +2527,7 @@ sebelum aku menemukanmu ?
 
 572
 01:12:25,784 --> 01:12:28,010
-<i>Aku sudah menemukanmu</i>
+Aku sudah menemukanmu
 
 573
 01:12:29,246 --> 01:12:32,247
@@ -2652,8 +2651,8 @@ Kau tahu aku bung...Kuterima maafmu
 
 601
 01:21:11,088 --> 01:21:16,018
-<i>Steve, kalau kau sedang membaca ini,
-artinya kau akan mati, bishop</i>
+Steve, kalau kau sedang membaca ini,
+artinya kau akan mati, bishop
 
 602
 01:21:44,588 --> 01:21:50,138
