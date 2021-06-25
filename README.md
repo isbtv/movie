@@ -1,10 +1,10 @@
 # movie
 LINK TORENT : <br />
 https://torrentmovie.fun/<BR />
-https://www.limetorrents.info/
-https://zooqlemovies.xyz
-https://watchseries.buzz/
-https://torrentgalaxy.mx/
+https://www.limetorrents.info/<BR />
+https://zooqlemovies.xyz<BR />
+https://watchseries.buzz/<BR />
+https://torrentgalaxy.mx/<BR />
 
 <BR />
 SUBTITLE<BR />
