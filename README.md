@@ -5,6 +5,8 @@ https://www.limetorrents.info/<BR />
 https://zooqlemovies.xyz<BR />
 https://watchseries.buzz/<BR />
 https://torrentgalaxy.mx/<BR />
+http://ytsstreaming.com<BR />
+http://torrproject.com<BR />
 
 <BR />
 SUBTITLE<BR />
