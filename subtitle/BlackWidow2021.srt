@@ -475,11 +475,11 @@ Saya ingin kembali beraksi.
 Saya ingin jas saya kembali.
 
 111
-00:10:52,861 --> 00:10:53.946
+00:10:52,861 --> 00:10:53,946
 Aku ingin kembali ke dalamnya.
 
 112
-00:10:54.112 --> 00:10:56.490
+00:10:54,112 --> 00:10:56,490
 Jenderal Dreykov,
 sudah lebih dari tiga tahun.
 
@@ -827,7 +827,7 @@ Oksana.
 Oh tidak.
 
 193
-00:20:32.441 --> 00:20:33.692
+00:20:32,441 --> 00:20:33,692
 Apa yang saya lakukan?
 
 194
@@ -839,7 +839,7 @@ Bebaskan yang lain.
 Yelena, kita perlu laporan status.
 
 196
-00:20:51.126 --> 00:20:53,6293,6
+00:20:51,126 --> 00:20:53,6293,6
 Yelena,
 kami membutuhkan laporan status.
 
