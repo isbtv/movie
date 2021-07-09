@@ -1732,140 +1732,140 @@ sepanjang waktu.
 
 401
 00:46:26,203 --> 00:46:29,623
-All that time that I spent posing,
-I was trying to actually do something good
+Sepanjang waktu yang saya habiskan untuk berpose,
+Saya mencoba untuk benar-benar melakukan sesuatu yang baik
 
 402
 00:46:29,790 --> 00:46:33,210
-to make up for all the pain
-and suffering that we caused.
+untuk menebus semua rasa sakit
+dan penderitaan yang kita sebabkan.
 
 403
 00:46:33,585 --> 00:46:35,754
-Trying to be more
-than just a trained killer.
+Mencoba menjadi lebih
+dari sekedar pembunuh terlatih.
 
 404
 00:46:38,298 --> 00:46:41,051
-Well, then you were fooling yourself
+Nah, maka Anda membodohi diri sendiri
 
 405
 00:46:41,760 --> 00:46:45,556
-because pain and suffering is every day
-and we are both still a trained killer.
+karena rasa sakit dan penderitaan adalah setiap hari
+dan kami berdua masih seorang pembunuh terlatih.
 
 406
 00:46:45,973 --> 00:46:48,934
-Except I'm not the one
-that's on the cover of a magazine.
+Kecuali aku bukan orangnya
+yang ada di sampul majalah.
 
 407
 00:46:49,101 --> 00:46:51,311
-I'm not the killer
-that little girls call their hero.
+Aku bukan pembunuhnya
+bahwa gadis-gadis kecil memanggil pahlawan mereka.
 
 408
 00:47:09,830 --> 00:47:10,831
-That gas,
+Gas itu,
 
 409
 00:47:11,707 --> 00:47:13,250
-the counteragent,
+penghitung,
 
 410
 00:47:13,584 --> 00:47:15,169
-it was synthesized in secret
+itu disintesis secara rahasia
 
 411
 00:47:15,252 --> 00:47:18,005
-by an older widow
-from Melina's generation.
+oleh janda yang lebih tua
+dari generasi Melina.
 
 412
 00:47:18,297 --> 00:47:21,550
-I was on the mission to retrieve it,
-and she exposed me
+Saya sedang dalam misi untuk mengambilnya,
+dan dia mengekspos saya
 
 413
 00:47:21,717 --> 00:47:25,554
-and I killed the widow that freed me.
+dan aku membunuh janda yang membebaskanku.
 
 414
 00:47:25,971 --> 00:47:27,306
-Did you have a choice?
+Apakah Anda punya pilihan?
 
 415
 00:47:27,472 --> 00:47:30,267
-What you experienced
-was psychological conditioning.
+Apa yang Anda alami?
+adalah pengkondisian psikologis.
 
 416
 00:47:31,810 --> 00:47:34,813
-I'm talking about chemically
-altering brain functions.
+Saya sedang berbicara tentang kimia
+mengubah fungsi otak.
 
 417
 00:47:34,980 --> 00:47:37,191
-They're two completely different things.
+Mereka adalah dua hal yang sama sekali berbeda.
 
 418
 00:47:37,858 --> 00:47:41,612
-You're fully conscious,
-but you don't know which part is you.
+Anda sepenuhnya sadar,
+tetapi Anda tidak tahu bagian mana Anda.
 
 419
 00:47:41,778 --> 00:47:43,405
-I'm still not sure.
+Aku masih tidak yakin.
 
 420
 00:47:53,040 --> 00:47:54,875
-- Is that all there is left?
-- Mmm-hmm.
+- Apakah hanya itu yang tersisa?
+- Mmm-hm.
 
 421
 00:47:55,834 --> 00:48:00,047
-It's the only thing that can stop Dreykov
-and his network of widows.
+Itu satu-satunya hal yang bisa menghentikan Dreykov
+dan jaringan para jandanya.
 
 422
 00:48:02,508 --> 00:48:04,134
-He takes more every day.
+Dia mengambil lebih banyak setiap hari.
 
 423
 00:48:04,510 --> 00:48:07,095
-Children who don't have anyone
-to protect them.
+Anak-anak yang tidak punya siapa-siapa
+untuk melindungi mereka.
 
 424
 00:48:07,262 --> 00:48:08,514
-Just like us when we were small.
+Sama seperti kita saat masih kecil.
 
 425
 00:48:09,139 --> 00:48:11,642
-Maybe one in 20 survives the training,
-becomes a widow.
+Mungkin satu dari 20 selamat dari pelatihan,
+menjadi janda.
 
 426
 00:48:11,808 --> 00:48:13,185
-The rest, he kills.
+Selebihnya, dia membunuh.
 
 427
 00:48:14,311 --> 00:48:16,146
-To him, we are just things.
+Baginya, kita hanyalah barang.
 
 428
 00:48:17,523 --> 00:48:20,567
-Weapons with no face
-that he can just throw away.
+Senjata tanpa wajah
+yang bisa dia buang begitu saja.
 
 429
 00:48:21,527 --> 00:48:24,488
-Because there is always more.
+Karena selalu ada lebih.
 
 430
 00:48:25,030 --> 00:48:28,325
-And no one's even looking for him,
-thanks to you and Alexei.
+Dan tidak ada yang mencarinya,
+terima kasih untuk Anda dan Alexei.
 
 431
 00:48:28,492 --> 00:48:30,118
@@ -1873,85 +1873,85 @@ Alexei?
 
 432
 00:48:32,246 --> 00:48:33,330
-"Dad."
+"Ayah."
 
 433
 00:48:44,216 --> 00:48:46,927
-Did you ever look
-for your parents? Your real ones?
+Apakah kamu pernah melihat?
+untuk orang tuamu? Anda yang asli?
 
 434
 00:48:49,137 --> 00:48:52,766
-Well, my mom abandoned me
-in the street like garbage.
+Yah, ibuku meninggalkanku
+di jalan seperti sampah.
 
 435
 00:48:56,019 --> 00:48:57,271
-What about you?
+Bagaimana denganmu?
 
 436
 00:48:58,272 --> 00:49:01,942
-They destroyed my birth certificate,
-so I reinvented it.
+Mereka menghancurkan akta kelahiran saya,
+jadi saya menciptakannya kembali.
 
 437
 00:49:02,860 --> 00:49:05,070
-My parents still live in Ohio.
+Orang tua saya masih tinggal di Ohio.
 
 438
 00:49:06,154 --> 00:49:08,073
-My sister moved out west.
+Adikku pindah ke barat.
 
 439
 00:49:08,156 --> 00:49:09,157
-Is that right?
+Apakah itu benar?
 
 440
 00:49:09,241 --> 00:49:10,868
-You're a science teacher.
+Anda seorang guru sains.
 
 441
 00:49:12,536 --> 00:49:15,873
-You're working part-time, though,
-especially after you had your son.
+Anda bekerja paruh waktu,
+terutama setelah Anda memiliki putra Anda.
 
 442
 00:49:16,039 --> 00:49:18,709
-Your husband, he renovates houses.
+Suamimu, dia merenovasi rumah.
 
 443
 00:49:18,876 --> 00:49:21,170
-That is not my story.
+Itu bukan cerita saya.
 
 444
-00:49:21,336 --> 00:49:23,046
-What is your story?
+00:49:21.336 --> 00:49:23,046
+Apa ceritamu?
 
 445
 00:49:26,216 --> 00:49:30,012
-I never let myself be alone
-long enough to think about it.
+Aku tidak pernah membiarkan diriku sendiri
+cukup lama untuk memikirkannya.
 
 446
 00:49:35,142 --> 00:49:36,935
-Did you ever wish for kids?
+Apakah Anda pernah berharap untuk anak-anak?
 
 447
 00:49:40,147 --> 00:49:42,274
-I want a dog.
+Saya ingin anjing.
 
 448
 00:49:48,822 --> 00:49:49,948
-Where you gonna go?
+Kemana kamu akan pergi?
 
 449
 00:49:50,115 --> 00:49:51,700
-I don't know.
+Saya tidak tahu.
 
 450
 00:49:53,243 --> 00:49:56,455
-I don't really have
-anywhere to go back to,
+Saya tidak benar-benar punya
+kemanapun untuk kembali,
 
 451
 00:49:56,538 --> 00:49:58,123
