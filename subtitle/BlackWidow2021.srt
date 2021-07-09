@@ -2827,7 +2827,7 @@ Natasha. Natasha.
 Kemarilah, aku ingin menanyakan sesuatu padamu.
 
 654
-01:05:51,618 --> 01:05:53.537
+01:05:51,618 --> 01:05:53,537
 - Ayo, ini penting.
 - Apa?
 
@@ -2836,7 +2836,7 @@ Kemarilah, aku ingin menanyakan sesuatu padamu.
 Apakah dia berbicara dengan Anda tentang saya?
 
 656
-01:06:00,878 --> 01:06:02.004
+01:06:00,878 --> 01:06:02,004
 Apa?
 
 657
