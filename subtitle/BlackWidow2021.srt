@@ -839,7 +839,7 @@ Bebaskan yang lain.
 Yelena, kita perlu laporan status.
 
 196
-00:20:51,126 --> 00:20:53,6293,6
+00:20:51,126 --> 00:20:53,629
 Yelena,
 kami membutuhkan laporan status.
 
