@@ -4799,7 +4799,7 @@ Perang yang sebenarnya terjadi di sini,
 dalam bayangan.
 
 1113
-01:39:41.481 --> 01:39:43,066
+01:39:41,481 --> 01:39:43,066
 Anda tidak bertarung dalam bayang-bayang.
 
 1114
@@ -4816,7 +4816,7 @@ dari pengaruh yang tidak terdeteksi.
 Jika tidak ada yang memperhatikan, lalu mengapa melakukannya?
 
 1117
-01:39:51.325 --> 01:39:52.492,
+01:39:51,325 --> 01:39:52,492
 Kamu bukan apa-apa.
 
 1118
@@ -4850,7 +4850,7 @@ Ayolah.
 Pikir saya tidak bisa menerima pukulan?
 
 1125
-01:40:11.345 --> 01:40:12.429
+01:40:11,345 --> 01:40:12,429
 Oh.
 
 1126
@@ -4925,7 +4925,7 @@ Dan saya memberi mereka tujuan.
 Saya memberi mereka kehidupan.
 
 1143
-01:41:24.668 --> 01:41:26,920
+01:41:24,668 --> 01:41:26,920
 Melina, saya menemukan lokasi botol.
 
 1144
@@ -4975,7 +4975,7 @@ Dan dengan mu,
 seorang Avenger di bawah kendali saya,
 
 1155
-01:42:27.606 --> 01:42:30.067
+01:42:27,606 --> 01:42:30,067
 Saya akhirnya bisa keluar dari bayang-bayang
 
 1156
@@ -4992,7 +4992,7 @@ Gadis.
 Semua dari konsol kecil itu?
 
 1159
-01:42:52,339 --> 01:42:53.549
+01:42:52,339 --> 01:42:53,549
 Ya.
 
 1160
