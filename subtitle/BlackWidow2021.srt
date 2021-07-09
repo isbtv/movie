@@ -230,7 +230,7 @@ Berapa lama kita punya?
 Saya tidak tahu. Seperti, satu jam, mungkin.
 
 55
-00:04:17,174 --> 00:04:19.009
+00:04:17,174 --> 00:04:19,009
 Aku tidak ingin pergi.
 
 56
