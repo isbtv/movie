@@ -3921,7 +3921,7 @@ Kamu tahu,
 ayah.
 
 905
-01:22:28.699 --> 01:22:31,285
+01:22:28,699 --> 01:22:31,285
 Tidak tidak.
 
 906
@@ -3930,7 +3930,7 @@ Anda tidak melakukan apa-apa
 tapi katakan padaku betapa bosannya kamu.
 
 907
-01:22:35.831 --> 01:22:39,835
+01:22:35,831 --> 01:22:39,835
 Saya adalah tugas,
 pekerjaan yang tidak ingin Anda lakukan.
 
@@ -3953,7 +3953,7 @@ Satu-satunya hal yang kamu pedulikan
 adalah hari-hari kejayaanmu yang bodoh
 
 912
-01:22:53.891 --> 01:22:57,144
+01:22:53,891 --> 01:22:57,144
 sebagai Dinamo Crimson,
 dan tidak ada yang mau mendengarnya.
 
@@ -3994,7 +3994,7 @@ hari
 Musik
 
 922
-01:23:42.940 --> 01:23:44,483
+01:23:42,940 --> 01:23:44,483
 Meninggal
 
 923
@@ -4065,7 +4065,7 @@ Minta izin untuk mendarat.
 Melina?
 
 939
-01:26:41.535 --> 01:26:43,328
+01:26:41,535 --> 01:26:43,328
 Kami akan mendarat dalam satu menit.
 
 940
@@ -4078,7 +4078,7 @@ Sekarang Anda akan tahu bagaimana Dreykov bertahan
 di atas radar selama ini.
 
 942
-01:28:11.458 --> 01:28:12,709
+01:28:11,458 --> 01:28:12,709
 Tuhanku.
 
 943
@@ -4152,7 +4152,7 @@ dalam ketidakhadiran saya.
 Jangan pedulikan babimu.
 
 960
-01:28:58,255 --> 01:28:59.506
+01:28:58,255 --> 01:28:59,506
 Potong otaknya...
 
 961
@@ -4236,11 +4236,11 @@ Jangan merusak mainan baruku.
 Natasha.
 
 980
-01:30:41.066 --> 01:30:42.943
+01:30:41,066 --> 01:30:42,943
 Aku tidak bisa menyelamatkan kita.
 
 981
-01:30:43.861 --> 01:30:45.737
+01:30:43,861 --> 01:30:45,737
 Aku ingin kau tahu bahwa aku minta maaf.
 
 982
@@ -4261,7 +4261,7 @@ Mungkin yang paling berani.
 Tapi aku tidak berani.
 
 986
-01:30:54.413 --> 01:30:55.956
+01:30:54,413 --> 01:30:55,956
 Aku pengecut.
 
 987
@@ -4748,332 +4748,332 @@ Itu menjijikkan.
 
 1101
 01:38:41,964 --> 01:38:43,131
-Okay.
+Baik.
 
 1102
 01:39:04,903 --> 01:39:07,656
-So, this was the big plan, huh?
+Jadi, ini rencana besarnya, ya?
 
 1103
 01:39:07,990 --> 01:39:12,870
-Melina was going to land the Red Room
-and hand me over to the authorities.
+Melina akan mendarat di Red Room
+dan serahkan aku pada yang berwajib.
 
 1104
 01:39:16,248 --> 01:39:17,708
-Oh, no, no, no.
+Oh, tidak, tidak, tidak.
 
 1105
 01:39:22,462 --> 01:39:26,550
-So, what now, you're gonna fold me into
-your pathetic little puppeteer act?
+Jadi, bagaimana sekarang, Anda akan melipat saya menjadi
+akting dalang kecilmu yang menyedihkan?
 
 1106
 01:39:26,717 --> 01:39:27,718
-Pathetic, huh?
+Menyedihkan, ya?
 
 1107
 01:39:27,885 --> 01:39:29,553
-Yeah, what would you call it?
+Ya, apa yang akan Anda sebut itu?
 
 1108
 01:39:29,720 --> 01:39:30,888
-- I would call it...
-- When was the last time
+- Saya akan menyebutnya ...
+- Kapan terakhir kali
 
 1109
 01:39:30,971 --> 01:39:32,347
-that you had a conversation with somebody
+bahwa Anda melakukan percakapan dengan seseorang
 
 1110
 01:39:32,431 --> 01:39:34,266
-that wasn't forced to talk to you?
+yang tidak dipaksa untuk berbicara dengan Anda?
 
 1111
 01:39:34,433 --> 01:39:37,394
-You ran away to fight in the wrong war.
+Anda melarikan diri untuk berperang dalam perang yang salah.
 
 1112
 01:39:37,811 --> 01:39:41,315
-The real war was fought here,
-in the shadows.
+Perang yang sebenarnya terjadi di sini,
+dalam bayangan.
 
 1113
-01:39:41,481 --> 01:39:43,066
-You didn't fight in the shadows.
+01:39:41.481 --> 01:39:43,066
+Anda tidak bertarung dalam bayang-bayang.
 
 1114
 01:39:43,233 --> 01:39:44,443
-You hid in the dark.
+Anda bersembunyi di kegelapan.
 
 1115
 01:39:44,610 --> 01:39:48,405
-Real power comes
-from undetectable influence.
+Kekuatan nyata datang
+dari pengaruh yang tidak terdeteksi.
 
 1116
 01:39:48,572 --> 01:39:50,991
-If no one's noticed, then why even do it?
+Jika tidak ada yang memperhatikan, lalu mengapa melakukannya?
 
 1117
-01:39:51,325 --> 01:39:52,492
-You're nothing.
+01:39:51.325 --> 01:39:52.492,
+Kamu bukan apa-apa.
 
 1118
 01:39:52,576 --> 01:39:54,786
 - Hmm.
-- You have nothing.
+- Anda tidak punya apa-apa.
 
 1119
 01:39:55,287 --> 01:39:56,872
-There are 50 people on this planet...
+Ada 50 orang di dunia ini...
 
 1120
 01:39:57,039 --> 01:39:58,290
-Oh, stop it.
+Oh hentikan.
 
 1121
 01:39:58,457 --> 01:40:01,084
-Don't tell me to stop!
+Jangan suruh aku berhenti!
 
 1122
 01:40:01,251 --> 01:40:04,171
-If I don't tell you when to stop,
-then how will you know when to shut up?
+Jika saya tidak memberi tahu Anda kapan harus berhenti,
+lalu bagaimana Anda tahu kapan harus diam?
 
 1123
 01:40:08,133 --> 01:40:09,259
-Come on.
+Ayolah.
 
 1124
 01:40:09,426 --> 01:40:11,261
-Think I can't take a punch?
+Pikir saya tidak bisa menerima pukulan?
 
 1125
-01:40:11,345 --> 01:40:12,429
+01:40:11.345 --> 01:40:12.429
 Oh.
 
 1126
 01:40:14,264 --> 01:40:17,434
-- God damn it, you're weak.
-- Weak?
+- Sialan, kau lemah.
+- Lemah?
 
 1127
 01:40:17,601 --> 01:40:19,770
-I bet it's easier to be tough
-in front of defenseless little girls, huh?
+Aku yakin lebih mudah menjadi tangguh
+di depan gadis kecil yang tak berdaya, ya?
 
 1128
 01:40:19,937 --> 01:40:21,563
-That's enough.
+Cukup.
 
 1129
 01:40:31,657 --> 01:40:33,283
-You wouldn't be so glib
+Anda tidak akan begitu fasih
 
 1130
 01:40:33,450 --> 01:40:37,120
-if you had any notion
-of the scope of what I've built.
+jika Anda punya gagasan
+dari ruang lingkup apa yang telah saya bangun.
 
 1131
 01:40:38,747 --> 01:40:41,333
-I own this world. Me.
+Saya memiliki dunia ini. Saya.
 
 1132
 01:40:41,500 --> 01:40:43,252
-You seem desperate to impress me.
+Anda tampak putus asa untuk membuat saya terkesan.
 
 1133
 01:40:43,418 --> 01:40:44,753
-I don't need to impress you.
+Saya tidak perlu membuat Anda terkesan.
 
 1134
 01:40:44,920 --> 01:40:47,422
-I don't need to impress anyone.
+Saya tidak perlu membuat siapa pun terkesan.
 
 1135
 01:40:48,632 --> 01:40:51,802
-These world leaders, these great men,
+Para pemimpin dunia ini, orang-orang hebat ini,
 
 1136
 01:40:52,636 --> 01:40:55,472
-they answer to me and my widows.
+mereka menjawab saya dan janda-janda saya.
 
 1137
 01:40:59,226 --> 01:41:00,310
-Look at them.
+Lihat mereka.
 
 1138
 01:41:03,105 --> 01:41:04,815
-These girls were trash.
+Gadis-gadis ini adalah sampah.
 
 1139
 01:41:05,941 --> 01:41:08,026
-They are thrown out into the street.
+Mereka dibuang ke jalan.
 
 1140
 01:41:08,485 --> 01:41:11,780
-I recycle the trash.
+Saya mendaur ulang sampah.
 
 1141
 01:41:11,947 --> 01:41:13,824
-And I give them purpose.
+Dan saya memberi mereka tujuan.
 
 1142
 01:41:15,659 --> 01:41:17,452
-I give them a life.
+Saya memberi mereka kehidupan.
 
 1143
-01:41:24,668 --> 01:41:26,920
-Melina, I found the location of the vials.
+01:41:24.668 --> 01:41:26,920
+Melina, saya menemukan lokasi botol.
 
 1144
 01:41:28,297 --> 01:41:30,299
-I've had a slight setback.
+Saya mengalami sedikit kemunduran.
 
 1145
 01:41:32,384 --> 01:41:34,094
-You'll need to get to the widows.
+Anda harus menemui para janda.
 
 1146
 01:41:53,363 --> 01:41:55,199
-It's my network of widows
+Ini jaringan saya para janda
 
 1147
 01:41:55,282 --> 01:41:58,410
-that help me control the scales of power.
+yang membantu saya mengontrol skala kekuasaan.
 
 1148
 01:41:58,744 --> 01:42:02,831
-One command,
-the oil and stock markets crumble.
+Satu perintah,
+pasar minyak dan saham runtuh.
 
 1149
 01:42:02,998 --> 01:42:07,085
-One command,
-and a quarter of the planet will starve.
+Satu perintah,
+dan seperempat dari planet ini akan kelaparan.
 
 1150
 01:42:07,252 --> 01:42:10,380
-My widows can start and end wars.
+Janda saya bisa memulai dan mengakhiri perang.
 
 1151
 01:42:10,631 --> 01:42:13,342
-They can make and break kings.
+Mereka dapat membuat dan menghancurkan raja.
 
 1152
 01:42:17,346 --> 01:42:19,890
-You control all of that from here?
+Anda mengendalikan semua itu dari sini?
 
 1153
 01:42:20,641 --> 01:42:22,518
-And with you,
+Dan dengan mu,
 
 1154
 01:42:23,185 --> 01:42:26,230
-an Avenger under my control,
+seorang Avenger di bawah kendali saya,
 
 1155
-01:42:27,606 --> 01:42:30,067
-I can finally come out of the shadows
+01:42:27.606 --> 01:42:30.067
+Saya akhirnya bisa keluar dari bayang-bayang
 
 1156
 01:42:31,193 --> 01:42:35,948
-using the only natural resource
-that the world has too much of.
+menggunakan satu-satunya sumber daya alam
+bahwa dunia memiliki terlalu banyak.
 
 1157
 01:42:37,533 --> 01:42:38,909
-Girls.
+Gadis.
 
 1158
 01:42:49,211 --> 01:42:51,588
-All from that little console?
+Semua dari konsol kecil itu?
 
 1159
-01:42:52,339 --> 01:42:53,549
-Yeah.
+01:42:52,339 --> 01:42:53.549
+Ya.
 
 1160
 01:42:57,886 --> 01:42:59,638
-Oh, you find this amusing?
+Oh, menurutmu ini lucu?
 
 1161
 01:42:59,930 --> 01:43:01,473
-Why are you smiling?
+Mengapa Anda tersenyum?
 
 1162
 01:43:02,140 --> 01:43:04,184
-Don't take it personal, but, uh...
+Jangan menganggapnya pribadi, tapi, eh...
 
 1163
 01:43:06,478 --> 01:43:08,564
-Thank you for your cooperation.
+Terima kasih atas kerja sama anda.
 
 1164
 01:43:09,022 --> 01:43:13,235
-Even if you locate the database
-and get him to show you the key,
+Bahkan jika Anda menemukan database
+dan minta dia menunjukkan kuncinya,
 
 1165
 01:43:13,485 --> 01:43:15,946
-you won't be able to take it from him.
+Anda tidak akan bisa mengambilnya dari dia.
 
 1166
 01:43:16,113 --> 01:43:19,491
-For years, Dreykov has implemented
-a pheromonal lock
+Selama bertahun-tahun, Dreykov telah menerapkan
+kunci feromonal
 
 1167
 01:43:19,658 --> 01:43:21,493
-in all widows, even me.
+di semua janda, bahkan saya.
 
 1168
 01:43:22,160 --> 01:43:26,248
-So, as long as we can smell him,
-then we won't be able to hurt him.
+Jadi, selama kita bisa mencium baunya,
+maka kita tidak akan bisa menyakitinya.
 
 1169
 01:43:26,331 --> 01:43:28,041
-Well, I'll just hold my breath.
+Yah, aku hanya akan menahan napas.
 
 1170
 01:43:28,208 --> 01:43:29,668
-Not enough.
+Tidak cukup.
 
 1171
 01:43:29,835 --> 01:43:31,545
-This is basic science.
+Ini adalah ilmu dasar.
 
 1172
 01:43:31,712 --> 01:43:34,965
-Natasha, to block receptors
-in olfactory center,
+Natasha, untuk memblokir reseptor
+di pusat penciuman,
 
 1173
 01:43:35,132 --> 01:43:37,176
-you have to sever the nerve.
+Anda harus memutuskan saraf.
 
 1174
 01:43:39,011 --> 01:43:40,345
-I can handle that.
+Saya bisa menangani itu.
 
 1175
 01:43:41,263 --> 01:43:43,640
-You weren't quite strong enough, so...
+Kamu tidak cukup kuat, jadi...
 
 1176
-01:43:44,516 --> 01:43:46,268
-I'll have to finish it myself.
+01:43:44.516 --> 01:43:46,268
+Aku harus menyelesaikannya sendiri.
 
 1177
 01:43:46,351 --> 01:43:48,395
-What are you going to do?
+Apa yang akan kamu lakukan?
 
 1178
 01:43:50,355 --> 01:43:51,648
-Sever the nerve.
+Putuskan saraf.
 
 1179
 01:44:15,047 --> 01:44:16,465
@@ -5081,132 +5081,132 @@ Melina!
 
 1180
 01:44:27,809 --> 01:44:29,394
-Precisely what I was thinking.
+Persis apa yang saya pikirkan.
 
 1181
 01:44:42,074 --> 01:44:43,867
-Yelena, slight change of plan.
+Yelena, sedikit perubahan rencana.
 
 1182
 01:44:44,034 --> 01:44:47,329
-I completely demolished one of the engines
-and we are going into a controlled crash.
+Saya benar-benar menghancurkan salah satu mesin
+dan kita akan mengalami kecelakaan yang terkendali.
 
 1183
 01:44:50,374 --> 01:44:51,375
-Fantastic.
+Fantastis.
 
 1184
 01:44:51,542 --> 01:44:53,043
-I'm heading to the widows now.
+Aku menuju ke para janda sekarang.
 
 1185
 01:44:54,253 --> 01:44:55,546
-No.
+Tidak.
 
 1186
 01:45:33,166 --> 01:45:34,751
-We have to go.
+Kita harus pergi.
 
 1187
 01:45:40,090 --> 01:45:42,718
-Not so talkative now, are you?
+Tidak banyak bicara sekarang, kan?
 
 1188
 01:45:44,386 --> 01:45:45,470
-You took my childhood.
+Anda mengambil masa kecil saya.
 
 1189
 01:45:47,097 --> 01:45:49,641
-You took my choices and tried to break me.
+Anda mengambil pilihan saya dan mencoba untuk menghancurkan saya.
 
 1190
 01:45:49,808 --> 01:45:51,852
-But you're never gonna do that
-to anybody ever again.
+Tapi kamu tidak akan pernah melakukan itu
+kepada siapa pun lagi.
 
 1191
 01:46:03,280 --> 01:46:06,867
-Nobody leaves
-this room until she's dead.
+Tidak ada yang pergi
+ruangan ini sampai dia mati.
 
 1192
 01:46:07,034 --> 01:46:09,203
-Make her suffer.
+Buat dia menderita.
 
 1193
 01:46:11,413 --> 01:46:12,831
-I don't wanna hurt you.
+Aku tidak ingin menyakitimu.
 
 1194
 01:46:13,415 --> 01:46:14,833
-You don't wanna hurt me.
+Anda tidak ingin menyakiti saya.
 
 1195
 01:48:08,864 --> 01:48:10,073
-Hey.
+Hei.
 
 1196
 01:48:10,449 --> 01:48:11,450
-Are you okay?
+Apakah kamu baik-baik saja?
 
 1197
 01:48:12,743 --> 01:48:13,869
-That looks like it hurts.
+Sepertinya itu menyakitkan.
 
 1198
 01:48:14,036 --> 01:48:16,246
-Okay. I take out on three, ready?
+Baik. Saya mengambil tiga, siap?
 
 1199
 01:48:16,455 --> 01:48:18,415
-I'm sorry.
+Maafkan saya.
 
 1200
 01:48:24,004 --> 01:48:26,173
-Get as far away
-from here as possible.
+Pergi sejauh-jauhnya
+dari sini mungkin.
 
 1201
 01:48:27,132 --> 01:48:28,717
-You get to make your own choices now.
+Anda harus membuat pilihan Anda sendiri sekarang.
 
 1202
 01:48:39,770 --> 01:48:40,979
-We gotta get outta here.
+Kita harus pergi dari sini.
 
 1203
 01:48:41,146 --> 01:48:42,231
-We need to find Dreykov.
-Are you coming?
+Kita perlu menemukan Dreykov.
+Apakah Anda datang?
 
 1204
 01:48:42,314 --> 01:48:43,524
-I'm right behind you.
+Aku tepat di belakangmu.
 
 1205
 01:48:50,239 --> 01:48:53,534
-Wait, wait! I have to go back!
+Tunggu tunggu! Aku harus kembali!
 
 1206
 01:49:33,824 --> 01:49:34,825
-Yes!
+Iya!
 
 1207
 01:50:32,090 --> 01:50:33,509
-Do you see the girls?
+Apakah Anda melihat gadis-gadis itu?
 
 1208
 01:50:36,386 --> 01:50:37,387
-No!
+Tidak!
 
 1209
 01:51:10,254 --> 01:51:11,839
-We need to go back.
+Kita harus kembali.
 
 1210
 01:51:39,157 --> 01:51:40,784
-We've lost control.
+Kami telah kehilangan kendali.
 
 1211
 01:52:04,892 --> 01:52:06,310
@@ -5214,28 +5214,28 @@ Antonia.
 
 1212
 01:52:09,188 --> 01:52:11,315
-No!
+Tidak!
 
 1213
 01:52:12,608 --> 01:52:14,318
-I'm gonna open the door.
+Aku akan membuka pintu.
 
 1214
 01:52:15,110 --> 01:52:16,945
-You're gonna come after me.
+Anda akan datang setelah saya.
 
 1215
 01:52:17,112 --> 01:52:19,323
-It's okay. It's okay.
+Tidak masalah. Tidak masalah.
 
 1216
 01:52:21,450 --> 01:52:23,619
-I know you're still in there.
+Aku tahu kau masih di dalam.
 
 1217
 01:52:25,537 --> 01:52:28,457
-And I'm not gonna leave you.
-Okay.
+Dan aku tidak akan meninggalkanmu.
+Baik.
 
 1218
 01:53:42,865 --> 01:53:43,866
@@ -5243,51 +5243,51 @@ Yelena!
 
 1219
 01:53:45,409 --> 01:53:46,910
-She's on the wing!
+Dia di sayap!
 
 1220
 01:53:47,077 --> 01:53:49,454
-Move! What are you waiting for?
+Pindah! Apa yang kamu tunggu?
 
 1221
 01:53:50,998 --> 01:53:51,999
-Don't do it!
+Jangan lakukan itu!
 
 1222
 01:53:52,958 --> 01:53:54,626
-This was fun!
+Ini sangat menyenangkan!
 
 1223
 01:53:54,793 --> 01:53:55,836
-No!
+Tidak!
 
 1224
 01:55:43,986 --> 01:55:45,320
-Okay.
+Baik.
 
 1225
 01:55:46,530 --> 01:55:48,031
-Let's go.
+Ayo pergi.
 
 1226
 01:56:02,838 --> 01:56:04,089
-Enough.
+Cukup.
 
 1227
 01:56:55,474 --> 01:56:56,892
-I'm sorry.
+Maafkan saya.
 
 1228
 01:56:57,059 --> 01:56:58,477
-I'm sorry.
+Maafkan saya.
 
 1229
 01:57:01,688 --> 01:57:03,273
-Is he gone?
+Apakah dia pergi?
 
 1230
 01:57:07,694 --> 01:57:09,071
-He's gone.
+Dia pergi.
 
 1231
 01:57:26,713 --> 01:57:28,090
@@ -5299,276 +5299,276 @@ Yelena?
 
 1233
 01:57:46,942 --> 01:57:49,152
-We're both upside down.
+Kami berdua terbalik.
 
 1234
 01:58:04,168 --> 01:58:05,460
-I should've come back for you.
+Seharusnya aku kembali untukmu.
 
 1235
 01:58:05,627 --> 01:58:06,795
-You don't have to say that.
+Anda tidak perlu mengatakan itu.
 
 1236
 01:58:06,879 --> 01:58:08,172
-- It's okay.
-- Hey. Hey.
+- Tidak masalah.
+- Hei. Hei.
 
 1237
 01:58:08,714 --> 01:58:10,299
-It was real to me, too.
+Itu juga nyata bagiku.
 
 1238
 01:58:24,563 --> 01:58:25,564
-Thank you.
+Terima kasih.
 
 1239
 01:58:40,662 --> 01:58:41,788
-Everybody good?
+Semua orang baik?
 
 1240
 01:58:41,955 --> 01:58:44,374
-I am clearly injured.
+Saya jelas terluka.
 
 1241
 01:58:45,792 --> 01:58:47,711
-You got something to say?
+Anda punya sesuatu untuk dikatakan?
 
 1242
 01:58:48,670 --> 01:58:50,088
-I'd just mess it up.
+Aku hanya akan mengacaukannya.
 
 1243
 01:59:04,436 --> 01:59:06,355
-Here comes the cavalry.
+Di sinilah kavaleri datang.
 
 1244
 01:59:09,358 --> 01:59:11,777
-We're closing in on the target, sir.
+Kami mendekati target, pak.
 
 1245
 01:59:14,488 --> 01:59:16,448
-So, what's our plan?
+Jadi, apa rencana kita?
 
 1246
 01:59:17,366 --> 01:59:19,952
-You guys go. I'll stay.
+Kalian pergi. Saya akan tinggal.
 
 1247
 01:59:20,118 --> 01:59:22,079
-That's insanity. We fight.
-We fight with you.
+Itu kegilaan. Kami bertarung.
+Kami bertarung denganmu.
 
 1248
 01:59:22,162 --> 01:59:24,039
-- I'll hold them off.
-- Natasha, we fight.
+- Aku akan menahan mereka.
+- Natasha, kita bertarung.
 
 1249
 01:59:24,122 --> 01:59:25,666
-We can't split up.
-You're so pigheaded.
+Kita tidak bisa berpisah.
+Anda begitu keras kepala.
 
 1250
 01:59:25,832 --> 01:59:28,001
-- You guys, go.
-- Oh, my God.
+- Kalian, pergi.
+- Ya Tuhan.
 
 1251
 01:59:28,168 --> 01:59:30,921
-Besides, if it can work out
-with the four of us, you know,
+Selain itu, jika itu bisa berhasil
+dengan kami berempat, Anda tahu,
 
 1252
 01:59:31,088 --> 01:59:33,507
-there may be some hope for the Avengers.
+mungkin ada beberapa harapan untuk Avengers.
 
 1253
 01:59:33,674 --> 01:59:34,967
-Little bit.
+Sedikit.
 
 1254
 01:59:35,133 --> 01:59:39,054
-Okay, well, if you're leaving,
-then I guess you should take this.
+Baiklah, jika kau pergi,
+maka saya kira Anda harus mengambil ini.
 
 1255
 01:59:39,221 --> 01:59:41,765
-I know how much you like it.
+Aku tahu betapa kamu menyukainya.
 
 1256
 01:59:41,932 --> 01:59:43,725
-Shucks.
+Kampret.
 
 1257
-01:59:43,809 --> 01:59:45,060
-It does have a lot of pockets.
+01:59:43.809 --> 01:59:45,060
+Itu memang memiliki banyak kantong.
 
 1258
 01:59:45,227 --> 01:59:47,229
-Very handy pockets, yeah.
+Kantong yang sangat berguna, ya.
 
 1259
 01:59:48,355 --> 01:59:50,524
-He had widows implanted
-all over the world.
+Dia memiliki janda yang ditanam
+di seluruh dunia.
 
 1260
 01:59:50,691 --> 01:59:52,568
-Melina will need to copy the formula,
+Melina perlu menyalin rumusnya,
 
 1261
 01:59:53,110 --> 01:59:54,903
-but you should be the one
-to tell 'em it's over.
+tapi kamu harus menjadi orangnya
+untuk memberitahu mereka itu sudah berakhir.
 
 1262
 02:00:14,756 --> 02:00:16,675
-You came back for us.
+Anda kembali untuk kami.
 
 1263
 02:00:25,350 --> 02:00:26,810
-Thank you.
+Terima kasih.
 
 1264
 02:00:31,857 --> 02:00:33,108
-Hey.
+Hei.
 
 1265
 02:00:33,775 --> 02:00:36,570
-Hey. You take care of yourself, okay?
+Hei. Anda menjaga diri sendiri, oke?
 
 1266
 02:00:36,737 --> 02:00:37,863
-Don't worry. I got this.
+Jangan khawatir. Saya mengerti.
 
 1267
 02:00:38,030 --> 02:00:39,489
-I know.
+Aku tahu.
 
 1268
 02:00:49,875 --> 02:00:52,794
-Don't worry.
-We're bringing her with us.
+Jangan khawatir.
+Kami membawanya bersama kami.
 
 1269
 02:00:53,504 --> 02:00:55,797
-Come. Come with us.
+Datang. Ikut dengan kami.
 
 1270
 02:02:30,475 --> 02:02:31,602
-You ever not sleep?
+Anda pernah tidak tidur?
 
 1271
 02:02:32,769 --> 02:02:36,148
-I've been in six different time zones
-in three days because of you.
+Saya telah berada di enam zona waktu yang berbeda
+dalam tiga hari karenamu.
 
 1272
 02:02:36,315 --> 02:02:37,608
-- Oh, really?
-- Yeah.
+- Oh benarkah?
+- Ya.
 
 1273
 02:02:37,774 --> 02:02:40,235
-What, are you scrapping together
-some parts?
+Apa, apa yang kamu coret bersama?
+beberapa bagian?
 
 1274
 02:02:40,402 --> 02:02:43,947
-What'd you get me this time,
-like, an upside-down lawnmower?
+Apa yang Anda dapatkan untuk saya kali ini,
+seperti, mesin pemotong rumput terbalik?
 
 1275
 02:02:49,119 --> 02:02:51,413
-You see what I can get you
-with a bit of time and money?
+Anda lihat apa yang bisa saya dapatkan dari Anda
+dengan sedikit waktu dan uang?
 
 1276
 02:02:57,419 --> 02:02:59,046
-Go on, say it.
-I wanna hear it.
+Ayo, katakan.
+Aku ingin mendengarnya.
 
 1277
 02:02:59,213 --> 02:03:01,840
-It would really be good for me
-to hear it. Really.
+Itu akan sangat bagus untukku
+untuk mendengarnya. Betulkah.
 
 1278
 02:03:03,091 --> 02:03:04,259
-I'm impressed.
+Saya terkesan.
 
 1279
 02:03:04,426 --> 02:03:06,094
-Well, yeah.
+Yah begitulah.
 
 1280
 02:03:06,720 --> 02:03:09,348
-You've always been
-a really good friend to me.
+Kamu selalu
+teman yang sangat baik untukku.
 
 1281
-02:03:09,515 --> 02:03:12,017
-That's what every man wants to hear.
+02:03:09,515 --> 02:03:12.017
+Itulah yang ingin didengar setiap pria.
 
 1282
 02:03:12,809 --> 02:03:13,977
-Where you gonna go?
+Kemana kamu akan pergi?
 
 1283
 02:03:15,312 --> 02:03:17,981
-It's funny. My whole life,
-I didn't think I had any family.
+Itu lucu. Seluruh hidupku,
+Saya tidak berpikir saya punya keluarga.
 
 1284
 02:03:18,148 --> 02:03:20,317
-Turns out I got two, so...
+Ternyata aku punya dua, jadi...
 
 1285
 02:03:20,817 --> 02:03:22,110
-One of them's a bit of a mess right now.
+Salah satu dari mereka agak berantakan sekarang.
 
 1286
 02:03:22,277 --> 02:03:25,072
-I'm gonna go break
-a few of them out of prison
+Aku akan pergi istirahat
+beberapa dari mereka keluar dari penjara
 
 1287
 02:03:25,572 --> 02:03:28,075
-see if I can't help patch things up.
+lihat apakah saya tidak bisa membantu memperbaiki keadaan.
 
 1288
 02:11:14,917 --> 02:11:17,252
-Come on, Fanny.
+Ayo Fanny.
 
 1289
 02:12:35,998 --> 02:12:38,500
-Wow. Sorry.
+Wow. Maaf.
 
 1290
 02:12:39,585 --> 02:12:41,920
-I'm allergic to the Midwest.
+Saya alergi terhadap Midwest.
 
 1291
 02:12:44,423 --> 02:12:47,259
-What this woman did,
+Apa yang dilakukan wanita ini,
 
 1292
 02:12:47,426 --> 02:12:50,262
-honestly, I can't even imagine.
+jujur, aku bahkan tidak bisa membayangkan.
 
 1293
 02:12:50,762 --> 02:12:54,516
-You're not supposed to be bothering me
-on my holiday time, Valentina.
+Anda tidak seharusnya mengganggu saya
+pada waktu liburan saya, Valentina.
 
 1294
 02:12:54,683 --> 02:12:56,185
-Oh, bothering you? Oh, no, no.
+Oh, mengganggumu? Oh, tidak, tidak.
 
 1295
 02:12:56,268 --> 02:12:58,812
-I'm just here paying my respects.
+Saya di sini hanya memberi hormat.
 
 1296
 02:12:58,896 --> 02:12:59,980
@@ -5576,66 +5576,38 @@ Hmm...
 
 1297
 02:13:00,397 --> 02:13:02,691
-You know, coming here
-makes you look desperate.
+Anda tahu, datang ke sini
+membuatmu terlihat putus asa.
 
 1298
 02:13:06,028 --> 02:13:07,070
-Okay.
+Baik.
 
 1299
 02:13:07,237 --> 02:13:08,322
-I want a raise.
+Saya ingin kenaikan gaji.
 
 1300
 02:13:08,488 --> 02:13:09,823
-Oh, yeah. You and me both.
+Oh ya. Anda dan saya berdua.
 
 1301
 02:13:09,990 --> 02:13:12,451
-Believe me, you're gonna earn it.
+Percayalah, Anda akan mendapatkannya.
 
 1302
 02:13:13,619 --> 02:13:15,913
-I've got your next target.
+Aku punya targetmu berikutnya.
 
 1303
 02:13:16,079 --> 02:13:17,831
-Thought I'd hand-deliver it.
+Kupikir aku akan mengirimkannya dengan tangan.
 
 1304
 02:13:20,083 --> 02:13:24,880
-Maybe you'd like a shot at the man
-responsible for your sister's death.
+Mungkin Anda ingin menembak pria itu
+bertanggung jawab atas kematian adikmu.
 
 1305
 02:13:27,633 --> 02:13:29,593
-Kind of a cutie, don't you think?
-
-										
-
-   
-
-
-  
-  
-  
-
- 
-
-
- 
- 
-
- 
- 
-
-										
-   
-   
-  
-  
-
- 
-   
-  
+Agak manis, bukan begitu?
