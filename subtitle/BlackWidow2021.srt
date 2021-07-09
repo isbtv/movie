@@ -43,7 +43,7 @@ Mama!
 Apa yang terjadi?
 
 12
-00:02:11.423 --> 00:02:12.424
+00:02:11,423 --> 00:02:12.424
 Dia jatuh berlutut.
 
 13
@@ -108,7 +108,7 @@ yang berasal dari
 reaksi kimia yang disebut...
 
 27
-00:02:50.963 --> 00:02:52,631
+00:02:50,963 --> 00:02:52,631
 bioluminesensi.
 
 28
@@ -184,11 +184,11 @@ Halo sayang.
 Semua baik-baik saja?
 
 45
-00:03:54.568 --> 00:03:55.903
+00:03:54,568 --> 00:03:55,903
 Bagaimana hari semua orang?
 
 46
-00:03:56.069 --> 00:03:58.071
+00:03:56,069 --> 00:03:58,071
 Ibu mengajariku
 tentang kutu lampu.
 
