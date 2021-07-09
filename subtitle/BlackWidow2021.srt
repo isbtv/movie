@@ -4419,7 +4419,7 @@ Begitu aku keluar,
 Saya dapat mengaktifkan protokol pendaratan,
 
 1022
-01:33:13,093 --> 01:33:14.511
+01:33:13,093 --> 01:33:14,511
 kita bisa turun dalam waktu satu jam.
 
 1023
