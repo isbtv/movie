@@ -340,7 +340,7 @@ Bernyanyi, "Ini akan menjadi hari dimana aku mati"
 "Ini akan menjadi hari dimana aku mati"
 
 80
-00:06:54.957 --> 00:06:56,959
+00:06:54,957 --> 00:06:56,959
 Ayo, Yelena.
 Cepat, sayang.
 
