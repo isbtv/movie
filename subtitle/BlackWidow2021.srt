@@ -3292,156 +3292,156 @@ Anda juga tidak.
 
 761
 01:13:30,244 --> 01:13:34,498
-Natasha, always focus, focus.
-Get what you want.
+Natasha, selalu fokus, fokus.
+Dapatkan apa yang Anda inginkan.
 
 762
 01:13:41,630 --> 01:13:42,631
-Come in.
+Masuk.
 
 763
 01:13:49,972 --> 01:13:51,515
-Did that pig just open the door?
+Apakah babi itu baru saja membuka pintu?
 
 764
-01:13:51,682 --> 01:13:53,767
-Yes. It did.
+01:13:51,682 --> 01:13:53.767
+Iya. Itu benar.
 
 765
 01:13:53,934 --> 01:13:56,687
-Good boy, Alexei.
-Good boy.
+Anak baik, Alexei.
+Anak baik.
 
 766
 01:13:57,688 --> 01:13:59,481
-You named a pig after me?
+Anda menamai babi menurut nama saya?
 
 767
 01:14:00,107 --> 01:14:01,859
-You don't see the resemblance?
+Anda tidak melihat kemiripannya?
 
 768
 01:14:05,821 --> 01:14:07,281
-See, he sits just like dog.
+Lihat, dia duduk seperti anjing.
 
 769
 01:14:08,282 --> 01:14:09,700
-Amazing. Now, watch.
+Menakjubkan. Sekarang, perhatikan.
 
 770
 01:14:09,867 --> 01:14:11,159
-It's a little weird, to me.
+Ini sedikit aneh, bagi saya.
 
 771
 01:14:11,326 --> 01:14:12,828
-Stop breathing.
+Berhenti bernapas.
 
 772
 01:14:18,208 --> 01:14:21,545
-We infiltrated
-the North Institute in Ohio.
+Kami menyusup
+Institut Utara di Ohio.
 
 773
 01:14:21,712 --> 01:14:23,255
-It was a front
-for S.H.I.E.L.D. scientists.
+Itu adalah bagian depan
+untuk S.H.I.E.L.D. ilmuwan.
 
 774
 01:14:23,338 --> 01:14:26,592
-Actually, it was Hydra scientists
-at that time.
+Sebenarnya, itu adalah ilmuwan Hydra
+pada waktu itu.
 
 775
 01:14:26,758 --> 01:14:28,302
-In conjunction with
-the Winter Soldier project,
+Setara dengan
+proyek Prajurit Musim Dingin,
 
 776
 01:14:28,468 --> 01:14:31,346
-they had dissected
-and deconstructed the human brain
+mereka telah membedah
+dan mendekonstruksi otak manusia
 
 777
 01:14:31,513 --> 01:14:36,185
-to create the first and only
-cellular blueprint of the basal ganglia.
+untuk membuat yang pertama dan satu-satunya
+cetak biru seluler ganglia basal.
 
 778
 01:14:36,351 --> 01:14:37,769
-Was the hub for cognition.
+Apakah hub untuk kognisi.
 
 779
 01:14:37,936 --> 01:14:41,231
-Voluntary motor movement,
-procedural learning.
+Gerakan motorik volunter,
+pembelajaran prosedural.
 
 780
 01:14:42,900 --> 01:14:46,528
-We didn't steal weaponry or technology.
+Kami tidak mencuri persenjataan atau teknologi.
 
 781
 01:14:46,695 --> 01:14:49,531
-We stole the key to unlocking free will.
+Kami mencuri kunci untuk membuka kehendak bebas.
 
 782
 01:14:55,370 --> 01:14:56,371
-What are you doing?
+Apa yang sedang kamu lakukan?
 
 783
 01:14:56,496 --> 01:15:00,167
-Oh, I am explaining
-that the science is now so exact,
+Oh, saya menjelaskan
+bahwa ilmu pengetahuan sekarang begitu eksak,
 
 784
 01:15:00,334 --> 01:15:02,544
-the subject can be instructed
-to stop breathing
+subjek dapat diinstruksikan
+untuk berhenti bernapas
 
 785
 01:15:02,711 --> 01:15:04,588
-and has no choice but to obey.
+dan tidak punya pilihan selain patuh.
 
 786
 01:15:04,755 --> 01:15:06,256
-Okay, you made your point.
-That's enough.
+Oke, Anda membuat poin Anda.
+Cukup.
 
 787
 01:15:06,423 --> 01:15:09,301
-Yes, all right. Well, don't worry,
-Alexei could've survived
+Iya baiklah. Nah, jangan khawatir,
+Alexei bisa selamat
 
 788
 01:15:09,468 --> 01:15:12,054
-11 more seconds without oxygen.
+11 detik lagi tanpa oksigen.
 
 789
 01:15:12,221 --> 01:15:15,015
-Good boy. Now, you go back,
-back home where it's safe.
+Anak baik. Sekarang, Anda kembali,
+kembali ke rumah di tempat yang aman.
 
 790
 01:15:16,558 --> 01:15:18,644
-You go. You go back home,
-back home where it's safe.
+Kamu pergi. Anda kembali ke rumah,
+kembali ke rumah di tempat yang aman.
 
 791
 01:15:19,394 --> 01:15:21,063
-Good boy, Alexei.
+Anak baik, Alexei.
 
 792
 01:15:21,230 --> 01:15:24,858
-The world functions on a higher level
-when it is controlled.
+Dunia berfungsi pada tingkat yang lebih tinggi
+ketika dikendalikan.
 
 793
 01:15:25,025 --> 01:15:29,404
-Dreykov has chemically subjugated agents
-planted around the globe.
+Dreykov memiliki agen yang ditundukkan secara kimia
+ditanam di seluruh dunia.
 
 794
 01:15:29,738 --> 01:15:31,698
-And do you know who they test it on?
+Dan tahukah Anda kepada siapa mereka mengujinya?
 
 795
 01:15:31,782 --> 01:15:33,116
@@ -3449,167 +3449,167 @@ Hmm...
 
 796
 01:15:33,200 --> 01:15:34,952
-No. That's not my department.
+Tidak. Itu bukan departemen saya.
 
 797
 01:15:35,035 --> 01:15:36,912
-Ah, come on, come on.
+Ah, ayolah, ayolah.
 
 798
 01:15:37,079 --> 01:15:38,956
-- Don't lie to them. Hmm?
-- I'm not lying.
+- Jangan berbohong kepada mereka. Hmm?
+- Saya tidak berbohong.
 
 799
 01:15:39,122 --> 01:15:40,582
-You're Dreykov's architect, huh?
+Anda arsitek Dreykov, ya?
 
 800
 01:15:40,749 --> 01:15:41,750
-What were you?
+Apa kamu?
 
 801
 01:15:41,834 --> 01:15:43,502
-If I was his architect,
-you were his partner.
+Jika saya adalah arsiteknya,
+Anda adalah pasangannya.
 
 802
 01:15:43,585 --> 01:15:44,628
-You were his business partner.
+Anda adalah mitra bisnisnya.
 
 803
 01:15:44,711 --> 01:15:46,004
-No, no, no. I was patsy!
+Tidak tidak Tidak. Saya sangat senang!
 
 804
 01:15:46,088 --> 01:15:48,382
-- Don't give me that...
-- He sell me ideology.
+- Jangan beri aku itu...
+- Dia menjual saya ideologi.
 
 805
 01:15:48,549 --> 01:15:49,716
-- Stop with the politics.
-- All the while, bigger...
+- Berhenti dengan politik.
+- Sementara itu, lebih besar...
 
 806
 01:15:49,883 --> 01:15:52,678
-Shut up! You are an idiot.
+Diam! Idiot lu.
 
 807
 01:15:57,266 --> 01:15:58,767
-And you're a coward.
+Dan kamu pengecut.
 
 808
 01:16:01,186 --> 01:16:02,729
-You're a coward.
+Anda seorang pengecut.
 
 809
 01:16:02,896 --> 01:16:07,025
-And our family was never real,
-so there's nothing to hold on to.
+Dan keluarga kami tidak pernah nyata,
+jadi tidak ada yang perlu dipertahankan.
 
 810
 01:16:08,318 --> 01:16:09,820
-We're moving on.
+Kami melanjutkan.
 
 811
 01:16:09,987 --> 01:16:12,322
-Never family, huh?
+Tidak pernah keluarga, ya?
 
 812
 01:16:12,489 --> 01:16:15,158
-In my heart, I am simple man.
+Dalam hati saya, saya pria sederhana.
 
 813
 01:16:16,076 --> 01:16:19,329
-And I think that for a couple
-deep undercover Russian agents
+Dan saya pikir itu untuk pasangan
+agen Rusia yang menyamar secara mendalam
 
 814
 01:16:19,496 --> 01:16:21,540
-I think we did pretty great
-as parents, huh?
+Saya pikir kami melakukannya dengan sangat baik
+sebagai orang tua, ya?
 
 815
 01:16:21,832 --> 01:16:25,169
-Yes, we had our orders,
-and we played our roles to perfection.
+Ya, kami mendapat pesanan kami,
+dan kami memainkan peran kami dengan sempurna.
 
 816
 01:16:25,711 --> 01:16:28,005
-Who cares? That wasn't real.
+Siapa peduli? Itu tidak nyata.
 
 817
 01:16:28,297 --> 01:16:30,716
-- What?
-- That wasn't real. Who cares?
+- Apa?
+- Itu tidak nyata. Siapa peduli?
 
 818
 01:16:30,883 --> 01:16:32,634
-Don't say that.
+Jangan katakan itu.
 
 819
 01:16:33,177 --> 01:16:35,721
-Please don't say that.
-It was real.
+Tolong jangan katakan itu.
+Itu nyata.
 
 820
 01:16:36,471 --> 01:16:39,433
-It was real to me.
-You are my mother.
+Itu nyata bagi saya.
+Kamu adalah ibuku.
 
 821
 01:16:40,642 --> 01:16:42,352
-You were my real mother.
+Anda adalah ibu saya yang sebenarnya.
 
 822
 01:16:42,519 --> 01:16:45,147
-The closest thing I ever had to one.
+Hal terdekat yang pernah saya miliki untuk satu.
 
 823
 01:16:46,273 --> 01:16:49,109
-The best part of my life was fake.
+Bagian terbaik dari hidupku adalah palsu.
 
 824
 01:16:50,611 --> 01:16:52,946
-And none of you told me.
+Dan tidak ada dari kalian yang memberitahuku.
 
 825
 01:16:55,908 --> 01:16:58,035
-And those agents
+Dan agen-agen itu
 
 826
 01:16:58,118 --> 01:17:00,829
-you chemically subjugated
-around the globe?
+Anda secara kimiawi ditundukkan
+di seluruh dunia?
 
 827
 01:17:02,414 --> 01:17:04,458
-That was me.
+Itu aku.
 
 828
 01:17:06,752 --> 01:17:07,753
-Mmm.
+Mm.
 
 829
 01:17:10,714 --> 01:17:12,633
-And you, you got out.
+Dan Anda, Anda keluar.
 
 830
 01:17:12,799 --> 01:17:15,177
-Dreykov made sure no one could escape.
+Dreykov memastikan tidak ada yang bisa melarikan diri.
 
 831
 01:17:16,011 --> 01:17:18,055
-Are you gonna say anything?
+Apakah Anda akan mengatakan sesuatu?
 
 832
 01:17:21,600 --> 01:17:22,601
-No.
+Tidak.
 
 833
 01:17:24,061 --> 01:17:25,062
-Don't touch me.
+Jangan sentuh aku.
 
 834
 01:17:28,398 --> 01:17:29,399
@@ -3617,497 +3617,497 @@ Yelena.
 
 835
 01:17:29,775 --> 01:17:30,984
-No.
+Tidak.
 
 836
 01:17:34,821 --> 01:17:37,324
-- I had no idea.
-- It's okay, it's okay.
+- Aku tidak tahu.
+- Tidak apa-apa, tidak apa-apa.
 
 837
 01:17:37,491 --> 01:17:39,368
-I'll go talk to her.
+Aku akan pergi berbicara dengannya.
 
 838
 01:17:55,425 --> 01:17:57,928
-I came in here
-because I didn't want to talk.
+Saya datang ke sini
+karena aku tidak ingin berbicara.
 
 839
 01:17:59,638 --> 01:18:00,764
-Okay.
+Baik.
 
 840
 01:18:01,807 --> 01:18:03,934
-We, uh... We just sit.
+Kami, uh... Kami hanya duduk.
 
 841
 01:18:08,772 --> 01:18:10,274
-We just sit.
+Kami hanya duduk.
 
 842
 01:18:19,825 --> 01:18:20,993
-Where are you going?
+Kemana kamu pergi?
 
 843
 01:18:21,159 --> 01:18:23,495
-- To do this myself.
-- Don't. You won't survive.
+- Untuk melakukan ini sendiri.
+- Jangan. Anda tidak akan bertahan.
 
 844
 01:18:23,662 --> 01:18:25,998
-I wish I could believe that you cared.
+Saya berharap saya bisa percaya bahwa Anda peduli.
 
 845
 01:18:26,832 --> 01:18:29,001
-But you're not even the first mother
-that abandoned me.
+Tapi kamu bahkan bukan ibu pertama
+yang meninggalkanku.
 
 846
 01:18:29,168 --> 01:18:31,295
-No, you weren't abandoned.
+Tidak, Anda tidak ditinggalkan.
 
 847
 01:18:31,461 --> 01:18:33,422
-You were selected by a program
+Anda dipilih oleh sebuah program
 
 848
 01:18:33,505 --> 01:18:35,507
-that assessed
-the genetic potential in infants.
+yang menilai
+potensi genetik pada bayi.
 
 849
 01:18:45,642 --> 01:18:47,144
-I was taken?
+saya dibawa?
 
 850
 01:18:47,603 --> 01:18:51,064
-I believe a bargain was struck,
-your family paid off.
+Saya percaya ada tawar-menawar,
+keluarga Anda terbayar.
 
 851
 01:18:51,690 --> 01:18:54,109
-But your mother,
-she never stopped looking for you.
+Tapi ibumu,
+dia tidak pernah berhenti mencarimu.
 
 852
 01:18:54,276 --> 01:18:57,196
-She was like you in that way.
-She was
+Dia seperti Anda dalam hal itu.
+Dia
 
 853
 01:18:57,362 --> 01:18:58,906
-relentless.
+tanpa henti.
 
 854
 01:18:59,656 --> 01:19:01,283
-What happened to her?
+Apa yang terjadi dengannya?
 
 855
 01:19:02,993 --> 01:19:04,745
-Dreykov had her killed.
+Dreykov membunuhnya.
 
 856
 01:19:06,038 --> 01:19:08,874
-Her existence threatened
-to uncover the Red Room.
+Keberadaannya terancam
+untuk mengungkap Ruang Merah.
 
 857
 01:19:09,917 --> 01:19:12,336
-Normally, the actions
-of one curious civilian
+Biasanya, tindakan
+dari seorang warga sipil yang penasaran
 
 858
 01:19:12,419 --> 01:19:13,504
-wouldn't warrant an execution,
+tidak akan menjamin eksekusi,
 
 859
 01:19:13,670 --> 01:19:16,381
-but, as I said, she was relentless.
+tapi, seperti yang saya katakan, dia tanpa henti.
 
 860
 01:19:19,134 --> 01:19:21,970
-I thought about her every day of my life.
+Aku memikirkan dia setiap hari dalam hidupku.
 
 861
 01:19:26,558 --> 01:19:29,394
-Whether or not I admitted it to myself,
-I did.
+Apakah saya mengakuinya pada diri saya sendiri atau tidak,
+Aku melakukannya.
 
 862
 01:19:31,855 --> 01:19:34,233
-I've always found it best
-not to look into the past.
+Saya selalu menemukan yang terbaik
+untuk tidak melihat ke masa lalu.
 
 863
 01:19:45,369 --> 01:19:46,870
-Then why did you save this?
+Lalu mengapa Anda menyimpan ini?
 
 864
 01:20:04,805 --> 01:20:06,723
-I remember this day.
+Saya ingat hari ini.
 
 865
 01:20:06,890 --> 01:20:10,853
-We shot Christmas, Thanksgiving, Easter
-and summer vacation all in one day.
+Kami memotret Natal, Thanksgiving, Paskah
+dan liburan musim panas semua dalam satu hari.
 
 866
 01:20:11,478 --> 01:20:13,480
-- Different backdrops.
-- Mmm.
+- Latar belakang yang berbeda.
+- Mm.
 
 867
 01:20:14,940 --> 01:20:19,486
-I knew all the presents under the tree
-were just empty boxes, but I didn't care.
+Saya tahu semua hadiah di bawah pohon
+hanya kotak kosong, tapi aku tidak peduli.
 
 868
 01:20:19,653 --> 01:20:21,321
-I wanted to open every single one...
+Saya ingin membuka satu per satu...
 
 869
 01:20:24,741 --> 01:20:27,536
-so just for a second it would feel real.
+jadi hanya sesaat itu akan terasa nyata.
 
 870
 01:20:28,120 --> 01:20:29,496
-Let's stop this.
+Mari kita hentikan ini.
 
 871
 01:20:37,045 --> 01:20:38,547
-Why you doing this?
+Mengapa Anda melakukan ini?
 
 872
 01:20:39,756 --> 01:20:43,635
-Why does a mouse born in a cage
-run on that little wheel?
+Mengapa tikus lahir dalam sangkar
+berjalan di atas roda kecil itu?
 
 873
 01:20:43,802 --> 01:20:46,430
-Do you know I was cycled
-through the Red Room
+Apakah Anda tahu saya bersepeda?
+melalui Ruang Merah
 
 874
 01:20:46,513 --> 01:20:49,099
-four times before you were even born?
+empat kali bahkan sebelum Anda lahir?
 
 875
 01:20:49,266 --> 01:20:50,684
-Those walls are all I know.
+Hanya tembok itu yang aku tahu.
 
 876
 01:20:51,435 --> 01:20:53,687
-I was never given a choice.
+Saya tidak pernah diberi pilihan.
 
 877
 01:20:54,104 --> 01:20:56,398
-But you're not a mouse, Melina.
+Tapi kau bukan tikus, Melina.
 
 878
 01:20:58,901 --> 01:21:02,029
-You were just born in a cage,
-but that's not your fault.
+Anda baru saja lahir di dalam sangkar,
+tapi itu bukan salahmu.
 
 879
 01:21:06,074 --> 01:21:08,952
-Tell me, how did you keep your heart?
+Katakan padaku, bagaimana kamu menjaga hatimu?
 
 880
 01:21:14,917 --> 01:21:17,085
-Pain only makes us stronger.
+Rasa sakit hanya membuat kita lebih kuat.
 
 881
 01:21:18,086 --> 01:21:20,005
-Didn't you tell us that?
+Apakah Anda tidak memberitahu kami bahwa?
 
 882
 01:21:22,007 --> 01:21:24,426
-What you taught me kept me alive.
+Apa yang Anda ajarkan membuat saya tetap hidup.
 
 883
 01:21:28,138 --> 01:21:30,140
-I'm sorry, I already alerted the Red Room.
+Maaf, saya sudah memberi tahu Red Room.
 
 884
 01:21:30,307 --> 01:21:32,267
-They'll be here any minute.
+Mereka akan berada di sini sebentar lagi.
 
 885
 01:21:35,395 --> 01:21:39,733
-So, there I am
-ice fishing with my father.
+Jadi, inilah aku
+memancing es dengan ayahku.
 
 886
 01:21:40,734 --> 01:21:42,945
-It's very cold day
-in this little ice shed.
+Ini hari yang sangat dingin
+di gudang es kecil ini.
 
 887
 01:21:43,028 --> 01:21:44,404
-Cold even for Russia, you know?
+Dingin bahkan untuk Rusia, Anda tahu?
 
 888
 01:21:44,571 --> 01:21:47,324
-"Keep the vodka by the fire,"
-my father would say to me.
+"Simpan vodka di dekat api,"
+ayah saya akan berkata kepada saya.
 
 889
 01:21:47,491 --> 01:21:48,617
-Please stop talking.
+Tolong berhenti bicara.
 
 890
 01:21:48,700 --> 01:21:49,743
-- Please wait. Please wait.
-- Please, no.
+- Mohon tunggu. Mohon tunggu.
+- Kumohon tidak.
 
 891
 01:21:49,826 --> 01:21:50,827
-Please, I don't want to talk.
+Tolong, saya tidak ingin bicara.
 
 892
 01:21:50,911 --> 01:21:52,454
-Please. Please.
+Silahkan. Silahkan.
 
 893
 01:21:53,080 --> 01:21:55,791
-There is a reason why
-I'm telling you this, okay? Trust me.
+Ada alasan kenapa
+Aku memberitahumu ini, oke? Percayalah kepadaku.
 
 894
 01:21:56,166 --> 01:21:58,460
-I am reaching for fish.
+Saya meraih ikan.
 
 895
 01:21:59,962 --> 01:22:02,923
-Oh! I lose balance. Ah!
+Oh! Saya kehilangan keseimbangan. Ah!
 
 896
 01:22:03,006 --> 01:22:04,007
-Splash!
+Guyuran!
 
 897
 01:22:04,091 --> 01:22:06,009
-My hands go in the river.
+Tanganku masuk ke sungai.
 
 898
 01:22:06,093 --> 01:22:10,180
-In this weather,
-frostbite sets in quick.
+Dalam cuaca ini,
+radang dingin terjadi dengan cepat.
 
 899
 01:22:10,639 --> 01:22:14,351
-My father, he go toilet on my hands.
+Ayahku, dia pergi ke toilet di tanganku.
 
 900
 01:22:14,518 --> 01:22:15,644
-Oh, my God.
+Ya Tuhan.
 
 901
 01:22:15,811 --> 01:22:20,607
-Urine is 35 degrees Celsius,
-staves off the frostbite.
+Urine adalah 35 derajat Celcius,
+mencegah radang dingin.
 
 902
 01:22:20,774 --> 01:22:22,276
-How is this relevant?
+Bagaimana ini relevan?
 
 903
 01:22:23,068 --> 01:22:24,361
-You know,
+Kamu tahu,
 
 904
 01:22:24,862 --> 01:22:26,154
-fathers.
+ayah.
 
 905
-01:22:28,699 --> 01:22:31,285
-No. No.
+01:22:28.699 --> 01:22:31,285
+Tidak tidak.
 
 906
 01:22:31,952 --> 01:22:35,455
-You have done nothing
-but tell me how bored you were.
+Anda tidak melakukan apa-apa
+tapi katakan padaku betapa bosannya kamu.
 
 907
-01:22:35,831 --> 01:22:39,835
-I was the chore,
-the job you didn't want to do.
+01:22:35.831 --> 01:22:39,835
+Saya adalah tugas,
+pekerjaan yang tidak ingin Anda lakukan.
 
 908
 01:22:40,210 --> 01:22:41,503
-To me?
+Untuk saya?
 
 909
 01:22:42,546 --> 01:22:44,756
-To me, you were everything.
+Bagiku, kamu adalah segalanya.
 
 910
 01:22:47,426 --> 01:22:50,804
-Exactly. You don't care.
-You don't care.
+Persis. Anda tidak peduli.
+Anda tidak peduli.
 
 911
 01:22:51,305 --> 01:22:53,724
-The only thing you care about
-are your stupid glory days
+Satu-satunya hal yang kamu pedulikan
+adalah hari-hari kejayaanmu yang bodoh
 
 912
-01:22:53,891 --> 01:22:57,144
-as the Crimson Dynamo,
-and no one wants to hear about it.
+01:22:53.891 --> 01:22:57,144
+sebagai Dinamo Crimson,
+dan tidak ada yang mau mendengarnya.
 
 913
 01:23:03,775 --> 01:23:05,652
-It's the Red Guardian.
+Itu adalah Penjaga Merah.
 
 914
 01:23:05,819 --> 01:23:06,904
-Get out.
+Keluar.
 
 915
 01:23:07,279 --> 01:23:08,864
-Get out!
+Keluar!
 
 916
 01:23:18,373 --> 01:23:20,876
-I can't remember
+Saya tidak ingat
 
 917
 01:23:23,962 --> 01:23:25,881
-If I cried
+Jika aku menangis
 
 918
 01:23:28,091 --> 01:23:31,678
-When I read about his widowed bride
+Ketika saya membaca tentang pengantinnya yang janda
 
 919
 01:23:32,679 --> 01:23:36,934
-Something touched me deep inside
+Sesuatu menyentuhku jauh di lubuk hati
 
 920
 01:23:37,100 --> 01:23:38,268
-The day
+hari
 
 921
 01:23:39,686 --> 01:23:42,231
-The music
+Musik
 
 922
-01:23:42,940 --> 01:23:44,483
-Died
+01:23:42.940 --> 01:23:44,483
+Meninggal
 
 923
 01:23:45,150 --> 01:23:47,694
-And they were singing
+Dan mereka bernyanyi
 
 924
 01:23:48,779 --> 01:23:50,906
-- Bye
-- Bye
+- Sampai jumpa
+- Sampai jumpa
 
 925
 01:23:51,073 --> 01:23:53,659
 - Miss American Pie
-- American Pie
+- Pai Amerika
 
 926
 01:23:53,825 --> 01:23:56,745
-Drove my Chevy to the levee
+Mengendarai Chevy saya ke tanggul
 
 927
 01:23:56,912 --> 01:23:59,540
-- But the levee was dry
-- Was dry
+- Tapi tanggulnya kering
+- Apakah kering?
 
 928
 01:24:00,457 --> 01:24:02,459
-Them good old boys
+Mereka anak laki-laki tua yang baik
 
 929
 01:24:02,918 --> 01:24:04,962
-Drinking whiskey
+Minum wiski
 
 930
 01:24:06,588 --> 01:24:07,881
-Singing
+Nyanyian
 
 931
 01:24:08,340 --> 01:24:12,261
-"This will be the day that I die"
+"Ini akan menjadi hari dimana aku mati"
 
 932
 01:24:13,720 --> 01:24:15,472
-"This'll be the day..."
+"Ini akan menjadi hari ..."
 
 933
 01:24:35,367 --> 01:24:36,368
-Get down.
+Turun.
 
 934
 01:24:43,250 --> 01:24:45,210
-They think...
+Mereka pikir...
 
 935
 01:25:44,978 --> 01:25:46,438
-I'm sorry.
+Maafkan saya.
 
 936
 01:26:02,496 --> 01:26:04,540
-Let's not keep him waiting.
+Jangan biarkan dia menunggu.
 
 937
 01:26:30,899 --> 01:26:33,068
-Request clearance for landing.
+Minta izin untuk mendarat.
 
 938
 01:26:35,612 --> 01:26:36,655
 Melina?
 
 939
-01:26:41,535 --> 01:26:43,328
-We're touching down in one minute.
+01:26:41.535 --> 01:26:43,328
+Kami akan mendarat dalam satu menit.
 
 940
 01:26:43,495 --> 01:26:46,123
-Then why are we still going up?
+Lalu kenapa kita masih naik?
 
 941
 01:26:48,375 --> 01:26:51,795
-Now you'll know how Dreykov stayed
-above the radar all these years.
+Sekarang Anda akan tahu bagaimana Dreykov bertahan
+di atas radar selama ini.
 
 942
-01:28:11,458 --> 01:28:12,709
-My God.
+01:28:11.458 --> 01:28:12,709
+Tuhanku.
 
 943
 01:28:12,876 --> 01:28:14,419
-Look at you.
+Lihat kamu.
 
 944
 01:28:17,381 --> 01:28:18,382
-So, uh,
+Jadi, eh,
 
 945
 01:28:18,966 --> 01:28:20,592
-how was the family reunion?
+bagaimana reuni keluarga?
 
 946
 01:28:20,759 --> 01:28:22,636
-Oh, it was awful.
+Oh, itu mengerikan.
 
 947
 01:28:22,803 --> 01:28:23,887
-They were clingy,
+Mereka lengket,
 
 948
 01:28:23,971 --> 01:28:26,098
-and too emotional, and needy.
+dan terlalu emosional, dan membutuhkan.
 
 949
 01:28:26,265 --> 01:28:28,642
-- Just like old times, huh?
+- Sama seperti dulu, ya?
 - Hmm.
 
 950
@@ -4116,52 +4116,52 @@ Yelena Belova.
 
 951
 01:28:30,394 --> 01:28:32,104
-What's the deal with her?
+Ada apa dengannya?
 
 952
 01:28:32,271 --> 01:28:34,523
-She was the only one affected, right?
+Dia adalah satu-satunya yang terpengaruh, kan?
 
 953
 01:28:34,690 --> 01:28:36,233
-As far as I know, yes.
+Sejauh yang saya tahu, ya.
 
 954
 01:28:36,817 --> 01:28:39,361
-These gasses and antidotes,
+Gas-gas dan penangkal ini,
 
 955
 01:28:39,987 --> 01:28:42,614
-it's a pain in my ass.
+itu sakit di pantatku.
 
 956
 01:28:43,824 --> 01:28:46,159
-It's a problem. You need to sort it.
+Ini masalah. Anda perlu mengurutkannya.
 
 957
 01:28:46,243 --> 01:28:47,578
-Hmm. I have nine pigs
+Hmm. Saya punya sembilan babi
 
 958
 01:28:47,661 --> 01:28:48,662
-that will require attending to
-in my absence.
+yang akan membutuhkan perhatian
+dalam ketidakhadiran saya.
 
 959
 01:28:48,829 --> 01:28:52,040
-Don't give a shit about your pigs.
+Jangan pedulikan babimu.
 
 960
-01:28:58,255 --> 01:28:59,506
-Cut her brain out...
+01:28:58,255 --> 01:28:59.506
+Potong otaknya...
 
 961
 01:29:00,424 --> 01:29:03,010
-Hmm? Identify the weakness.
+Hmm? Identifikasi kelemahannya.
 
 962
 01:29:12,561 --> 01:29:15,105
-This is a much less cool way to die.
+Ini adalah cara yang jauh lebih keren untuk mati.
 
 963
 01:29:24,072 --> 01:29:25,490
@@ -4169,312 +4169,312 @@ Alexei.
 
 964
 01:29:34,458 --> 01:29:36,001
-What about Romanoff?
+Bagaimana dengan Romanoff?
 
 965
 01:29:36,168 --> 01:29:37,461
-She's a traitor.
+Dia pengkhianat.
 
 966
 01:29:38,337 --> 01:29:42,424
-She turned her back on her people.
-On her blood.
+Dia membelakangi orang-orangnya.
+Pada darahnya.
 
 967
 01:29:43,425 --> 01:29:45,344
-She had nothing.
+Dia tidak punya apa-apa.
 
 968
 01:29:45,511 --> 01:29:49,306
-I gave her home.
-I gave her love.
+Aku memberinya rumah.
+Aku memberinya cinta.
 
 969
 01:29:49,806 --> 01:29:52,100
-Put that thing in her you do.
+Masukkan hal itu ke dalam dirinya yang Anda lakukan.
 
 970
 01:29:52,267 --> 01:29:54,353
-You know, uh, chemicals.
+Anda tahu, eh, bahan kimia.
 
 971
 01:29:55,395 --> 01:29:58,524
-Turn her into one of your pigs.
+Ubah dia menjadi salah satu babimu.
 
 972
 01:29:59,107 --> 01:30:03,654
-Can you imagine what I could do
-with an Avenger under my control?
+Bisakah Anda bayangkan apa yang bisa saya lakukan?
+dengan Avenger di bawah kendali saya?
 
 973
 01:30:03,820 --> 01:30:06,281
-Wouldn't you like to speak to her first?
+Tidakkah kamu ingin berbicara dengannya terlebih dahulu?
 
 974
 01:30:06,448 --> 01:30:09,868
-When you look into the eyes
-of a child you have raised,
+Ketika Anda melihat ke dalam mata
+dari seorang anak yang telah Anda besarkan,
 
 975
 01:30:10,369 --> 01:30:13,413
-no mask in the world can hide that.
+tidak ada topeng di dunia ini yang bisa menyembunyikannya.
 
 976
 01:30:27,302 --> 01:30:28,470
-Welcome home.
+Selamat Datang di rumah.
 
 977
 01:30:30,472 --> 01:30:32,140
-Now, now.
+Sekarang, sekarang.
 
 978
 01:30:33,433 --> 01:30:35,602
-Don't go breaking my new toy.
+Jangan merusak mainan baruku.
 
 979
 01:30:37,479 --> 01:30:38,772
 Natasha.
 
 980
-01:30:41,066 --> 01:30:42,943
-I can't save us.
+01:30:41.066 --> 01:30:42.943
+Aku tidak bisa menyelamatkan kita.
 
 981
-01:30:43,861 --> 01:30:45,737
-I need you to know that I'm sorry.
+01:30:43.861 --> 01:30:45.737
+Aku ingin kau tahu bahwa aku minta maaf.
 
 982
 01:30:45,904 --> 01:30:47,781
-I pledged my life to a cause.
+Saya menjanjikan hidup saya untuk suatu tujuan.
 
 983
 01:30:47,948 --> 01:30:50,284
-You know, I thought
-I was being very brave.
+Anda tahu, saya pikir
+Aku menjadi sangat berani.
 
 984
 01:30:50,450 --> 01:30:51,577
-Possibly the bravest.
+Mungkin yang paling berani.
 
 985
 01:30:51,743 --> 01:30:54,246
-But I wasn't being brave.
+Tapi aku tidak berani.
 
 986
-01:30:54,413 --> 01:30:55,956
-I was coward.
+01:30:54.413 --> 01:30:55.956
+Aku pengecut.
 
 987
 01:31:01,837 --> 01:31:03,213
-In Cuba,
+Di Kuba,
 
 988
 01:31:04,756 --> 01:31:07,050
-when they came
-and took you away from me...
+ketika mereka datang
+dan membawamu pergi dariku...
 
 989
 01:31:08,385 --> 01:31:10,929
-No cause is worth that.
+Tidak ada alasan yang layak untuk itu.
 
 990
 01:31:13,390 --> 01:31:15,851
-You should only sacrifice yourself
+Anda hanya harus mengorbankan diri sendiri
 
 991
 01:31:16,727 --> 01:31:18,270
-for something...
+untuk sesuatu...
 
 992
 01:31:26,111 --> 01:31:27,988
-How did you do that?
+Bagaimana Anda melakukannya?
 
 993
 01:31:28,780 --> 01:31:31,033
-I designed these cells myself.
+Saya merancang sel-sel ini sendiri.
 
 994
 01:31:34,203 --> 01:31:35,412
-What?
+Apa?
 
 995
 01:31:37,247 --> 01:31:38,248
-What?
+Apa?
 
 996
 01:31:38,749 --> 01:31:42,127
-I bared my soul to you
-and it was just you the whole time?
+Aku memamerkan jiwaku padamu
+dan selama ini hanya kamu?
 
 997
 01:31:42,294 --> 01:31:45,881
-Yes, I'm afraid so.
-But wait, shh, I'm on comms with Yelena.
+Ya, aku takut begitu.
+Tapi tunggu, sst, aku sedang berkomunikasi dengan Yelena.
 
 998
 01:31:46,465 --> 01:31:49,051
-Yelena, it's me. It's Mama.
+Yelena, ini aku. Ini Mama.
 
 999
 01:31:49,218 --> 01:31:52,179
-You have a two-inch blade
-concealed in your beltline.
+Anda memiliki pisau dua inci
+tersembunyi di garis ikat pinggang Anda.
 
 1000
 01:31:52,346 --> 01:31:53,347
-What?
+Apa?
 
 1001
 01:31:56,517 --> 01:31:58,519
-What are you going to do to me?
+Apa yang akan kamu lakukan padaku?
 
 1002
 01:31:59,853 --> 01:32:00,854
-Outside right hip.
+Pinggul kanan luar.
 
 1003
 01:32:28,549 --> 01:32:30,217
-You couldn't have told me sooner?
+Anda tidak bisa memberitahu saya lebih cepat?
 
 1004
 01:32:30,300 --> 01:32:31,385
-Don't throw a fit.
+Jangan marah.
 
 1005
 01:32:31,552 --> 01:32:32,845
-- There wasn't time.
-- Okay, girls,
+- Tidak ada waktu.
+- Oke, gadis-gadis,
 
 1006
 01:32:32,928 --> 01:32:34,179
-I'm having trouble hearing you,
+Aku kesulitan mendengarmu,
 
 1007
 01:32:34,263 --> 01:32:37,140
-but, Natasha,
-there's something I need you to know.
+tapi, Natasya,
+ada sesuatu yang aku ingin kau tahu.
 
 1008
 01:32:37,558 --> 01:32:41,979
-I need you to know that I'm sorry.
-No more excuses, okay?
+Aku ingin kau tahu bahwa aku minta maaf.
+Tidak ada alasan lagi, oke?
 
 1009
 01:32:42,646 --> 01:32:45,566
-I gave my life for a cause.
-I thought I was being brave.
+Saya memberikan hidup saya untuk suatu tujuan.
+Saya pikir saya berani.
 
 1010
 01:32:45,732 --> 01:32:47,776
-You don't have earpiece.
+Anda tidak memiliki lubang suara.
 
 1011
 01:32:48,485 --> 01:32:49,486
-What?
+Apa?
 
 1012
 01:32:49,653 --> 01:32:50,779
-No, she can't hear you.
+Tidak, dia tidak bisa mendengarmu.
 
 1013
 01:32:50,946 --> 01:32:52,364
-- You don't have earpiece.
-- Why not?
+- Anda tidak memiliki lubang suara.
+- Kenapa tidak?
 
 1014
-01:32:52,531 --> 01:32:53,824
-Because it wasn't part of the plan.
+01:32:52,531 --> 01:32:53.824
+Karena itu bukan bagian dari rencana.
 
 1015
 01:32:53,991 --> 01:32:55,534
-Oh, yeah?
-Well, what was the plan?
+Oh ya?
+Nah, apa rencananya?
 
 1016
 01:32:56,243 --> 01:32:57,327
-So, once we're inside,
+Jadi, begitu kita berada di dalam,
 
 1017
 01:32:57,411 --> 01:32:58,996
-I'll activate my tracker
-and Ross will come running.
+Saya akan mengaktifkan pelacak saya
+dan Ross akan berlari.
 
 1018
 01:32:59,496 --> 01:33:02,666
-You are aware that
-you are still a global fugitive, yes?
+Anda sadar bahwa
+kamu masih buronan dunia ya?
 
 1019
 01:33:03,250 --> 01:33:05,627
-You know the facility.
-There must be some way to land it.
+Anda tahu fasilitasnya.
+Pasti ada cara untuk mendaratkannya.
 
 1020
 01:33:06,795 --> 01:33:10,090
-Instruct them to confine us on level zero.
+Perintahkan mereka untuk membatasi kita di level nol.
 
 1021
 01:33:10,257 --> 01:33:12,926
-Once I'm out,
-I can activate the landing protocol,
+Begitu aku keluar,
+Saya dapat mengaktifkan protokol pendaratan,
 
 1022
-01:33:13,093 --> 01:33:14,511
-we can descend within the hour.
+01:33:13,093 --> 01:33:14.511
+kita bisa turun dalam waktu satu jam.
 
 1023
 01:33:14,595 --> 01:33:16,263
-Ah, problem.
+Ah, masalah.
 
 1024
 01:33:16,430 --> 01:33:19,016
-I only have one earpiece set.
+Saya hanya memiliki satu set lubang suara.
 
 1025
 01:33:19,808 --> 01:33:20,934
-I'll give it to Yelena.
+Aku akan memberikannya pada Yelena.
 
 1026
 01:33:21,602 --> 01:33:22,686
-Where did he take the vials?
+Di mana dia mengambil botol?
 
 1027
 01:33:22,853 --> 01:33:24,771
-Probably down to cold storage.
+Mungkin ke penyimpanan dingin.
 
 1028
 01:33:24,938 --> 01:33:27,274
-Dreykov still has the widows
-under his control,
+Dreykov masih memiliki janda
+di bawah kendalinya,
 
 1029
 01:33:27,441 --> 01:33:30,027
-so you have to expose them
-to this antidote.
+jadi kamu harus mengeksposnya
+untuk penawar ini.
 
 1030
 01:33:30,444 --> 01:33:33,405
-Yeah. Sure. Easy.
+Ya. Tentu. Mudah.
 
 1031
 01:33:34,823 --> 01:33:35,908
-Is this your plan?
+Apakah ini rencanamu?
 
 1032
 01:33:36,366 --> 01:33:37,701
-My plan is to kill you.
+Rencanaku adalah membunuhmu.
 
 1033
 01:33:37,868 --> 01:33:39,286
-I'm alive.
+Aku hidup.
 
 1034
 01:33:40,370 --> 01:33:42,122
-So, what do we do now?
+Jadi apa yang kita lakukan sekarang?
 
 1035
 01:33:43,415 --> 01:33:45,501
-What was my mother's name?
+Siapa nama ibuku?
 
 1036
 01:33:49,087 --> 01:33:50,172
@@ -4482,35 +4482,35 @@ Ah...
 
 1037
 01:33:51,215 --> 01:33:53,342
-Where we buried her,
+Di mana kami menguburnya,
 
 1038
 01:33:53,967 --> 01:33:55,844
-there was a tree...
+ada pohon...
 
 1039
 01:33:56,470 --> 01:33:57,888
-Um...
+um...
 
 1040
 01:33:58,305 --> 01:33:59,848
-A pink blossom.
+Bunga merah muda.
 
 1041
 01:34:00,265 --> 01:34:01,725
-Beautiful.
+Cantik.
 
 1042
 01:34:01,892 --> 01:34:03,644
-And there was a tombstone
+Dan ada batu nisan
 
 1043
 01:34:03,810 --> 01:34:06,438
-with her name engraved on it.
+dengan namanya terukir di atasnya.
 
 1044
 01:34:07,231 --> 01:34:08,732
-What was her name?
+Siapa namanya?
 
 1045
 01:34:08,815 --> 01:34:10,317
@@ -4518,152 +4518,152 @@ Ah.
 
 1046
 01:34:12,653 --> 01:34:16,031
-"Unknown."
+"Tidak diketahui."
 
 1047
 01:34:18,075 --> 01:34:20,369
-You don't feel anything?
+Anda tidak merasakan apa-apa?
 
 1048
 01:34:21,620 --> 01:34:23,914
-You feel anything
-when I killed your daughter?
+Anda merasakan apa-apa
+ketika aku membunuh putrimu?
 
 1049
 01:34:24,081 --> 01:34:27,334
-Is this your haunted past?
+Apakah ini masa lalumu yang angker?
 
 1050
 01:34:29,419 --> 01:34:31,421
-Really?
+Betulkah?
 
 1051
 01:34:40,973 --> 01:34:43,642
-Thank you, Natasha.
+Terima kasih, Natasha.
 
 1052
 01:34:47,896 --> 01:34:50,482
-You gave me my greatest weapon.
+Anda memberi saya senjata terhebat saya.
 
 1053
 01:34:54,236 --> 01:34:55,320
-Say hello.
+Katakan halo.
 
 1054
 01:35:10,544 --> 01:35:13,005
-When your bomb exploded,
+Saat bommu meledak,
 
 1055
 01:35:13,172 --> 01:35:15,716
-it nearly killed my Antonia.
+itu hampir membunuh Antonia saya.
 
 1056
 01:35:19,469 --> 01:35:23,307
-I had to put a chip
-in the back of her neck.
+Saya harus meletakkan chip
+di belakang lehernya.
 
 1057
 01:35:23,473 --> 01:35:25,809
-In the back of her neck.
+Di belakang lehernya.
 
 1058
 01:35:26,226 --> 01:35:28,187
-Look at her.
+Lihat wanita itu.
 
 1059
 01:35:28,687 --> 01:35:30,898
-You find it difficult to look at her?
+Anda merasa sulit untuk melihatnya?
 
 1060
 01:35:31,815 --> 01:35:33,150
-I do.
+saya lakukan.
 
 1061
 01:35:34,026 --> 01:35:36,653
-She... She watches everything
+Dia... Dia melihat semuanya
 
 1062
 01:35:37,529 --> 01:35:38,739
-and she can do it.
+dan dia bisa melakukannya.
 
 1063
 01:35:39,281 --> 01:35:41,325
-She's a perfect mimic.
+Dia peniru yang sempurna.
 
 1064
 01:35:43,410 --> 01:35:46,246
-And she fights
-just like all of your friends.
+Dan dia bertarung
+sama seperti semua temanmu.
 
 1065
 01:35:50,918 --> 01:35:52,503
-Can she hear me?
+Bisakah dia mendengarku?
 
 1066
 01:35:55,881 --> 01:35:57,090
-What?
+Apa?
 
 1067
 01:35:59,176 --> 01:36:01,303
-You want to make her feel better?
+Anda ingin membuatnya merasa lebih baik?
 
 1068
 01:36:03,263 --> 01:36:05,933
-You want to tell her you're sorry?
+Anda ingin mengatakan padanya bahwa Anda menyesal?
 
 1069
 01:36:07,267 --> 01:36:11,146
-Well, you should have thought of that
-before you blew her face off.
+Yah, kamu seharusnya memikirkan itu
+sebelum Anda meniup wajahnya.
 
 1070
 01:36:13,148 --> 01:36:15,692
-But enough of all this bullshit.
+Tapi cukup dari semua omong kosong ini.
 
 1071
 01:36:17,027 --> 01:36:18,153
-Go to work.
+Pergi bekerja.
 
 1072
 01:36:18,320 --> 01:36:20,364
-I have rats in the basement. Go.
+Saya punya tikus di ruang bawah tanah. Pergilah.
 
 1073
 01:36:22,908 --> 01:36:24,159
-Go.
+Pergilah.
 
 1074
 01:36:35,754 --> 01:36:37,339
-Well, that was a mistake.
+Yah, itu sebuah kesalahan.
 
 1075
 01:36:38,006 --> 01:36:39,091
-Was it?
+Apakah itu?
 
 1076
 01:36:39,591 --> 01:36:42,636
-You just sent away the one thing
-that would stop me from killing you.
+Anda baru saja mengirim satu hal
+yang akan menghentikan saya dari membunuh Anda.
 
 1077
 01:36:44,388 --> 01:36:45,389
-Try, then.
+Coba, lalu.
 
 1078
 01:36:45,556 --> 01:36:46,765
-Do it.
+Lakukan.
 
 1079
 01:36:51,562 --> 01:36:53,063
-Is the safety on?
+Apakah pengamannya menyala?
 
 1080
 01:36:58,151 --> 01:36:59,152
-No.
+Tidak.
 
 1081
 01:37:02,990 --> 01:37:04,825
-Try your knife.
+Coba pisaumu.
 
 1082
 01:37:05,701 --> 01:37:06,785
@@ -4671,80 +4671,80 @@ Ah...
 
 1083
 01:37:13,792 --> 01:37:14,877
-You're in trouble.
+Kamu dalam masalah.
 
 1084
 01:37:15,043 --> 01:37:16,378
-How are you controlling me?
+Bagaimana Anda mengendalikan saya?
 
 1085
 01:37:16,545 --> 01:37:18,589
-I'm not controlling you, Natasha.
+Aku tidak mengendalikanmu, Natasha.
 
 1086
 01:37:19,256 --> 01:37:20,632
-Well, not yet.
+Yah, belum.
 
 1087
 01:37:21,258 --> 01:37:23,427
-But there is a pheromonal lock.
+Tapi ada kunci feromonal.
 
 1088
 01:37:23,760 --> 01:37:28,182
-Smelling my pheromones prevents you
-from committing violence against me.
+Mencium feromon saya mencegah Anda
+dari melakukan kekerasan terhadap saya.
 
 1089
 01:37:32,728 --> 01:37:35,397
-I'm very upset with Melina.
+Saya sangat kesal dengan Melina.
 
 1090
 01:37:35,564 --> 01:37:37,441
-It's a shame I have to kill her.
+Sayang sekali aku harus membunuhnya.
 
 1091
 01:37:38,150 --> 01:37:39,776
-Come on, now.
-If we're just going to
+Ayo sekarang.
+Jika kita hanya akan
 
 1092
 01:37:39,860 --> 01:37:41,695
-press buttons and hack computers...
+tekan tombol dan retas komputer...
 
 1093
 01:37:41,862 --> 01:37:42,863
-- Yes.
-- I mean, I don't know.
+- Iya.
+- Maksudku, aku tidak tahu.
 
 1094
 01:37:42,946 --> 01:37:43,947
-There's nothing for me to do.
+Tidak ada yang bisa saya lakukan.
 
 1095
 01:37:44,072 --> 01:37:46,867
-I want to...
-I want to break something.
+Aku ingin...
+Saya ingin memecahkan sesuatu.
 
 1096
 01:37:46,950 --> 01:37:47,951
-Oh, you do?
+Oh, Anda tahu?
 
 1097
 01:37:49,703 --> 01:37:52,331
-Oh, there is something you can break.
+Oh, ada sesuatu yang bisa kau pecahkan.
 
 1098
 01:38:06,220 --> 01:38:09,932
-Melina, if this is
-the last time that we...
+Melina, jika ini
+terakhir kali kita...
 
 1099
 01:38:12,017 --> 01:38:13,769
-Ah, damn it.
+Ah, sialan.
 
 1100
 01:38:26,615 --> 01:38:28,575
-That was disgusting.
+Itu menjijikkan.
 
 1101
 01:38:41,964 --> 01:38:43,131
