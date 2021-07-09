@@ -3304,7 +3304,7 @@ Masuk.
 Apakah babi itu baru saja membuka pintu?
 
 764
-01:13:51,682 --> 01:13:53.767
+01:13:51,682 --> 01:13:53,767
 Iya. Itu benar.
 
 765
