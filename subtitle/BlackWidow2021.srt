@@ -4382,7 +4382,7 @@ Tidak, dia tidak bisa mendengarmu.
 - Kenapa tidak?
 
 1014
-01:32:52,531 --> 01:32:53.824
+01:32:52,531 --> 01:32:53,824
 Karena itu bukan bagian dari rencana.
 
 1015
