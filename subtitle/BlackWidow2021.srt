@@ -775,8 +775,8 @@ sebelum aku bertemu denganmu, Ross.
 
 181
 00:17:56,285 --> 00:17:58,871
-You shouldn't have gone
-to all this trouble. I'm done.
+Anda seharusnya tidak pergi
+untuk semua masalah ini. Saya selesai.
 
 182
 00:18:00,497 --> 00:18:01,540
@@ -784,39 +784,39 @@ Romanoff?
 
 183
 00:18:27,441 --> 00:18:29,526
-Got an empty nest,
-Secretary Ross.
+Punya sarang kosong,
+Sekretaris Ross.
 
 184
 00:18:29,693 --> 00:18:31,653
-Her tracker, sir.
+Pelacaknya, Pak.
 
 185
 00:18:51,548 --> 00:18:53,383
-Eyes on target.
-Waiting for the package.
+Mata tepat sasaran.
+Di tunggu paketnya.
 
 186
 00:18:55,344 --> 00:18:57,888
-I have sights on collateral one.
+Saya memiliki pemandangan pada agunan satu.
 
 187
 00:19:02,059 --> 00:19:03,352
-Firing in place of three.
+Menembak di tempat tiga.
 
 188
 00:19:04,144 --> 00:19:05,145
-Five, four...
+Lima, empat...
 
 189
 00:19:07,397 --> 00:19:09,233
-She made us.
-Target deployed smoke.
+Dia membuat kita.
+Targetkan asap yang disebarkan.
 
 190
 00:19:09,399 --> 00:19:11,944
-She's on foot with the package.
-Stay high. I'm going to ground.
+Dia berjalan kaki dengan paket.
+Tetap tinggi. Aku akan ke tanah.
 
 191
 00:20:26,685 --> 00:20:28,270
@@ -824,64 +824,64 @@ Oksana.
 
 192
 00:20:30,731 --> 00:20:31,732
-Oh, no.
+Oh tidak.
 
 193
-00:20:32,441 --> 00:20:33,692
-What did I do?
+00:20:32.441 --> 00:20:33.692
+Apa yang saya lakukan?
 
 194
 00:20:34,151 --> 00:20:35,652
-Free the others.
+Bebaskan yang lain.
 
 195
 00:20:45,078 --> 00:20:47,247
-Yelena, we need a status report.
+Yelena, kita perlu laporan status.
 
 196
-00:20:51,126 --> 00:20:53,629
+00:20:51.126 --> 00:20:53,6293,6
 Yelena,
-we need a status report.
+kami membutuhkan laporan status.
 
 197
 00:21:00,761 --> 00:21:02,804
-Converge on team leader.
+Konvergen pada pemimpin tim.
 
 198
 00:21:07,351 --> 00:21:10,062
-General Dreykov,
-we have a deserter.
+Jenderal Dreykov,
+kami memiliki pembelot.
 
 199
 00:21:10,562 --> 00:21:13,649
-Permission to activate
-Taskmaster Protocol?
+Izin untuk mengaktifkan
+Protokol Kepala Tugas?
 
 200
 00:21:37,714 --> 00:21:38,966
-Smile.
+Tersenyum.
 
 201
 00:22:52,956 --> 00:22:54,666
-You're in my bed.
+Anda berada di tempat tidur saya.
 
 202
 00:22:54,750 --> 00:22:56,793
-I'm... I'm not even under the covers.
+Aku... Aku bahkan tidak bersembunyi.
 
 203
 00:22:56,960 --> 00:22:58,086
-Did you get everything on my list?
+Apakah Anda mendapatkan semua yang ada di daftar saya?
 
 204
 00:22:58,253 --> 00:23:03,467
-Got passports, entry visas,
-a couple of local driver's licenses.
+Punya paspor, visa masuk,
+beberapa SIM lokal.
 
 205
 00:23:03,842 --> 00:23:07,054
-Mix and match, you should be able to
-stretch it to 20 or so identities.
+Padu padan, Anda harus bisa
+meregangkannya menjadi 20 atau lebih identitas.
 
 206
 00:23:07,804 --> 00:23:08,847
@@ -889,103 +889,103 @@ Fanny Longbottom?
 
 207
 00:23:09,014 --> 00:23:10,807
-- What?
-- What, are you 12?
+- Apa?
+- Apa, kamu 12?
 
 208
 00:23:10,974 --> 00:23:14,561
-That is a legitimate name.
+Itu adalah nama yang sah.
 
 209
 00:23:14,645 --> 00:23:17,022
-We've got a generator outside.
+Kami punya generator di luar.
 
 210
 00:23:17,189 --> 00:23:20,150
-It's petrol-powered. And the septic tank
-will need a flush in a couple of weeks,
+Ini bertenaga bensin. Dan tangki septik
+akan membutuhkan pembilasan dalam beberapa minggu,
 
 211
 00:23:20,317 --> 00:23:21,985
-but, you know,
-I've got a guy coming for that.
+tapi kau tahu,
+Aku punya seorang pria datang untuk itu.
 
 212
 00:23:22,152 --> 00:23:25,072
-You have to haul your rubbish into town.
-It's just a 20-minute drive.
+Anda harus mengangkut sampah Anda ke kota.
+Ini hanya 20 menit berkendara.
 
 213
 00:23:25,239 --> 00:23:28,283
-I've got your basic hardware kit
-stashed under the stairs.
+Saya memiliki perangkat keras dasar Anda
+disembunyikan di bawah tangga.
 
 214
 00:23:28,825 --> 00:23:29,952
-Nice.
+Bagus.
 
 215
 00:23:30,577 --> 00:23:31,870
-Are you okay?
+Apakah kamu baik-baik saja?
 
 216
 00:23:32,162 --> 00:23:33,163
-Why wouldn't I be?
+Mengapa saya tidak?
 
 217
 00:23:33,330 --> 00:23:36,250
-I hear things. You know, something
-about the Avengers getting divorced...
+Saya mendengar hal-hal. Anda tahu sesuatu
+tentang Avengers yang bercerai...
 
 218
 00:23:36,333 --> 00:23:38,544
-Ugh. It's fine.
+Ugh. Tidak apa-apa.
 
 219
 00:23:39,127 --> 00:23:40,254
-I'm actually better on my own.
+Aku sebenarnya lebih baik sendiri.
 
 220
 00:23:40,420 --> 00:23:41,421
-Are you sure?
+Apakah Anda yakin?
 
 221
 00:23:42,172 --> 00:23:43,173
-Yeah.
+Ya.
 
 222
 00:23:43,590 --> 00:23:44,883
-Because you can tell me, you know.
+Karena Anda bisa memberi tahu saya, Anda tahu.
 
 223
 00:23:45,050 --> 00:23:46,718
-That's the way
-the whole friends thing works.
+Itu caranya
+semua teman bekerja.
 
 224
 00:23:46,885 --> 00:23:49,721
-I know. I have friends.
+Aku tahu. Saya punya teman.
 
 225
 00:23:50,389 --> 00:23:52,766
-People who have friends don't call me.
+Orang yang punya teman tidak menelepon saya.
 
 226
 00:23:58,981 --> 00:24:00,899
-And I don't pay you to worry.
+Dan saya tidak membayar Anda untuk khawatir.
 
 227
 00:24:16,206 --> 00:24:17,332
-Oh, hey.
+Oh, hei.
 
 228
 00:24:18,584 --> 00:24:19,626
-What's all this junk?
+Apa semua sampah ini?
 
 229
 00:24:20,210 --> 00:24:22,880
-Oh, just some mail and personals
-from the Budapest safe house.
+Oh, hanya beberapa surat dan personal
+dari rumah persembunyian Budapest.
 
 230
 00:24:23,797 --> 00:24:24,798
@@ -993,11 +993,11 @@ Budapest?
 
 231
 00:24:24,965 --> 00:24:26,967
-Yeah. Budapest.
+Ya. Budapest.
 
 232
 00:24:27,134 --> 00:24:29,303
-- No, it's "Budapest."
+- Tidak, ini "Budapest."
 - Budapest.
 
 233
@@ -1006,36 +1006,36 @@ Budapest.
 
 234
 00:24:30,721 --> 00:24:32,806
-- It's "Budapest."
-- Whatever.
+- Ini "Budapest."
+- Masa bodo.
 
 235
 00:24:32,973 --> 00:24:36,185
-I knew you weren't going back there,
-so I've got someone else in the flat now.
+Aku tahu kau tidak akan kembali ke sana,
+jadi saya punya orang lain di flat sekarang.
 
 236
 00:24:36,351 --> 00:24:38,645
-Sorry you went through the trouble.
-I would've told you to chuck it.
+Maaf Anda mengalami kesulitan.
+Aku akan memberitahumu untuk membuangnya.
 
 237
 00:24:38,812 --> 00:24:40,939
-Well, if you don't want it,
-throw it in the rubbish.
+Nah, jika Anda tidak menginginkannya,
+membuangnya ke tempat sampah.
 
 238
 00:25:07,049 --> 00:25:08,467
-You're not
-a sportsman, Mr. Bond.
+Kamu bukan
+seorang olahragawan, Tn. Bond.
 
 239
 00:25:08,634 --> 00:25:10,344
-Why did you break up the encounter
+Mengapa Anda memutuskan pertemuan itu?
 
 240
 00:25:10,427 --> 00:25:11,512
-with my pet python?
+dengan python peliharaan saya?
 
 241
 00:25:11,595 --> 00:25:14,139
