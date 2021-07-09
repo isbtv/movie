@@ -492,7 +492,7 @@ Jangan pernah biarkan mereka mengambil hatimu.
 Apakah kamu mengerti?
 
 115
-00:11:12,381 --> 00:11:14.591
+00:11:12,381 --> 00:11:14,591
 Dan Institut Utara?
 
 116
@@ -576,7 +576,7 @@ Dia baru enam tahun.
 Anda bahkan lebih muda.
 
 135
-00:12:10,981 --> 00:12:12.024
+00:12:10,981 --> 00:12:12,024
 Tidak masalah.
 
 136
